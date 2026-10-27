@@ -1,0 +1,779 @@
+path,label,fold,prediction
+Non Augmented/Centella Asiatica/Test/augmented_0_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_10_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_11_0.jpg,Centella Asiatica,2,Terminalia Arjuna
+Non Augmented/Centella Asiatica/Test/augmented_12_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_13_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_14_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_15_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_16_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_18_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_19_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_1_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_2_0.jpg,Centella Asiatica,0,Terminalia Arjuna
+Non Augmented/Centella Asiatica/Test/augmented_3_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_4_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_5_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_8_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_100_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_101_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_102_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_104_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_105_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_106_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_107_0.jpg,Centella Asiatica,1,Terminalia Arjuna
+Non Augmented/Centella Asiatica/Train/augmented_108_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_109_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_110_0.jpg,Centella Asiatica,2,Kalanchoe Pinnata
+Non Augmented/Centella Asiatica/Train/augmented_111_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_112_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_113_0.jpg,Centella Asiatica,1,Terminalia Arjuna
+Non Augmented/Centella Asiatica/Train/augmented_115_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_116_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_117_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_119_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_121_0.jpg,Centella Asiatica,0,Justicia Adhatoda
+Non Augmented/Centella Asiatica/Train/augmented_122_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_125_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_127_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_128_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_129_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_130_0.jpg,Centella Asiatica,2,Terminalia Arjuna
+Non Augmented/Centella Asiatica/Train/augmented_131_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_133_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_134_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_136_0.jpg,Centella Asiatica,2,Mikania Micrantha
+Non Augmented/Centella Asiatica/Train/augmented_137_0.jpg,Centella Asiatica,1,Terminalia Arjuna
+Non Augmented/Centella Asiatica/Train/augmented_138_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_139_0.jpg,Centella Asiatica,2,Mikania Micrantha
+Non Augmented/Centella Asiatica/Train/augmented_140_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_141_0.jpg,Centella Asiatica,0,Mikania Micrantha
+Non Augmented/Centella Asiatica/Train/augmented_142_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_143_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_145_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_146_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_148_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_149_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_150_0.jpg,Centella Asiatica,1,Mikania Micrantha
+Non Augmented/Centella Asiatica/Train/augmented_151_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_152_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_153_0.jpg,Centella Asiatica,0,Terminalia Arjuna
+Non Augmented/Centella Asiatica/Train/augmented_154_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_155_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_156_0.jpg,Centella Asiatica,0,Mikania Micrantha
+Non Augmented/Centella Asiatica/Train/augmented_157_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_158_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_160_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_161_0.jpg,Centella Asiatica,0,Mikania Micrantha
+Non Augmented/Centella Asiatica/Train/augmented_162_0.jpg,Centella Asiatica,1,Kalanchoe Pinnata
+Non Augmented/Centella Asiatica/Train/augmented_163_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_168_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_170_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_172_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_179_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_180_0.jpg,Centella Asiatica,2,Phyllanthus Emblica
+Non Augmented/Centella Asiatica/Train/augmented_183_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_187_0.jpg,Centella Asiatica,1,Terminalia Arjuna
+Non Augmented/Centella Asiatica/Train/augmented_188_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_189_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_196_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_199_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_201_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_203_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_40_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_42_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_43_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_44_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_46_0.jpg,Centella Asiatica,2,Kalanchoe Pinnata
+Non Augmented/Centella Asiatica/Train/augmented_48_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_49_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_50_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_51_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_52_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_55_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_56_0.jpg,Centella Asiatica,1,Mikania Micrantha
+Non Augmented/Centella Asiatica/Train/augmented_57_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_58_0.jpg,Centella Asiatica,2,Phyllanthus Emblica
+Non Augmented/Centella Asiatica/Train/augmented_59_0.jpg,Centella Asiatica,2,Phyllanthus Emblica
+Non Augmented/Centella Asiatica/Train/augmented_61_0.jpg,Centella Asiatica,0,Mikania Micrantha
+Non Augmented/Centella Asiatica/Train/augmented_64_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_65_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_66_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_67_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_71_0.jpg,Centella Asiatica,1,Kalanchoe Pinnata
+Non Augmented/Centella Asiatica/Train/augmented_72_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_74_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_75_0.jpg,Centella Asiatica,2,Justicia Adhatoda
+Non Augmented/Centella Asiatica/Train/augmented_76_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_77_0.jpg,Centella Asiatica,2,Terminalia Arjuna
+Non Augmented/Centella Asiatica/Train/augmented_80_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_84_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_85_0.jpg,Centella Asiatica,0,Mikania Micrantha
+Non Augmented/Centella Asiatica/Train/augmented_86_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_87_0.jpg,Centella Asiatica,2,Mikania Micrantha
+Non Augmented/Centella Asiatica/Train/augmented_91_0.jpg,Centella Asiatica,0,Mikania Micrantha
+Non Augmented/Centella Asiatica/Train/augmented_92_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_93_0.jpg,Centella Asiatica,0,Mikania Micrantha
+Non Augmented/Centella Asiatica/Train/augmented_96_0.jpg,Centella Asiatica,1,Terminalia Arjuna
+Non Augmented/Centella Asiatica/Train/augmented_97_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_98_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_99_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Validation/augmented_20_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Validation/augmented_23_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Validation/augmented_25_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Validation/augmented_28_0.jpg,Centella Asiatica,1,Terminalia Arjuna
+Non Augmented/Centella Asiatica/Validation/augmented_30_0.jpg,Centella Asiatica,2,Centella Asiatica
+Non Augmented/Centella Asiatica/Validation/augmented_31_0.jpg,Centella Asiatica,1,Terminalia Arjuna
+Non Augmented/Centella Asiatica/Validation/augmented_32_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Validation/augmented_33_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Validation/augmented_34_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Validation/augmented_35_0.jpg,Centella Asiatica,1,Centella Asiatica
+Non Augmented/Centella Asiatica/Validation/augmented_37_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Validation/augmented_38_0.jpg,Centella Asiatica,0,Centella Asiatica
+Non Augmented/Centella Asiatica/Validation/augmented_39_0.jpg,Centella Asiatica,0,Mikania Micrantha
+Non Augmented/Justicia Adhatoda/Test/augmented_144_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_145_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_146_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_147_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_148_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_149_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_150_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_151_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_152_0.jpg,Justicia Adhatoda,1,Mikania Micrantha
+Non Augmented/Justicia Adhatoda/Test/augmented_153_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_154_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_155_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_156_0.jpg,Justicia Adhatoda,0,Kalanchoe Pinnata
+Non Augmented/Justicia Adhatoda/Test/augmented_157_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_159_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_160_0.jpg,Justicia Adhatoda,1,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_0_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_100_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_101_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_102_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_103_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_104_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_105_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_106_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_108_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_109_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_10_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_110_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_111_0.jpg,Justicia Adhatoda,0,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_112_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_113_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_115_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_116_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_117_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_119_0.jpg,Justicia Adhatoda,2,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_121_0.jpg,Justicia Adhatoda,2,Phyllanthus Emblica
+Non Augmented/Justicia Adhatoda/Train/augmented_122_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_123_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_124_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_125_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_127_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_128_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_129_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_12_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_130_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_131_0.jpg,Justicia Adhatoda,1,Kalanchoe Pinnata
+Non Augmented/Justicia Adhatoda/Train/augmented_132_0.jpg,Justicia Adhatoda,1,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_133_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_134_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_135_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_136_0.jpg,Justicia Adhatoda,0,Centella Asiatica
+Non Augmented/Justicia Adhatoda/Train/augmented_137_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_13_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_140_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_141_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_142_0.jpg,Justicia Adhatoda,0,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_14_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_15_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_16_0.jpg,Justicia Adhatoda,2,Kalanchoe Pinnata
+Non Augmented/Justicia Adhatoda/Train/augmented_17_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_185_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_186_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_190_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_194_0.jpg,Justicia Adhatoda,1,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_195_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_198_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_199_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_19_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_1_0.jpg,Justicia Adhatoda,2,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_200_0.jpg,Justicia Adhatoda,2,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_20_0.jpg,Justicia Adhatoda,2,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_22_0.jpg,Justicia Adhatoda,1,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_23_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_24_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_25_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_26_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_27_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_28_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_2_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_30_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_31_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_32_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_33_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_34_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_36_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_37_0.jpg,Justicia Adhatoda,0,Kalanchoe Pinnata
+Non Augmented/Justicia Adhatoda/Train/augmented_3_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_41_0.jpg,Justicia Adhatoda,0,Phyllanthus Emblica
+Non Augmented/Justicia Adhatoda/Train/augmented_42_0.jpg,Justicia Adhatoda,2,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_43_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_45_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_46_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_47_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_48_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_49_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_4_0.jpg,Justicia Adhatoda,1,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_50_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_51_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_52_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_53_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_54_0.jpg,Justicia Adhatoda,1,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_55_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_56_0.jpg,Justicia Adhatoda,1,Kalanchoe Pinnata
+Non Augmented/Justicia Adhatoda/Train/augmented_57_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_5_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_61_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_62_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_63_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_64_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_67_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_69_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_6_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_71_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_75_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_76_0.jpg,Justicia Adhatoda,2,Phyllanthus Emblica
+Non Augmented/Justicia Adhatoda/Train/augmented_79_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_7_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_80_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_81_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_83_0.jpg,Justicia Adhatoda,0,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_85_0.jpg,Justicia Adhatoda,0,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_86_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_87_0.jpg,Justicia Adhatoda,1,Terminalia Arjuna
+Non Augmented/Justicia Adhatoda/Train/augmented_89_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_92_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_94_0.jpg,Justicia Adhatoda,1,Centella Asiatica
+Non Augmented/Justicia Adhatoda/Train/augmented_97_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_98_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_99_0.jpg,Justicia Adhatoda,2,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_9_0.jpg,Justicia Adhatoda,1,Justicia Adhatoda
+Non Augmented/Kalanchoe Pinnata/Test/augmented_11_0.jpg,Kalanchoe Pinnata,1,Mikania Micrantha
+Non Augmented/Kalanchoe Pinnata/Test/augmented_14_0.jpg,Kalanchoe Pinnata,1,Terminalia Arjuna
+Non Augmented/Kalanchoe Pinnata/Test/augmented_15_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_16_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_17_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_18_0.jpg,Kalanchoe Pinnata,2,Mikania Micrantha
+Non Augmented/Kalanchoe Pinnata/Test/augmented_199_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_19_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_200_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_201_0.jpg,Kalanchoe Pinnata,2,Terminalia Arjuna
+Non Augmented/Kalanchoe Pinnata/Test/augmented_5_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_7_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_8_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_9_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_100_0.jpg,Kalanchoe Pinnata,1,Mikania Micrantha
+Non Augmented/Kalanchoe Pinnata/Train/augmented_102_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_103_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_104_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_105_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_106_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_107_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_108_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_109_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_111_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_112_0.jpg,Kalanchoe Pinnata,2,Mikania Micrantha
+Non Augmented/Kalanchoe Pinnata/Train/augmented_114_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_115_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_117_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_118_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_119_0.jpg,Kalanchoe Pinnata,2,Justicia Adhatoda
+Non Augmented/Kalanchoe Pinnata/Train/augmented_121_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_124_0.jpg,Kalanchoe Pinnata,0,Terminalia Arjuna
+Non Augmented/Kalanchoe Pinnata/Train/augmented_125_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_127_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_128_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_129_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_131_0.jpg,Kalanchoe Pinnata,2,Centella Asiatica
+Non Augmented/Kalanchoe Pinnata/Train/augmented_132_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_133_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_135_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_138_0.jpg,Kalanchoe Pinnata,1,Terminalia Arjuna
+Non Augmented/Kalanchoe Pinnata/Train/augmented_140_0.jpg,Kalanchoe Pinnata,0,Terminalia Arjuna
+Non Augmented/Kalanchoe Pinnata/Train/augmented_141_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_142_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_143_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_144_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_145_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_146_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_148_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_149_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_150_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_152_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_153_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_155_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_156_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_157_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_158_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_159_0.jpg,Kalanchoe Pinnata,1,Terminalia Arjuna
+Non Augmented/Kalanchoe Pinnata/Train/augmented_160_0.jpg,Kalanchoe Pinnata,2,Terminalia Arjuna
+Non Augmented/Kalanchoe Pinnata/Train/augmented_163_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_165_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_166_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_169_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_170_0.jpg,Kalanchoe Pinnata,0,Centella Asiatica
+Non Augmented/Kalanchoe Pinnata/Train/augmented_171_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_172_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_174_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_179_0.jpg,Kalanchoe Pinnata,1,Centella Asiatica
+Non Augmented/Kalanchoe Pinnata/Train/augmented_181_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_183_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_186_0.jpg,Kalanchoe Pinnata,0,Terminalia Arjuna
+Non Augmented/Kalanchoe Pinnata/Train/augmented_187_0.jpg,Kalanchoe Pinnata,0,Justicia Adhatoda
+Non Augmented/Kalanchoe Pinnata/Train/augmented_189_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_190_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_195_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_35_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_36_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_37_0.jpg,Kalanchoe Pinnata,0,Terminalia Arjuna
+Non Augmented/Kalanchoe Pinnata/Train/augmented_38_0.jpg,Kalanchoe Pinnata,1,Centella Asiatica
+Non Augmented/Kalanchoe Pinnata/Train/augmented_42_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_43_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_45_0.jpg,Kalanchoe Pinnata,1,Terminalia Arjuna
+Non Augmented/Kalanchoe Pinnata/Train/augmented_47_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_49_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_50_0.jpg,Kalanchoe Pinnata,2,Justicia Adhatoda
+Non Augmented/Kalanchoe Pinnata/Train/augmented_52_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_54_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_57_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_58_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_59_0.jpg,Kalanchoe Pinnata,0,Justicia Adhatoda
+Non Augmented/Kalanchoe Pinnata/Train/augmented_60_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_61_0.jpg,Kalanchoe Pinnata,0,Justicia Adhatoda
+Non Augmented/Kalanchoe Pinnata/Train/augmented_62_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_63_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_64_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_65_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_67_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_69_0.jpg,Kalanchoe Pinnata,1,Centella Asiatica
+Non Augmented/Kalanchoe Pinnata/Train/augmented_71_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_72_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_73_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_75_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_76_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_77_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_78_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_79_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_84_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_85_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_86_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_90_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_92_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_93_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_94_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_97_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_98_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_99_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_0_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_1_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_26_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_27_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_28_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_29_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_2_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_30_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_31_0.jpg,Kalanchoe Pinnata,0,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_32_0.jpg,Kalanchoe Pinnata,0,Justicia Adhatoda
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_34_0.jpg,Kalanchoe Pinnata,1,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_3_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_4_0.jpg,Kalanchoe Pinnata,2,Kalanchoe Pinnata
+Non Augmented/Mikania Micrantha/Test/augmented_47_0.jpg,Mikania Micrantha,2,Kalanchoe Pinnata
+Non Augmented/Mikania Micrantha/Test/augmented_49_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_50_0.jpg,Mikania Micrantha,0,Phyllanthus Emblica
+Non Augmented/Mikania Micrantha/Test/augmented_51_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_52_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_54_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_56_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_57_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_58_0.jpg,Mikania Micrantha,1,Terminalia Arjuna
+Non Augmented/Mikania Micrantha/Test/augmented_60_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_61_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_62_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_63_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_64_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_65_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_66_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_0_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_101_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_103_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_104_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_105_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_106_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_107_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_108_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_109_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_10_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_110_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_111_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_112_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_113_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_114_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_115_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_116_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_117_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_118_0.jpg,Mikania Micrantha,2,Terminalia Arjuna
+Non Augmented/Mikania Micrantha/Train/augmented_11_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_120_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_121_0.jpg,Mikania Micrantha,1,Centella Asiatica
+Non Augmented/Mikania Micrantha/Train/augmented_123_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_125_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_127_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_128_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_129_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_130_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_131_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_132_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_133_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_134_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_135_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_137_0.jpg,Mikania Micrantha,0,Justicia Adhatoda
+Non Augmented/Mikania Micrantha/Train/augmented_138_0.jpg,Mikania Micrantha,1,Centella Asiatica
+Non Augmented/Mikania Micrantha/Train/augmented_139_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_13_0.jpg,Mikania Micrantha,0,Centella Asiatica
+Non Augmented/Mikania Micrantha/Train/augmented_140_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_142_0.jpg,Mikania Micrantha,0,Phyllanthus Emblica
+Non Augmented/Mikania Micrantha/Train/augmented_143_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_144_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_146_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_148_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_149_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_150_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_152_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_153_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_154_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_155_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_156_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_157_0.jpg,Mikania Micrantha,1,Centella Asiatica
+Non Augmented/Mikania Micrantha/Train/augmented_159_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_15_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_160_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_164_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_165_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_166_0.jpg,Mikania Micrantha,1,Centella Asiatica
+Non Augmented/Mikania Micrantha/Train/augmented_168_0.jpg,Mikania Micrantha,0,Centella Asiatica
+Non Augmented/Mikania Micrantha/Train/augmented_169_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_16_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_170_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_172_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_173_0.jpg,Mikania Micrantha,0,Justicia Adhatoda
+Non Augmented/Mikania Micrantha/Train/augmented_174_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_176_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_177_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_17_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_182_0.jpg,Mikania Micrantha,0,Justicia Adhatoda
+Non Augmented/Mikania Micrantha/Train/augmented_183_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_188_0.jpg,Mikania Micrantha,2,Terminalia Arjuna
+Non Augmented/Mikania Micrantha/Train/augmented_193_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_198_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_200_0.jpg,Mikania Micrantha,1,Phyllanthus Emblica
+Non Augmented/Mikania Micrantha/Train/augmented_20_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_21_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_23_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_24_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_25_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_26_0.jpg,Mikania Micrantha,0,Kalanchoe Pinnata
+Non Augmented/Mikania Micrantha/Train/augmented_27_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_2_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_30_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_32_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_33_0.jpg,Mikania Micrantha,0,Centella Asiatica
+Non Augmented/Mikania Micrantha/Train/augmented_34_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_37_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_38_0.jpg,Mikania Micrantha,0,Terminalia Arjuna
+Non Augmented/Mikania Micrantha/Train/augmented_39_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_42_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_44_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_45_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_46_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_4_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_5_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_6_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_89_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_92_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_93_0.jpg,Mikania Micrantha,1,Centella Asiatica
+Non Augmented/Mikania Micrantha/Train/augmented_94_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_97_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_99_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_9_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_67_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_68_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_70_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_71_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_73_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_76_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_79_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_82_0.jpg,Mikania Micrantha,0,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_84_0.jpg,Mikania Micrantha,1,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_85_0.jpg,Mikania Micrantha,2,Mikania Micrantha
+Non Augmented/Phyllanthus Emblica/ Train/augmented_101_0.jpg,Phyllanthus Emblica,2,Terminalia Arjuna
+Non Augmented/Phyllanthus Emblica/ Train/augmented_102_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_103_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_105_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_106_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_107_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_108_0.jpg,Phyllanthus Emblica,1,Mikania Micrantha
+Non Augmented/Phyllanthus Emblica/ Train/augmented_109_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_110_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_112_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_113_0.jpg,Phyllanthus Emblica,1,Terminalia Arjuna
+Non Augmented/Phyllanthus Emblica/ Train/augmented_114_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_115_0.jpg,Phyllanthus Emblica,2,Justicia Adhatoda
+Non Augmented/Phyllanthus Emblica/ Train/augmented_117_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_118_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_119_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_11_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_120_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_121_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_122_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_124_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_125_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_127_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_129_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_12_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_131_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_134_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_135_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_136_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_138_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_13_0.jpg,Phyllanthus Emblica,2,Centella Asiatica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_140_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_14_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_15_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_16_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_17_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_181_0.jpg,Phyllanthus Emblica,2,Centella Asiatica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_182_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_184_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_185_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_186_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_187_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_189_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_18_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_190_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_191_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_193_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_194_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_195_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_197_0.jpg,Phyllanthus Emblica,1,Mikania Micrantha
+Non Augmented/Phyllanthus Emblica/ Train/augmented_198_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_19_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_1_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_20_0.jpg,Phyllanthus Emblica,0,Mikania Micrantha
+Non Augmented/Phyllanthus Emblica/ Train/augmented_22_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_24_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_25_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_26_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_29_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_30_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_32_0.jpg,Phyllanthus Emblica,0,Justicia Adhatoda
+Non Augmented/Phyllanthus Emblica/ Train/augmented_34_0.jpg,Phyllanthus Emblica,0,Mikania Micrantha
+Non Augmented/Phyllanthus Emblica/ Train/augmented_35_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_36_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_37_0.jpg,Phyllanthus Emblica,2,Terminalia Arjuna
+Non Augmented/Phyllanthus Emblica/ Train/augmented_39_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_41_0.jpg,Phyllanthus Emblica,2,Terminalia Arjuna
+Non Augmented/Phyllanthus Emblica/ Train/augmented_42_0.jpg,Phyllanthus Emblica,1,Centella Asiatica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_43_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_44_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_45_0.jpg,Phyllanthus Emblica,0,Centella Asiatica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_46_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_47_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_48_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_49_0.jpg,Phyllanthus Emblica,1,Mikania Micrantha
+Non Augmented/Phyllanthus Emblica/ Train/augmented_4_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_50_0.jpg,Phyllanthus Emblica,2,Terminalia Arjuna
+Non Augmented/Phyllanthus Emblica/ Train/augmented_51_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_52_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_53_0.jpg,Phyllanthus Emblica,2,Terminalia Arjuna
+Non Augmented/Phyllanthus Emblica/ Train/augmented_55_0.jpg,Phyllanthus Emblica,1,Terminalia Arjuna
+Non Augmented/Phyllanthus Emblica/ Train/augmented_56_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_57_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_58_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_5_0.jpg,Phyllanthus Emblica,2,Mikania Micrantha
+Non Augmented/Phyllanthus Emblica/ Train/augmented_60_0.jpg,Phyllanthus Emblica,2,Terminalia Arjuna
+Non Augmented/Phyllanthus Emblica/ Train/augmented_61_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_63_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_64_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_68_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_69_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_6_0.jpg,Phyllanthus Emblica,1,Terminalia Arjuna
+Non Augmented/Phyllanthus Emblica/ Train/augmented_70_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_71_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_72_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_73_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_75_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_76_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_78_0.jpg,Phyllanthus Emblica,2,Justicia Adhatoda
+Non Augmented/Phyllanthus Emblica/ Train/augmented_79_0.jpg,Phyllanthus Emblica,0,Mikania Micrantha
+Non Augmented/Phyllanthus Emblica/ Train/augmented_80_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_81_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_84_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_85_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_86_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_87_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_88_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_8_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_90_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_91_0.jpg,Phyllanthus Emblica,1,Terminalia Arjuna
+Non Augmented/Phyllanthus Emblica/ Train/augmented_92_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_96_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_9_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_142_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_144_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_146_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_147_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_148_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_149_0.jpg,Phyllanthus Emblica,2,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_153_0.jpg,Phyllanthus Emblica,2,Mikania Micrantha
+Non Augmented/Phyllanthus Emblica/Test/augmented_154_0.jpg,Phyllanthus Emblica,0,Mikania Micrantha
+Non Augmented/Phyllanthus Emblica/Test/augmented_155_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_156_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_157_0.jpg,Phyllanthus Emblica,0,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_158_0.jpg,Phyllanthus Emblica,1,Phyllanthus Emblica
+Non Augmented/Terminalia Arjuna/Test/augmented_101_0.jpg,Terminalia Arjuna,0,Centella Asiatica
+Non Augmented/Terminalia Arjuna/Test/augmented_103_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_104_0.jpg,Terminalia Arjuna,2,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Test/augmented_106_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_107_0.jpg,Terminalia Arjuna,0,Mikania Micrantha
+Non Augmented/Terminalia Arjuna/Test/augmented_108_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_109_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_111_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_113_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_94_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_95_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_97_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_98_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_99_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_0_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_10_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_11_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_12_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_136_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_137_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_138_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_139_0.jpg,Terminalia Arjuna,0,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_13_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_140_0.jpg,Terminalia Arjuna,0,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_141_0.jpg,Terminalia Arjuna,0,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_142_0.jpg,Terminalia Arjuna,1,Kalanchoe Pinnata
+Non Augmented/Terminalia Arjuna/Train/augmented_144_0.jpg,Terminalia Arjuna,2,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_145_0.jpg,Terminalia Arjuna,2,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_146_0.jpg,Terminalia Arjuna,0,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_149_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_14_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_150_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_152_0.jpg,Terminalia Arjuna,2,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_153_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_154_0.jpg,Terminalia Arjuna,0,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_155_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_156_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_157_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_158_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_159_0.jpg,Terminalia Arjuna,2,Kalanchoe Pinnata
+Non Augmented/Terminalia Arjuna/Train/augmented_15_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_160_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_161_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_162_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_163_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_165_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_166_0.jpg,Terminalia Arjuna,2,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_167_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_168_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_16_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_172_0.jpg,Terminalia Arjuna,2,Mikania Micrantha
+Non Augmented/Terminalia Arjuna/Train/augmented_17_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_181_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_182_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_183_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_184_0.jpg,Terminalia Arjuna,2,Centella Asiatica
+Non Augmented/Terminalia Arjuna/Train/augmented_185_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_186_0.jpg,Terminalia Arjuna,1,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_187_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_188_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_191_0.jpg,Terminalia Arjuna,2,Kalanchoe Pinnata
+Non Augmented/Terminalia Arjuna/Train/augmented_192_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_193_0.jpg,Terminalia Arjuna,1,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_194_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_196_0.jpg,Terminalia Arjuna,0,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_199_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_1_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_200_0.jpg,Terminalia Arjuna,0,Kalanchoe Pinnata
+Non Augmented/Terminalia Arjuna/Train/augmented_202_0.jpg,Terminalia Arjuna,1,Kalanchoe Pinnata
+Non Augmented/Terminalia Arjuna/Train/augmented_206_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_20_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_21_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_24_0.jpg,Terminalia Arjuna,1,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_25_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_26_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_29_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_30_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_31_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_32_0.jpg,Terminalia Arjuna,2,Kalanchoe Pinnata
+Non Augmented/Terminalia Arjuna/Train/augmented_34_0.jpg,Terminalia Arjuna,0,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_35_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_37_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_38_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_3_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_40_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_43_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_44_0.jpg,Terminalia Arjuna,1,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_45_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_48_0.jpg,Terminalia Arjuna,1,Centella Asiatica
+Non Augmented/Terminalia Arjuna/Train/augmented_49_0.jpg,Terminalia Arjuna,0,Centella Asiatica
+Non Augmented/Terminalia Arjuna/Train/augmented_4_0.jpg,Terminalia Arjuna,0,Phyllanthus Emblica
+Non Augmented/Terminalia Arjuna/Train/augmented_50_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_51_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_53_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_54_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_56_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_57_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_59_0.jpg,Terminalia Arjuna,2,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_5_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_60_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_61_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_62_0.jpg,Terminalia Arjuna,1,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_63_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_64_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_66_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_67_0.jpg,Terminalia Arjuna,0,Phyllanthus Emblica
+Non Augmented/Terminalia Arjuna/Train/augmented_6_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_71_0.jpg,Terminalia Arjuna,1,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_72_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_73_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_74_0.jpg,Terminalia Arjuna,0,Mikania Micrantha
+Non Augmented/Terminalia Arjuna/Train/augmented_75_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_77_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_78_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_7_0.jpg,Terminalia Arjuna,0,Centella Asiatica
+Non Augmented/Terminalia Arjuna/Train/augmented_80_0.jpg,Terminalia Arjuna,0,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_83_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_86_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_87_0.jpg,Terminalia Arjuna,0,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_89_0.jpg,Terminalia Arjuna,0,Mikania Micrantha
+Non Augmented/Terminalia Arjuna/Train/augmented_8_0.jpg,Terminalia Arjuna,0,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_90_0.jpg,Terminalia Arjuna,1,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_92_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_93_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_9_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Validation/augmented_117_0.jpg,Terminalia Arjuna,2,Phyllanthus Emblica
+Non Augmented/Terminalia Arjuna/Validation/augmented_123_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Validation/augmented_124_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Validation/augmented_125_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Validation/augmented_128_0.jpg,Terminalia Arjuna,1,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Validation/augmented_131_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Validation/augmented_132_0.jpg,Terminalia Arjuna,1,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Validation/augmented_133_0.jpg,Terminalia Arjuna,2,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Validation/augmented_134_0.jpg,Terminalia Arjuna,0,Terminalia Arjuna

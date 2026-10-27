@@ -1,0 +1,19 @@
+{
+  "created_utc": "2026-10-27T14:52:00.228983+00:00",
+  "candidates": {
+    "v1": 958,
+    "v1_no_color": 910,
+    "texture128": 126,
+    "enhanced128": 1890,
+    "center128": 1890
+  },
+  "default_params": {
+    "kernel": "rbf",
+    "C": 1.0,
+    "gamma": "scale"
+  },
+  "metric": "mean_cv_macro_f1",
+  "manifest_sha256": "5a352a09cef2b6a84855fa1a23b64f5032f6c4c3e47e154600eec4e06f3b33ff",
+  "test_evaluated": false,
+  "selection_rule": "max CV, then lowest dimension, then declaration order"
+}

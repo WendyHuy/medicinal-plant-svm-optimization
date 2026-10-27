@@ -1,0 +1,24 @@
+{
+  "selected_feature_id": "texture128",
+  "selection": {
+    "feature_id": "texture128",
+    "dimension": 126,
+    "mean_cv_macro_f1": 0.8562956194314433,
+    "std_cv_macro_f1": 0.01813515225423227,
+    "fold_scores": [
+      0.8398869341324584,
+      0.8757671725765883,
+      0.8532327515852831
+    ],
+    "train_fold_scores": [
+      0.9691933590739938,
+      0.971219152021054,
+      0.9671963681681467
+    ],
+    "oof_macro_f1": 0.8566274005970618,
+    "oof_accuracy": 0.8560411311053985,
+    "feature_seconds": 18.898417081999924,
+    "cv_seconds": 0.1487705519998599
+  },
+  "test_evaluated": false
+}
