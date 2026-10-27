@@ -1,0 +1,11 @@
+test_cache_excludes_test_images (test_research.ResearchChecks.test_cache_excludes_test_images) ... ok
+test_equal_budgets_and_summary_matches_logs (test_research.ResearchChecks.test_equal_budgets_and_summary_matches_logs) ... ok
+test_image_to_saved_model_roundtrip (test_research.ResearchChecks.test_image_to_saved_model_roundtrip) ... ok
+test_manifest_matches_model_and_protocol (test_research.ResearchChecks.test_manifest_matches_model_and_protocol) ... ok
+test_no_image_or_group_leakage (test_research.ResearchChecks.test_no_image_or_group_leakage) ... ok
+test_scaler_fits_only_training_rows_in_cv (test_research.ResearchChecks.test_scaler_fits_only_training_rows_in_cv) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.075s
+
+OK

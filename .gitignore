@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/source/*.zip
+results/*/*.npz
+results/*/*.joblib
+results/**/*.npz
+results/**/*.joblib
+results/**/cache/
+.pytest_cache/
+tmp/

@@ -1,0 +1,101 @@
+{
+  "id": "t9rns2gmr3",
+  "version": 1,
+  "name": "BDMediLeaves",
+  "description": "This dataset focused on six medicinal plants ( Phyllanthus Emblica, Terminalia Arjuna, Kalanchoe Pinnata, Centella Asiatica, Justicia Adhatoda and Mikania Micrantha ) based in Bangladesh. All the leaves images were taken separately by iPhone 13. The purpose of  image augmentation was to expand the dataset's size and mitigate the risk of overfitting during the training and validation of the model. \"BDMediLeaves\" dataset have two subfolders one is  non-augmented another one is augmented. In non-augmented folder there are six different sub folders which are named by six different medicinal plant species and these subfolders have also three subfolders “train”, “test”, “validation”.\n\n",
+  "doi": "10.17632/t9rns2gmr3.1",
+  "publish_date": "2023-06-02T19:13:06.824Z",
+  "last_modification_date": "2023-06-02T05:42:08.981Z",
+  "is_confidential": false,
+  "customer": {
+    "id": "7377952c-6404-4428-bbfc-77242cfc301e",
+    "name": "Mendeley Guests",
+    "chief_id": 810289,
+    "config": {
+      "repository_id": "MENDELEY_DATA",
+      "dataset_size_limit": 10737418240,
+      "doi_prefix": "10.17632"
+    },
+    "is_user_mendeley_admin": false,
+    "customer_roles": [],
+    "is_guest": true,
+    "is_user_customer_moderator": false
+  },
+  "owner": {
+    "id": "43113d6c-d446-4ee4-a76b-0766ee63e317",
+    "$ref": "/profiles/43113d6c-d446-4ee4-a76b-0766ee63e317"
+  },
+  "categories": [
+    {
+      "id": "data.elsevier.com/vocabulary/OmniScience/Concept-170589400",
+      "label": "Computer Science"
+    },
+    {
+      "id": "data.elsevier.com/vocabulary/OmniScience/Concept-189720754",
+      "label": "Computer Vision"
+    },
+    {
+      "id": "data.elsevier.com/vocabulary/OmniScience/Concept-249672469",
+      "label": "Biologicals"
+    },
+    {
+      "id": "data.elsevier.com/vocabulary/OmniScience/Concept-253046992",
+      "label": "Image Classification"
+    }
+  ],
+  "licence": {
+    "id": "01d9c749-3c4d-4431-9df3-620b2dcfe144",
+    "short_name": "CC BY 4.0",
+    "full_name": "Creative Commons Attribution 4.0 International",
+    "description": "You can share, copy and modify this dataset so long as you give appropriate credit, provide a link to the CC BY license, and indicate if changes were made, but you may not do so in a way that suggests the rights holder has endorsed you or your use of the dataset. Note that further permission may be required for any content within the dataset that is identified as belonging to a third party.",
+    "url": "http://creativecommons.org/licenses/by/4.0",
+    "category": "Creative",
+    "customer_id": null
+  },
+  "institutions": [
+    {
+      "id": "e9409749-4319-5a03-b5d6-7cd6d7c18afb",
+      "name": "United International University"
+    }
+  ],
+  "funders": [],
+  "organisational_unit_names": [],
+  "contributors": [
+    {
+      "first_name": "Saiful ",
+      "last_name": "Islam"
+    },
+    {
+      "first_name": "Md Mahfuzul Alam ",
+      "last_name": "Rishad",
+      "institution": "United International University"
+    },
+    {
+      "first_name": "Sayem ",
+      "last_name": "Ahmed",
+      "institution": "United International University"
+    },
+    {
+      "first_name": "Toyabur Rahman ",
+      "last_name": "Utshow",
+      "institution": "United International University"
+    },
+    {
+      "first_name": "Minhajul Islam ",
+      "last_name": "Siam"
+    },
+    {
+      "first_name": "siful islam",
+      "last_name": "siful islam",
+      "institution": "United International University"
+    },
+    {
+      "first_name": "Md. Rayhan ",
+      "last_name": "Ahmed",
+      "institution": "United International University"
+    }
+  ],
+  "related_links": [],
+  "custom_metadata": {},
+  "is_metadata_only": false
+}

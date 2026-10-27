@@ -1,0 +1,4 @@
+# Optional: only needed to rebuild the notebook and PDF, not to train SVM.
+nbformat==5.10.4
+ipython==9.10.0
+reportlab==4.4.9

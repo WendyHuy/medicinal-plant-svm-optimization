@@ -1,0 +1,7 @@
+{
+  "reviewer": "assistant visual inspection",
+  "reviewed_figure": "results/figures/duplicate_review.png",
+  "pairs_reviewed": 1,
+  "finding": "The two images show nearly identical leaf position and background; conservative grouping retained. This does not establish specimen identity for other images.",
+  "development_examples_reviewed": 12
+}

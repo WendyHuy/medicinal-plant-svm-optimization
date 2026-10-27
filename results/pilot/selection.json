@@ -1,0 +1,23 @@
+{
+  "winner": {
+    "method": "tpe",
+    "seed": 47,
+    "best_cv_macro_f1": 0.7651317568039763,
+    "fold_scores": [
+      0.7621950093677747,
+      0.759412099913892,
+      0.773788161130262
+    ],
+    "params": {
+      "kernel": "rbf",
+      "C": 12.166217432892713,
+      "gamma": 0.0005503827892904765
+    },
+    "best_trial": 13,
+    "seconds": 7.238807485000052
+  },
+  "test_evaluated": false,
+  "feature_seconds": 7.295868507000023,
+  "total_cv_fits": 363,
+  "refit_count": 1
+}

@@ -1,0 +1,32 @@
+{
+  "source_counts": {
+    "test": {
+      "Centella Asiatica": 20,
+      "Justicia Adhatoda": 20,
+      "Kalanchoe Pinnata": 20,
+      "Mikania Micrantha": 20,
+      "Phyllanthus Emblica": 20,
+      "Terminalia Arjuna": 21
+    },
+    "train": {
+      "Centella Asiatica": 164,
+      "Justicia Adhatoda": 162,
+      "Kalanchoe Pinnata": 162,
+      "Mikania Micrantha": 161,
+      "Phyllanthus Emblica": 160,
+      "Terminalia Arjuna": 166
+    },
+    "validation": {
+      "Centella Asiatica": 20,
+      "Justicia Adhatoda": 20,
+      "Kalanchoe Pinnata": 20,
+      "Mikania Micrantha": 20,
+      "Phyllanthus Emblica": 20,
+      "Terminalia Arjuna": 21
+    }
+  },
+  "exact_duplicate_groups": 243,
+  "exact_groups_crossing_source_splits": 93,
+  "original_test_images_also_in_original_train": 31,
+  "original_test_images": 121
+}

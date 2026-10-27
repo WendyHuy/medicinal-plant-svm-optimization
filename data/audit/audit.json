@@ -1,0 +1,45 @@
+{
+  "source_images": 1217,
+  "readable_images": 1217,
+  "corrupt_images": 0,
+  "exact_duplicates_removed": 245,
+  "images_kept": 972,
+  "classes": {
+    "Centella Asiatica": 164,
+    "Justicia Adhatoda": 162,
+    "Kalanchoe Pinnata": 162,
+    "Mikania Micrantha": 160,
+    "Phyllanthus Emblica": 157,
+    "Terminalia Arjuna": 167
+  },
+  "dimensions": {
+    "512x512": 972
+  },
+  "near_duplicate_candidate_pairs": 1,
+  "groups": 971,
+  "largest_group": 2,
+  "cross_label_candidate_pairs": 0,
+  "source_split_crossing_candidate_pairs": 0,
+  "split_counts": {
+    "development": {
+      "Centella Asiatica": 132,
+      "Justicia Adhatoda": 130,
+      "Kalanchoe Pinnata": 129,
+      "Mikania Micrantha": 128,
+      "Phyllanthus Emblica": 125,
+      "Terminalia Arjuna": 134
+    },
+    "test": {
+      "Centella Asiatica": 32,
+      "Justicia Adhatoda": 32,
+      "Kalanchoe Pinnata": 33,
+      "Mikania Micrantha": 32,
+      "Phyllanthus Emblica": 32,
+      "Terminalia Arjuna": 33
+    }
+  },
+  "test_status": "held out; not scored during the pilot",
+  "grouping_limit": "63-bit pHash distance <= 4 under D4 transforms is a heuristic, not a verified leaf/plant specimen ID.",
+  "source_limit": "Supplier labels this archive Non Augmented; filenames can still contain augmented. Raw camera provenance is unverified.",
+  "manifest_sha256": "5a352a09cef2b6a84855fa1a23b64f5032f6c4c3e47e154600eec4e06f3b33ff"
+}

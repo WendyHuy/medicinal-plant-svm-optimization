@@ -1,0 +1,76 @@
+{
+  "status": "pilot; development CV only",
+  "trials_per_method_per_seed": 20,
+  "sampler_seeds": [
+    11,
+    29,
+    47
+  ],
+  "split_seed": 2026,
+  "cv_seed": 2027,
+  "metric": "macro_f1",
+  "cv_folds": 3,
+  "test_evaluated": false,
+  "n_development": 778,
+  "n_test_held_out": 194,
+  "features": {
+    "version": "hog-hsv-lbp-v1",
+    "resize": [
+      96,
+      96
+    ],
+    "hog": {
+      "orientations": 9,
+      "pixels_per_cell": [
+        16,
+        16
+      ],
+      "cells_per_block": [
+        2,
+        2
+      ],
+      "block_norm": "L2-Hys"
+    },
+    "hsv_bins_per_channel": 16,
+    "lbp": {
+      "P": 8,
+      "R": 1,
+      "method": "uniform",
+      "bins": 10
+    },
+    "dimension": 958
+  },
+  "search_space": {
+    "kernel": [
+      "linear",
+      "rbf"
+    ],
+    "C": {
+      "low": 0.001,
+      "high": 1000.0,
+      "log": true
+    },
+    "gamma_for_rbf_only": {
+      "low": 1e-05,
+      "high": 0.1,
+      "log": true
+    }
+  },
+  "baseline": {
+    "kernel": "rbf",
+    "C": 1.0,
+    "gamma": "scale"
+  },
+  "tpe_startup_trials": 10,
+  "pruning": false,
+  "n_jobs": 1,
+  "manifest_sha256": "5a352a09cef2b6a84855fa1a23b64f5032f6c4c3e47e154600eec4e06f3b33ff",
+  "versions": {
+    "python": "3.12.14",
+    "sklearn": "1.8.0",
+    "numpy": "2.3.5",
+    "optuna": "4.5.0"
+  },
+  "fit_budget_cv": 363,
+  "selection_rule": "largest development CV mean; ties baseline, random, then TPE in recorded order"
+}
