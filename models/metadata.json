@@ -1,0 +1,17 @@
+{
+  "selected_method": "random",
+  "feature_id": "texture128",
+  "training_images": 778,
+  "test_images": 194,
+  "source": "results/phase2/final/frozen_selection.json",
+  "files": {
+    "baseline.joblib": {
+      "bytes": 384346,
+      "sha256": "817d43651cc23be1a4dff7a5facdd2b952c848e60b4120bc17b178b33b7552f9"
+    },
+    "optimized.joblib": {
+      "bytes": 355153,
+      "sha256": "363cd84636f956f75a4ed7ab5413df73fa7331c716618ae95e087bbd761a5e92"
+    }
+  }
+}

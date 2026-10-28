@@ -49,6 +49,23 @@ class DescriptorAndStatisticsChecks(unittest.TestCase):
 
 
 class Phase2ArtifactsChecks(unittest.TestCase):
+    def test_deployed_models_match_frozen_choice_and_checksums(self):
+        metadata=json.loads((ROOT/'models/metadata.json').read_text())
+        frozen_path=ROOT/'results/phase2/final/frozen_selection.json'
+        frozen=json.loads(frozen_path.read_text())
+        self.assertEqual(metadata['selected_method'],frozen['selected_method'])
+        for filename,info in metadata['files'].items():
+            path=ROOT/'models'/filename
+            self.assertEqual(digest(path),info['sha256'])
+            self.assertEqual(path.stat().st_size,info['bytes'])
+            bundle=joblib.load(path)
+            self.assertEqual(bundle['feature_code_sha256'],feature_code_hash())
+            self.assertEqual(bundle['frozen_selection_sha256'],digest(frozen_path))
+            self.assertEqual(bundle['manifest_sha256'],digest(ROOT/'data/audit/manifest.csv'))
+            self.assertEqual(bundle['model'][0].n_samples_seen_,778)
+            method='baseline' if filename=='baseline.joblib' else frozen['selected_method']
+            self.assertEqual(bundle['params'],frozen['best_by_method'][method]['params'])
+
     def test_ablation_and_caches_are_development_only(self):
         root=ROOT/"results/phase2"
         if not (root/"ablation/selection.json").exists():self.skipTest("Ablation not run")
