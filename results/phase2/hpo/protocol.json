@@ -1,0 +1,47 @@
+{
+  "created_utc": "2026-10-27T14:55:43.883448+00:00",
+  "feature_id": "texture128",
+  "manifest_sha256": "5a352a09cef2b6a84855fa1a23b64f5032f6c4c3e47e154600eec4e06f3b33ff",
+  "feature_code_sha256": {
+    "features.py": "46b573d26063ea22bce496687a44172dfd8db3f7258430161c367b25c4f84aa7",
+    "features_v2.py": "041640c173bb268d57639bc96b89ccd3f575d160ce36d81695ad1e2fdefca1f0"
+  },
+  "metric": "mean_cv_macro_f1",
+  "seeds": [
+    11,
+    29,
+    47,
+    71,
+    101
+  ],
+  "trials_per_seed_per_method": 40,
+  "tpe_startup_trials": 10,
+  "n_jobs": 1,
+  "pruning": false,
+  "test_evaluated": false,
+  "search_space": {
+    "kernel": [
+      "linear",
+      "rbf"
+    ],
+    "C_log_range": [
+      0.001,
+      1000.0
+    ],
+    "rbf_gamma_log_range": [
+      1e-05,
+      0.1
+    ]
+  },
+  "baseline": {
+    "kernel": "rbf",
+    "C": 1.0,
+    "gamma": "scale"
+  },
+  "versions": {
+    "python": "3.12.14",
+    "sklearn": "1.8.0",
+    "optuna": "4.5.0",
+    "numpy": "2.3.5"
+  }
+}

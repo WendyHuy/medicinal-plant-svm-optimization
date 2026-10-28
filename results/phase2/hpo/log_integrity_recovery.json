@@ -1,0 +1,45 @@
+{
+  "reason": "After session continuation, streaming JSONL retained 394 rows while completed CSV retained all 400.",
+  "canonical_source": "trials.csv",
+  "overlapping_rows_exactly_agree": 394,
+  "recomputed_missing_rows": [
+    {
+      "method": "tpe",
+      "seed": 101,
+      "trial": 35,
+      "verified_cv_macro_f1": 0.8335274419617168
+    },
+    {
+      "method": "tpe",
+      "seed": 101,
+      "trial": 36,
+      "verified_cv_macro_f1": 0.7561743760785834
+    },
+    {
+      "method": "tpe",
+      "seed": 101,
+      "trial": 37,
+      "verified_cv_macro_f1": 0.04897575787201958
+    },
+    {
+      "method": "tpe",
+      "seed": 101,
+      "trial": 38,
+      "verified_cv_macro_f1": 0.8454079221521832
+    },
+    {
+      "method": "tpe",
+      "seed": 101,
+      "trial": 39,
+      "verified_cv_macro_f1": 0.8094223489608253
+    },
+    {
+      "method": "tpe",
+      "seed": 101,
+      "trial": 40,
+      "verified_cv_macro_f1": 0.8334421363863279
+    }
+  ],
+  "extra_verification_cv_fits": 18,
+  "search_results_or_selection_changed": false
+}

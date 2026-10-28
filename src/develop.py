@@ -168,6 +168,10 @@ def tune(images, manifest, root):
             dump(out / "summary.json", summaries)
             print("HPO",json.dumps(row),flush=True)
     pd.DataFrame([{**r,"params":json.dumps(r["params"]),"fold_scores":json.dumps(r["fold_scores"])} for r in records]).to_csv(out/"trials.csv",index=False)
+    # Complete the streaming log atomically from the same finished records.
+    tmp_log=out/"trials.complete.tmp"
+    tmp_log.write_text("\n".join(json.dumps(r) for r in records)+"\n")
+    tmp_log.replace(out/"trials.jsonl")
     method_scores = {"baseline":baseline["mean_cv_macro_f1"]}
     for method in ("random","tpe"):
         method_scores[method] = float(np.mean([r["best_cv_macro_f1"] for r in summaries if r["method"]==method]))

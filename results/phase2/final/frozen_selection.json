@@ -1,0 +1,67 @@
+{
+  "frozen_utc": "2026-10-27T14:56:15.951979+00:00",
+  "manifest_sha256": "5a352a09cef2b6a84855fa1a23b64f5032f6c4c3e47e154600eec4e06f3b33ff",
+  "feature_code_sha256": {
+    "features.py": "46b573d26063ea22bce496687a44172dfd8db3f7258430161c367b25c4f84aa7",
+    "features_v2.py": "041640c173bb268d57639bc96b89ccd3f575d160ce36d81695ad1e2fdefca1f0"
+  },
+  "feature_id": "texture128",
+  "selected_method": "random",
+  "method_mean_best_cv": {
+    "baseline": 0.8562956194314433,
+    "random": 0.8721120459545659,
+    "tpe": 0.8684980532183886
+  },
+  "best_by_method": {
+    "baseline": {
+      "params": {
+        "kernel": "rbf",
+        "C": 1.0,
+        "gamma": "scale"
+      },
+      "best_cv_macro_f1": 0.8562956194314433
+    },
+    "random": {
+      "method": "random",
+      "seed": 101,
+      "best_cv_macro_f1": 0.8794242726646431,
+      "params": {
+        "kernel": "rbf",
+        "C": 13.28777377006487,
+        "gamma": 0.006029953818540779
+      },
+      "best_trial": 24,
+      "fold_scores": [
+        0.8657202717628106,
+        0.9028900312902385,
+        0.8696625149408801
+      ],
+      "seconds": 3.032405436999852
+    },
+    "tpe": {
+      "method": "tpe",
+      "seed": 47,
+      "best_cv_macro_f1": 0.8833188349091192,
+      "params": {
+        "kernel": "rbf",
+        "C": 15.010025821956374,
+        "gamma": 0.005581064619572679
+      },
+      "best_trial": 36,
+      "fold_scores": [
+        0.8657202717628106,
+        0.9069213311585583,
+        0.8773149018059887
+      ],
+      "seconds": 3.4263631070002702
+    }
+  },
+  "test_evaluated_at_freeze": false,
+  "selection_rule": "method by mean best-CV across seeds, configuration by best-CV within that method",
+  "models_to_evaluate": [
+    "v1_default",
+    "baseline",
+    "random",
+    "tpe"
+  ]
+}
