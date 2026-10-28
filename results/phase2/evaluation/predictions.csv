@@ -1,0 +1,195 @@
+path,label,group,v1_default,baseline,random,tpe
+Non Augmented/Centella Asiatica/Test/augmented_17_0.jpg,Centella Asiatica,g00008,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_6_0.jpg,Centella Asiatica,g00016,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_7_0.jpg,Centella Asiatica,g00017,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Test/augmented_9_0.jpg,Centella Asiatica,g00019,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_103_0.jpg,Centella Asiatica,g00023,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_114_0.jpg,Centella Asiatica,g00034,Centella Asiatica,Kalanchoe Pinnata,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_118_0.jpg,Centella Asiatica,g00038,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_120_0.jpg,Centella Asiatica,g00040,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_123_0.jpg,Centella Asiatica,g00043,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_124_0.jpg,Centella Asiatica,g00044,Terminalia Arjuna,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_126_0.jpg,Centella Asiatica,g00046,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_132_0.jpg,Centella Asiatica,g00052,Centella Asiatica,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Centella Asiatica/Train/augmented_135_0.jpg,Centella Asiatica,g00055,Centella Asiatica,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Centella Asiatica/Train/augmented_144_0.jpg,Centella Asiatica,g00064,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_147_0.jpg,Centella Asiatica,g00067,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_159_0.jpg,Centella Asiatica,g00079,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_164_0.jpg,Centella Asiatica,g00084,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_182_0.jpg,Centella Asiatica,g00090,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Centella Asiatica/Train/augmented_186_0.jpg,Centella Asiatica,g00092,Mikania Micrantha,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_191_0.jpg,Centella Asiatica,g00096,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_193_0.jpg,Centella Asiatica,g00097,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Centella Asiatica/Train/augmented_41_0.jpg,Centella Asiatica,g00103,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_45_0.jpg,Centella Asiatica,g00107,Centella Asiatica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Centella Asiatica/Train/augmented_53_0.jpg,Centella Asiatica,g00114,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_60_0.jpg,Centella Asiatica,g00120,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_62_0.jpg,Centella Asiatica,g00122,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_70_0.jpg,Centella Asiatica,g00127,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_73_0.jpg,Centella Asiatica,g00130,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Train/augmented_82_0.jpg,Centella Asiatica,g00136,Centella Asiatica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Centella Asiatica/Train/augmented_89_0.jpg,Centella Asiatica,g00141,Centella Asiatica,Phyllanthus Emblica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Validation/augmented_21_0.jpg,Centella Asiatica,g00150,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Centella Asiatica/Validation/augmented_29_0.jpg,Centella Asiatica,g00154,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Justicia Adhatoda/Test/augmented_158_0.jpg,Justicia Adhatoda,g00178,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_161_0.jpg,Justicia Adhatoda,g00181,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Test/augmented_162_0.jpg,Justicia Adhatoda,g00182,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_107_0.jpg,Justicia Adhatoda,g00191,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_114_0.jpg,Justicia Adhatoda,g00199,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_118_0.jpg,Justicia Adhatoda,g00203,Phyllanthus Emblica,Centella Asiatica,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_11_0.jpg,Justicia Adhatoda,g00205,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_120_0.jpg,Justicia Adhatoda,g00206,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_126_0.jpg,Justicia Adhatoda,g00212,Justicia Adhatoda,Phyllanthus Emblica,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_138_0.jpg,Justicia Adhatoda,g00225,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_139_0.jpg,Justicia Adhatoda,g00226,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_143_0.jpg,Justicia Adhatoda,g00231,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_187_0.jpg,Justicia Adhatoda,g00238,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_188_0.jpg,Justicia Adhatoda,g00239,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_18_0.jpg,Justicia Adhatoda,g00240,Kalanchoe Pinnata,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_191_0.jpg,Justicia Adhatoda,g00242,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_21_0.jpg,Justicia Adhatoda,g00251,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_29_0.jpg,Justicia Adhatoda,g00259,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_38_0.jpg,Justicia Adhatoda,g00268,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_39_0.jpg,Justicia Adhatoda,g00269,Mikania Micrantha,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_40_0.jpg,Justicia Adhatoda,g00271,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_44_0.jpg,Justicia Adhatoda,g00275,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_59_0.jpg,Justicia Adhatoda,g00290,Justicia Adhatoda,Terminalia Arjuna,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_66_0.jpg,Justicia Adhatoda,g00296,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_70_0.jpg,Justicia Adhatoda,g00300,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_73_0.jpg,Justicia Adhatoda,g00302,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_78_0.jpg,Justicia Adhatoda,g00305,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_82_0.jpg,Justicia Adhatoda,g00310,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_84_0.jpg,Justicia Adhatoda,g00312,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_88_0.jpg,Justicia Adhatoda,g00316,Justicia Adhatoda,Terminalia Arjuna,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_8_0.jpg,Justicia Adhatoda,g00318,Centella Asiatica,Mikania Micrantha,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Justicia Adhatoda/Train/augmented_93_0.jpg,Justicia Adhatoda,g00320,Justicia Adhatoda,Mikania Micrantha,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Kalanchoe Pinnata/Test/augmented_10_0.jpg,Kalanchoe Pinnata,g00326,Kalanchoe Pinnata,Terminalia Arjuna,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_12_0.jpg,Kalanchoe Pinnata,g00328,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_13_0.jpg,Kalanchoe Pinnata,g00329,Centella Asiatica,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_197_0.jpg,Kalanchoe Pinnata,g00335,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_198_0.jpg,Kalanchoe Pinnata,g00336,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Test/augmented_6_0.jpg,Kalanchoe Pinnata,g00342,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_101_0.jpg,Kalanchoe Pinnata,g00347,Terminalia Arjuna,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_113_0.jpg,Kalanchoe Pinnata,g00358,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_116_0.jpg,Kalanchoe Pinnata,g00361,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_120_0.jpg,Kalanchoe Pinnata,g00365,Kalanchoe Pinnata,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Kalanchoe Pinnata/Train/augmented_122_0.jpg,Kalanchoe Pinnata,g00367,Terminalia Arjuna,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_123_0.jpg,Kalanchoe Pinnata,g00368,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_134_0.jpg,Kalanchoe Pinnata,g00377,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_136_0.jpg,Kalanchoe Pinnata,g00379,Terminalia Arjuna,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_137_0.jpg,Kalanchoe Pinnata,g00380,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_139_0.jpg,Kalanchoe Pinnata,g00382,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_147_0.jpg,Kalanchoe Pinnata,g00390,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_151_0.jpg,Kalanchoe Pinnata,g00394,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_154_0.jpg,Kalanchoe Pinnata,g00397,Terminalia Arjuna,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Kalanchoe Pinnata/Train/augmented_161_0.jpg,Kalanchoe Pinnata,g00404,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_167_0.jpg,Kalanchoe Pinnata,g00408,Terminalia Arjuna,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_175_0.jpg,Kalanchoe Pinnata,g00414,Centella Asiatica,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_191_0.jpg,Kalanchoe Pinnata,g00422,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_41_0.jpg,Kalanchoe Pinnata,g00428,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_46_0.jpg,Kalanchoe Pinnata,g00432,Mikania Micrantha,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Kalanchoe Pinnata/Train/augmented_56_0.jpg,Kalanchoe Pinnata,g00438,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_68_0.jpg,Kalanchoe Pinnata,g00449,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_70_0.jpg,Kalanchoe Pinnata,g00451,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_82_0.jpg,Kalanchoe Pinnata,g00460,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_91_0.jpg,Kalanchoe Pinnata,g00465,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Train/augmented_95_0.jpg,Kalanchoe Pinnata,g00469,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_20_0.jpg,Kalanchoe Pinnata,g00475,Kalanchoe Pinnata,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_24_0.jpg,Kalanchoe Pinnata,g00476,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata,Kalanchoe Pinnata
+Non Augmented/Mikania Micrantha/Test/augmented_48_0.jpg,Mikania Micrantha,g00489,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_53_0.jpg,Mikania Micrantha,g00494,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_55_0.jpg,Mikania Micrantha,g00496,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Test/augmented_59_0.jpg,Mikania Micrantha,g00500,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_100_0.jpg,Mikania Micrantha,g00509,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_102_0.jpg,Mikania Micrantha,g00511,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_119_0.jpg,Mikania Micrantha,g00529,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_122_0.jpg,Mikania Micrantha,g00533,Phyllanthus Emblica,Phyllanthus Emblica,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Mikania Micrantha/Train/augmented_124_0.jpg,Mikania Micrantha,g00535,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_126_0.jpg,Mikania Micrantha,g00537,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_12_0.jpg,Mikania Micrantha,g00541,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_136_0.jpg,Mikania Micrantha,g00548,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_141_0.jpg,Mikania Micrantha,g00554,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_145_0.jpg,Mikania Micrantha,g00558,Mikania Micrantha,Mikania Micrantha,Centella Asiatica,Centella Asiatica
+Non Augmented/Mikania Micrantha/Train/augmented_147_0.jpg,Mikania Micrantha,g00560,Centella Asiatica,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Mikania Micrantha/Train/augmented_14_0.jpg,Mikania Micrantha,g00563,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_151_0.jpg,Mikania Micrantha,g00565,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_184_0.jpg,Mikania Micrantha,g00590,Centella Asiatica,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_186_0.jpg,Mikania Micrantha,g00591,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_18_0.jpg,Mikania Micrantha,g00593,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_201_0.jpg,Mikania Micrantha,g00597,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_29_0.jpg,Mikania Micrantha,g00605,Kalanchoe Pinnata,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_35_0.jpg,Mikania Micrantha,g00611,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_36_0.jpg,Mikania Micrantha,g00612,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_43_0.jpg,Mikania Micrantha,g00617,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_87_0.jpg,Mikania Micrantha,g00624,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_88_0.jpg,Mikania Micrantha,g00625,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Train/augmented_90_0.jpg,Mikania Micrantha,g00627,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_72_0.jpg,Mikania Micrantha,g00638,Mikania Micrantha,Kalanchoe Pinnata,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_74_0.jpg,Mikania Micrantha,g00640,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_75_0.jpg,Mikania Micrantha,g00641,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Mikania Micrantha/Validation/augmented_81_0.jpg,Mikania Micrantha,g00644,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha,Mikania Micrantha
+Non Augmented/Phyllanthus Emblica/ Train/augmented_0_0.jpg,Phyllanthus Emblica,g00648,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_100_0.jpg,Phyllanthus Emblica,g00649,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_104_0.jpg,Phyllanthus Emblica,g00653,Phyllanthus Emblica,Justicia Adhatoda,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Phyllanthus Emblica/ Train/augmented_10_0.jpg,Phyllanthus Emblica,g00659,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_111_0.jpg,Phyllanthus Emblica,g00661,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_116_0.jpg,Phyllanthus Emblica,g00666,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_123_0.jpg,Phyllanthus Emblica,g00674,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_126_0.jpg,Phyllanthus Emblica,g00677,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_128_0.jpg,Phyllanthus Emblica,g00679,Justicia Adhatoda,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Phyllanthus Emblica/ Train/augmented_130_0.jpg,Phyllanthus Emblica,g00682,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_132_0.jpg,Phyllanthus Emblica,g00684,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_133_0.jpg,Phyllanthus Emblica,g00685,Mikania Micrantha,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_137_0.jpg,Phyllanthus Emblica,g00689,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_139_0.jpg,Phyllanthus Emblica,g00691,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_23_0.jpg,Phyllanthus Emblica,g00717,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_27_0.jpg,Phyllanthus Emblica,g00721,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_2_0.jpg,Phyllanthus Emblica,g00723,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_31_0.jpg,Phyllanthus Emblica,g00725,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_3_0.jpg,Phyllanthus Emblica,g00732,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_40_0.jpg,Phyllanthus Emblica,g00733,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_59_0.jpg,Phyllanthus Emblica,g00752,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_65_0.jpg,Phyllanthus Emblica,g00758,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_82_0.jpg,Phyllanthus Emblica,g00772,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_83_0.jpg,Phyllanthus Emblica,g00773,Phyllanthus Emblica,Justicia Adhatoda,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_95_0.jpg,Phyllanthus Emblica,g00783,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_97_0.jpg,Phyllanthus Emblica,g00783,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/ Train/augmented_99_0.jpg,Phyllanthus Emblica,g00786,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_143_0.jpg,Phyllanthus Emblica,g00789,Mikania Micrantha,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_145_0.jpg,Phyllanthus Emblica,g00791,Mikania Micrantha,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Phyllanthus Emblica/Test/augmented_151_0.jpg,Phyllanthus Emblica,g00796,Centella Asiatica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_152_0.jpg,Phyllanthus Emblica,g00797,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Phyllanthus Emblica/Test/augmented_159_0.jpg,Phyllanthus Emblica,g00804,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Terminalia Arjuna/Test/augmented_100_0.jpg,Terminalia Arjuna,g00805,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_102_0.jpg,Terminalia Arjuna,g00807,Terminalia Arjuna,Terminalia Arjuna,Phyllanthus Emblica,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_105_0.jpg,Terminalia Arjuna,g00810,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_110_0.jpg,Terminalia Arjuna,g00815,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_112_0.jpg,Terminalia Arjuna,g00817,Centella Asiatica,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_114_0.jpg,Terminalia Arjuna,g00819,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Test/augmented_96_0.jpg,Terminalia Arjuna,g00822,Justicia Adhatoda,Phyllanthus Emblica,Phyllanthus Emblica,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Train/augmented_143_0.jpg,Terminalia Arjuna,g00838,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_147_0.jpg,Terminalia Arjuna,g00842,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_148_0.jpg,Terminalia Arjuna,g00843,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_151_0.jpg,Terminalia Arjuna,g00847,Phyllanthus Emblica,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_164_0.jpg,Terminalia Arjuna,g00861,Justicia Adhatoda,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Terminalia Arjuna/Train/augmented_170_0.jpg,Terminalia Arjuna,g00867,Terminalia Arjuna,Centella Asiatica,Centella Asiatica,Centella Asiatica
+Non Augmented/Terminalia Arjuna/Train/augmented_171_0.jpg,Terminalia Arjuna,g00868,Terminalia Arjuna,Mikania Micrantha,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_18_0.jpg,Terminalia Arjuna,g00879,Justicia Adhatoda,Phyllanthus Emblica,Phyllanthus Emblica,Phyllanthus Emblica
+Non Augmented/Terminalia Arjuna/Train/augmented_195_0.jpg,Terminalia Arjuna,g00884,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_19_0.jpg,Terminalia Arjuna,g00887,Justicia Adhatoda,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_201_0.jpg,Terminalia Arjuna,g00890,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_41_0.jpg,Terminalia Arjuna,g00908,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_46_0.jpg,Terminalia Arjuna,g00912,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_47_0.jpg,Terminalia Arjuna,g00913,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_55_0.jpg,Terminalia Arjuna,g00921,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_65_0.jpg,Terminalia Arjuna,g00931,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_68_0.jpg,Terminalia Arjuna,g00934,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_69_0.jpg,Terminalia Arjuna,g00935,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_76_0.jpg,Terminalia Arjuna,g00942,Justicia Adhatoda,Phyllanthus Emblica,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Train/augmented_85_0.jpg,Terminalia Arjuna,g00948,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Validation/augmented_115_0.jpg,Terminalia Arjuna,g00957,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Validation/augmented_118_0.jpg,Terminalia Arjuna,g00959,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Validation/augmented_119_0.jpg,Terminalia Arjuna,g00960,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Validation/augmented_120_0.jpg,Terminalia Arjuna,g00961,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna
+Non Augmented/Terminalia Arjuna/Validation/augmented_121_0.jpg,Terminalia Arjuna,g00962,Kalanchoe Pinnata,Mikania Micrantha,Justicia Adhatoda,Justicia Adhatoda
+Non Augmented/Terminalia Arjuna/Validation/augmented_126_0.jpg,Terminalia Arjuna,g00966,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna,Terminalia Arjuna

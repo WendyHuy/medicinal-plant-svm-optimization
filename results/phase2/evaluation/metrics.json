@@ -1,0 +1,582 @@
+{
+  "v1_default": {
+    "feature_id": "v1",
+    "params": {
+      "kernel": "rbf",
+      "C": 1.0,
+      "gamma": "scale"
+    },
+    "n_test": 194,
+    "test_accuracy": 0.8298969072164949,
+    "test_macro_f1": 0.8295771206066043,
+    "test_balanced_accuracy": 0.8306502525252526,
+    "classification_report": {
+      "Centella Asiatica": {
+        "precision": 0.8,
+        "recall": 0.875,
+        "f1-score": 0.835820895522388,
+        "support": 32.0
+      },
+      "Justicia Adhatoda": {
+        "precision": 0.8235294117647058,
+        "recall": 0.875,
+        "f1-score": 0.8484848484848485,
+        "support": 32.0
+      },
+      "Kalanchoe Pinnata": {
+        "precision": 0.8928571428571429,
+        "recall": 0.7575757575757576,
+        "f1-score": 0.819672131147541,
+        "support": 33.0
+      },
+      "Mikania Micrantha": {
+        "precision": 0.8235294117647058,
+        "recall": 0.875,
+        "f1-score": 0.8484848484848485,
+        "support": 32.0
+      },
+      "Phyllanthus Emblica": {
+        "precision": 0.84375,
+        "recall": 0.84375,
+        "f1-score": 0.84375,
+        "support": 32.0
+      },
+      "Terminalia Arjuna": {
+        "precision": 0.8064516129032258,
+        "recall": 0.7575757575757576,
+        "f1-score": 0.78125,
+        "support": 33.0
+      },
+      "accuracy": 0.8298969072164949,
+      "macro avg": {
+        "precision": 0.8316862632149634,
+        "recall": 0.8306502525252526,
+        "f1-score": 0.8295771206066043,
+        "support": 194.0
+      },
+      "weighted avg": {
+        "precision": 0.831871501510481,
+        "recall": 0.8298969072164949,
+        "f1-score": 0.829276955090802,
+        "support": 194.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        28,
+        0,
+        0,
+        1,
+        2,
+        1
+      ],
+      [
+        1,
+        28,
+        1,
+        1,
+        1,
+        0
+      ],
+      [
+        2,
+        0,
+        25,
+        1,
+        0,
+        5
+      ],
+      [
+        2,
+        0,
+        1,
+        28,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        3,
+        27,
+        0
+      ],
+      [
+        1,
+        5,
+        1,
+        0,
+        1,
+        25
+      ]
+    ],
+    "labels": [
+      "Centella Asiatica",
+      "Justicia Adhatoda",
+      "Kalanchoe Pinnata",
+      "Mikania Micrantha",
+      "Phyllanthus Emblica",
+      "Terminalia Arjuna"
+    ],
+    "prediction_ms_per_image_median": 0.26281732474227826,
+    "feature_ms_per_image_single_batch": 9.444081391752052,
+    "model_bytes": 3291382,
+    "train_macro_f1": 0.9961583612208971,
+    "train_accuracy": 0.9961439588688946,
+    "fit_seconds": 0.17535850399963238,
+    "support_vectors": 764,
+    "cv": {
+      "mean_cv_macro_f1": 0.7520848848348641,
+      "std_cv_macro_f1": 0.019265402533300353,
+      "fold_scores": [
+        0.7467460609469515,
+        0.7360519318377099,
+        0.7734566617199312
+      ],
+      "train_fold_scores": [
+        0.9980949892775111,
+        0.9980837215449169,
+        0.9961218092252575
+      ],
+      "oof_macro_f1": 0.7515605928423739,
+      "oof_accuracy": 0.7506426735218509
+    },
+    "train_test_macro_f1_gap": 0.1665812406142928
+  },
+  "baseline": {
+    "feature_id": "texture128",
+    "params": {
+      "kernel": "rbf",
+      "C": 1.0,
+      "gamma": "scale"
+    },
+    "n_test": 194,
+    "test_accuracy": 0.8298969072164949,
+    "test_macro_f1": 0.8305620483542492,
+    "test_balanced_accuracy": 0.8300189393939394,
+    "classification_report": {
+      "Centella Asiatica": {
+        "precision": 0.7741935483870968,
+        "recall": 0.75,
+        "f1-score": 0.7619047619047619,
+        "support": 32.0
+      },
+      "Justicia Adhatoda": {
+        "precision": 0.9285714285714286,
+        "recall": 0.8125,
+        "f1-score": 0.8666666666666667,
+        "support": 32.0
+      },
+      "Kalanchoe Pinnata": {
+        "precision": 0.9032258064516129,
+        "recall": 0.8484848484848485,
+        "f1-score": 0.875,
+        "support": 33.0
+      },
+      "Mikania Micrantha": {
+        "precision": 0.8285714285714286,
+        "recall": 0.90625,
+        "f1-score": 0.8656716417910447,
+        "support": 32.0
+      },
+      "Phyllanthus Emblica": {
+        "precision": 0.717948717948718,
+        "recall": 0.875,
+        "f1-score": 0.7887323943661971,
+        "support": 32.0
+      },
+      "Terminalia Arjuna": {
+        "precision": 0.8666666666666667,
+        "recall": 0.7878787878787878,
+        "f1-score": 0.8253968253968254,
+        "support": 33.0
+      },
+      "accuracy": 0.8298969072164949,
+      "macro avg": {
+        "precision": 0.8365295994328253,
+        "recall": 0.8300189393939394,
+        "f1-score": 0.8305620483542492,
+        "support": 194.0
+      },
+      "weighted avg": {
+        "precision": 0.8370287400217562,
+        "recall": 0.8298969072164949,
+        "f1-score": 0.8307644851000654,
+        "support": 194.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        24,
+        0,
+        2,
+        1,
+        5,
+        0
+      ],
+      [
+        1,
+        26,
+        0,
+        2,
+        1,
+        2
+      ],
+      [
+        3,
+        0,
+        28,
+        1,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        1,
+        29,
+        1,
+        0
+      ],
+      [
+        1,
+        2,
+        0,
+        0,
+        28,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        2,
+        4,
+        26
+      ]
+    ],
+    "labels": [
+      "Centella Asiatica",
+      "Justicia Adhatoda",
+      "Kalanchoe Pinnata",
+      "Mikania Micrantha",
+      "Phyllanthus Emblica",
+      "Terminalia Arjuna"
+    ],
+    "prediction_ms_per_image_median": 0.04888637628858905,
+    "feature_ms_per_image_single_batch": 23.575139860824525,
+    "model_bytes": 384346,
+    "train_macro_f1": 0.9705448133235147,
+    "train_accuracy": 0.9704370179948586,
+    "fit_seconds": 0.030097284000021318,
+    "support_vectors": 660,
+    "cv": {
+      "mean_cv_macro_f1": 0.8562956194314433,
+      "std_cv_macro_f1": 0.01813515225423227,
+      "fold_scores": [
+        0.8398869341324584,
+        0.8757671725765883,
+        0.8532327515852831
+      ],
+      "train_fold_scores": [
+        0.9691933590739938,
+        0.971219152021054,
+        0.9671963681681467
+      ],
+      "oof_macro_f1": 0.8566274005970618,
+      "oof_accuracy": 0.8560411311053985
+    },
+    "train_test_macro_f1_gap": 0.13998276496926554
+  },
+  "random": {
+    "feature_id": "texture128",
+    "params": {
+      "kernel": "rbf",
+      "C": 13.28777377006487,
+      "gamma": 0.006029953818540779
+    },
+    "n_test": 194,
+    "test_accuracy": 0.8865979381443299,
+    "test_macro_f1": 0.8870532222751879,
+    "test_balanced_accuracy": 0.8869949494949495,
+    "classification_report": {
+      "Centella Asiatica": {
+        "precision": 0.7878787878787878,
+        "recall": 0.8125,
+        "f1-score": 0.8,
+        "support": 32.0
+      },
+      "Justicia Adhatoda": {
+        "precision": 0.9142857142857143,
+        "recall": 1.0,
+        "f1-score": 0.9552238805970149,
+        "support": 32.0
+      },
+      "Kalanchoe Pinnata": {
+        "precision": 0.9666666666666667,
+        "recall": 0.8787878787878788,
+        "f1-score": 0.9206349206349206,
+        "support": 33.0
+      },
+      "Mikania Micrantha": {
+        "precision": 0.9354838709677419,
+        "recall": 0.90625,
+        "f1-score": 0.9206349206349206,
+        "support": 32.0
+      },
+      "Phyllanthus Emblica": {
+        "precision": 0.7837837837837838,
+        "recall": 0.90625,
+        "f1-score": 0.8405797101449275,
+        "support": 32.0
+      },
+      "Terminalia Arjuna": {
+        "precision": 0.9642857142857143,
+        "recall": 0.8181818181818182,
+        "f1-score": 0.8852459016393442,
+        "support": 33.0
+      },
+      "accuracy": 0.8865979381443299,
+      "macro avg": {
+        "precision": 0.8920640896447348,
+        "recall": 0.8869949494949495,
+        "f1-score": 0.8870532222751879,
+        "support": 194.0
+      },
+      "weighted avg": {
+        "precision": 0.8928209154265023,
+        "recall": 0.8865979381443299,
+        "f1-score": 0.887217007727373,
+        "support": 194.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        26,
+        0,
+        1,
+        1,
+        4,
+        0
+      ],
+      [
+        0,
+        32,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        29,
+        1,
+        0,
+        0
+      ],
+      [
+        2,
+        1,
+        0,
+        29,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        29,
+        1
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        4,
+        27
+      ]
+    ],
+    "labels": [
+      "Centella Asiatica",
+      "Justicia Adhatoda",
+      "Kalanchoe Pinnata",
+      "Mikania Micrantha",
+      "Phyllanthus Emblica",
+      "Terminalia Arjuna"
+    ],
+    "prediction_ms_per_image_median": 0.0443884793816272,
+    "feature_ms_per_image_single_batch": 23.575139860824525,
+    "model_bytes": 355153,
+    "train_macro_f1": 1.0,
+    "train_accuracy": 1.0,
+    "fit_seconds": 0.030821070000001782,
+    "support_vectors": 604,
+    "cv": {
+      "mean_cv_macro_f1": 0.8794242726646431,
+      "std_cv_macro_f1": 0.02041731351634656,
+      "fold_scores": [
+        0.8657202717628106,
+        0.9028900312902385,
+        0.8696625149408801
+      ],
+      "train_fold_scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "oof_macro_f1": 0.8795718343146705,
+      "oof_accuracy": 0.8791773778920309
+    },
+    "train_test_macro_f1_gap": 0.1129467777248121
+  },
+  "tpe": {
+    "feature_id": "texture128",
+    "params": {
+      "kernel": "rbf",
+      "C": 15.010025821956374,
+      "gamma": 0.005581064619572679
+    },
+    "n_test": 194,
+    "test_accuracy": 0.8917525773195877,
+    "test_macro_f1": 0.8918906266834558,
+    "test_balanced_accuracy": 0.8920454545454546,
+    "classification_report": {
+      "Centella Asiatica": {
+        "precision": 0.7878787878787878,
+        "recall": 0.8125,
+        "f1-score": 0.8,
+        "support": 32.0
+      },
+      "Justicia Adhatoda": {
+        "precision": 0.8888888888888888,
+        "recall": 1.0,
+        "f1-score": 0.9411764705882353,
+        "support": 32.0
+      },
+      "Kalanchoe Pinnata": {
+        "precision": 0.9666666666666667,
+        "recall": 0.8787878787878788,
+        "f1-score": 0.9206349206349206,
+        "support": 33.0
+      },
+      "Mikania Micrantha": {
+        "precision": 0.9354838709677419,
+        "recall": 0.90625,
+        "f1-score": 0.9206349206349206,
+        "support": 32.0
+      },
+      "Phyllanthus Emblica": {
+        "precision": 0.8285714285714286,
+        "recall": 0.90625,
+        "f1-score": 0.8656716417910447,
+        "support": 32.0
+      },
+      "Terminalia Arjuna": {
+        "precision": 0.9655172413793104,
+        "recall": 0.8484848484848485,
+        "f1-score": 0.9032258064516129,
+        "support": 33.0
+      },
+      "accuracy": 0.8917525773195877,
+      "macro avg": {
+        "precision": 0.8955011473921374,
+        "recall": 0.8920454545454546,
+        "f1-score": 0.8918906266834558,
+        "support": 194.0
+      },
+      "weighted avg": {
+        "precision": 0.8962288876666822,
+        "recall": 0.8917525773195877,
+        "f1-score": 0.8920972219088146,
+        "support": 194.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        26,
+        0,
+        1,
+        1,
+        4,
+        0
+      ],
+      [
+        0,
+        32,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        29,
+        1,
+        0,
+        0
+      ],
+      [
+        2,
+        1,
+        0,
+        29,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        29,
+        1
+      ],
+      [
+        1,
+        2,
+        0,
+        0,
+        2,
+        28
+      ]
+    ],
+    "labels": [
+      "Centella Asiatica",
+      "Justicia Adhatoda",
+      "Kalanchoe Pinnata",
+      "Mikania Micrantha",
+      "Phyllanthus Emblica",
+      "Terminalia Arjuna"
+    ],
+    "prediction_ms_per_image_median": 0.04365498195831428,
+    "feature_ms_per_image_single_batch": 23.575139860824525,
+    "model_bytes": 349402,
+    "train_macro_f1": 1.0,
+    "train_accuracy": 1.0,
+    "fit_seconds": 0.027555648000088695,
+    "support_vectors": 595,
+    "cv": {
+      "mean_cv_macro_f1": 0.8833188349091192,
+      "std_cv_macro_f1": 0.02124658168654742,
+      "fold_scores": [
+        0.8657202717628106,
+        0.9069213311585583,
+        0.8773149018059887
+      ],
+      "train_fold_scores": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "oof_macro_f1": 0.8835371353213374,
+      "oof_accuracy": 0.8830334190231363
+    },
+    "train_test_macro_f1_gap": 0.10810937331654424
+  }
+}

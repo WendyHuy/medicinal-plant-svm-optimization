@@ -1,0 +1,38 @@
+{
+  "selected_before_test": "random",
+  "selected_feature_id": "texture128",
+  "delta_test_macro_f1": 0.05649117392093872,
+  "delta_test_accuracy": 0.05670103092783496,
+  "corrected_errors": 13,
+  "new_errors": 2,
+  "mcnemar_exact_p_accuracy": 0.00738525390625,
+  "test_did_not_change_selection": true,
+  "bootstrap": {
+    "method": "paired class-stratified group percentile bootstrap",
+    "iterations": 2000,
+    "seed": 2028,
+    "macro_f1_ci95": {
+      "v1_default": [
+        0.7756501242065028,
+        0.8820774786003909
+      ],
+      "baseline": [
+        0.7741758891249853,
+        0.881243338570324
+      ],
+      "random": [
+        0.8420844054445076,
+        0.9279083628519419
+      ],
+      "tpe": [
+        0.8481877531246305,
+        0.9325987974171617
+      ]
+    },
+    "selected_minus_baseline_macro_f1_ci95": [
+      0.020076433388215676,
+      0.0975676776643713
+    ],
+    "limitation": "Groups are duplicate heuristics, not verified plant/leaf/session IDs; interval is conditional on this holdout."
+  }
+}
