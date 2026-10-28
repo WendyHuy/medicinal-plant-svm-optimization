@@ -1,0 +1,8 @@
+{
+  "report_pages": 11,
+  "defense_pages": 1,
+  "all_rendered_pages_visually_reviewed": true,
+  "font": "Times New Roman in DOCX; Nimbus Roman fallback in rendered PDF",
+  "equations": "native OMML",
+  "source": "saved phase2 logs"
+}

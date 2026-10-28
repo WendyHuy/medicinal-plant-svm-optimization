@@ -61,7 +61,7 @@ def main():
     cis=np.array([comparison['bootstrap']['macro_f1_ci95'][n] for n in names])*100
     ax.bar(x,values,color=[COLORS[n] for n in names],width=.65)
     ax.errorbar(x,values,yerr=np.vstack([values-cis[:,0],cis[:,1]-values]),fmt='none',ecolor='#303030',capsize=5)
-    for i,v in enumerate(values):ax.text(i,v+1,f'{v:.2f}%',ha='center',va='bottom',fontweight='bold')
+    for i,v in enumerate(values):ax.text(i,cis[i,1]+1.2,f'{v:.2f}%',ha='center',va='bottom',fontweight='bold')
     ax.set(xticks=x,xticklabels=['Giai đoạn 1','Trước HPO','Sau Random\nđã chọn trước test','Sau TPE'],ylim=(0,103),ylabel='Macro-F1 test (%)',title='Cùng 194 ảnh test · khoảng bootstrap 95%')
     save(fig,'before_after_test.png')
     labels=metrics['baseline']['labels'];short=['Centella','Justicia','Kalanchoe','Mikania','Phyllanthus','Terminalia']
@@ -80,12 +80,13 @@ def main():
     ax.set(yticks=x,yticklabels=labels,xlim=(0,105),xlabel='F1 test mỗi lớp (%)',title='Thay đổi theo từng loài');ax.legend(loc='lower left');ax.invert_yaxis();save(fig,'per_class_f1.png')
     df=pd.read_csv(R/'evaluation/predictions.csv')
     failed=df[df.random!=df.label].head(6)
-    fig,axes=plt.subplots(2,3,figsize=(9,6.5))
+    fig,axes=plt.subplots(2,3,figsize=(9,8))
     for ax,(_,row) in zip(axes.flat,failed.iterrows()):
         ax.imshow(load_rgb(ROOT/'data/raw'/row.path));ax.axis('off')
         ax.set_title(f"Thật: {row.label}\nDự đoán: {row.random}",fontsize=9)
     fig.suptitle('Ảnh sai sau tối ưu · chỉ phân tích sau khi đã khóa mô hình',fontsize=12)
-    save(fig,'test_failure_examples.png')
+    fig.subplots_adjust(top=.88,bottom=.02,wspace=.16,hspace=.35)
+    fig.savefig(OUT/'test_failure_examples.png',dpi=170,bbox_inches='tight');plt.close(fig)
 
 
 if __name__=='__main__':main()

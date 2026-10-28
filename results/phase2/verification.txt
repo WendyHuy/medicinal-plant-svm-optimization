@@ -3,6 +3,7 @@ test_descriptors_handle_constant_and_color_images (test_phase2.DescriptorAndStat
 test_paired_bootstrap_identical_models_has_zero_difference (test_phase2.DescriptorAndStatisticsChecks.test_paired_bootstrap_identical_models_has_zero_difference) ... ok
 test_paired_bootstrap_respects_groups_with_two_members (test_phase2.DescriptorAndStatisticsChecks.test_paired_bootstrap_respects_groups_with_two_members) ... ok
 test_ablation_and_caches_are_development_only (test_phase2.Phase2ArtifactsChecks.test_ablation_and_caches_are_development_only) ... ok
+test_deployed_models_match_frozen_choice_and_checksums (test_phase2.Phase2ArtifactsChecks.test_deployed_models_match_frozen_choice_and_checksums) ... ok
 test_final_metrics_recompute_from_predictions_and_locked_choice (test_phase2.Phase2ArtifactsChecks.test_final_metrics_recompute_from_predictions_and_locked_choice) ... ok
 test_frozen_models_have_same_training_rows_and_code (test_phase2.Phase2ArtifactsChecks.test_frozen_models_have_same_training_rows_and_code) ... ok
 test_hpo_budget_and_logged_scores (test_phase2.Phase2ArtifactsChecks.test_hpo_budget_and_logged_scores) ... ok
@@ -14,6 +15,6 @@ test_no_image_or_group_leakage (test_research.ResearchChecks.test_no_image_or_gr
 test_scaler_fits_only_training_rows_in_cv (test_research.ResearchChecks.test_scaler_fits_only_training_rows_in_cv) ... ok
 
 ----------------------------------------------------------------------
-Ran 14 tests in 0.457s
+Ran 15 tests in 0.599s
 
 OK

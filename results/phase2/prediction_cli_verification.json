@@ -1,0 +1,7 @@
+{
+  "image_scope": "development",
+  "label": "Centella Asiatica",
+  "command": "python -m src.predict <development image> --compare",
+  "returncode": 0,
+  "stdout": "{\n  \"before\": \"Centella Asiatica\",\n  \"after\": \"Centella Asiatica\"\n}\nPhân loại trong 6 lớp đã học. Chưa có cơ chế từ chối loài ngoài tập này.\n"
+}
