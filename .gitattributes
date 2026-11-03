@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.joblib -text
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.pdf -text
+*.docx -text
+*.zip -text
+*.bundle -text

@@ -3,6 +3,9 @@
 - 27/10/2026: xác minh nguồn, kiểm toán ảnh và chạy pilot SVM 120 trial.
 - 27/10/2026: ghi protocol giai đoạn 2; đánh giá 5 bộ đặc trưng trên development; chạy 400 trial; đóng băng lựa chọn trước test.
 - 28/10/2026: tiếp tục phiên làm việc, kiểm tra lại nhật ký và mô hình; chấm test theo lựa chọn đã khóa; kiểm chứng, đóng gói, viết báo cáo và chuẩn bị GitHub.
+- 29/10/2026: nghiên cứu nguồn dữ liệu Việt Nam, chọn 20 loài ứng viên/12 ưu tiên, kiểm tra metadata và ảnh mẫu; phát hiện nhãn–ảnh nghi không phù hợp và ảnh trùng mang nhãn mâu thuẫn.
+- 03/11/2026: khôi phục bản bàn giao và lịch sử Git, ghi giao thức bốn siêu tham số, chạy nested grouped CV và fit mô hình v0.3; hoàn thành 3.600 trial, không chấm lại test lịch sử.
+- 03/11/2026: thêm API ảnh lá, kiểm tra dữ liệu nhiều bộ phận, notebook kết quả, báo cáo 12 trang và bản tóm tắt một trang; kiểm chứng để người dùng tự đưa lên GitHub.
 
 Các commit được tạo tại thời điểm đóng gói/kiểm chứng từng mốc công việc. Chúng không thay thế lịch sử làm bài xuyên suốt 5 tuần mà đề môn học yêu cầu. Không thay đổi ngày commit để tạo tiến độ giả.
 

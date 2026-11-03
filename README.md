@@ -1,118 +1,98 @@
-# Tối ưu SVM trong nhận diện cây dược liệu qua ảnh lá
+# Tối ưu SVM nhận diện cây dược liệu v0.3
 
-**Học máy có giám sát — Random Search và TPE với ngân sách bằng nhau.**
-Huỳnh Gia Huy · Bài tập lớn tối ưu hóa · Thực nghiệm 27–28/10/2026.
+Huỳnh Gia Huy · 2474802010135 · Đại học Văn Lang · 03/11/2026.
 
-Đã huấn luyện trên BDMediLeaves **6 loài**. Pipeline: HSV + LBP đa tỉ lệ + GLCM (126 đặc trưng) → StandardScaler → SVM. Tối ưu nâng Macro-F1 từ **83,06% lên 88,71%** trên cùng 194 ảnh test giữ riêng. Đây là kết quả trong bộ dữ liệu, chưa phải độ chính xác ngoài thực tế.
+Học máy có giám sát trên **sáu lớp ảnh lá BDMediLeaves**, chạy CPU. HSV + LBP + GLCM tạo 126 đặc trưng → StandardScaler → SVM. Bản v0.3 đã tìm **4 siêu tham số**: kernel, C, gamma có điều kiện và class_weight; có mô hình học sẵn, CLI, API cục bộ, notebook, báo cáo và lịch sử Git.
 
-## Trước và sau tối ưu
+## Kết quả mới và phạm vi
 
-| Mô hình cùng 126 đặc trưng | Macro-F1 test | Accuracy test | Đúng / 194 |
+| Nested OOF trên 778 ảnh development cũ | Macro-F1 | Accuracy | Đúng |
 |---|---:|---:|---:|
-| SVM mặc định | 83,06% | 82,99% | 161 |
-| **Random Search được chọn** | **88,71%** | **88,66%** | **172** |
-| TPE đối chứng | 89,19% | 89,18% | 173 |
+| SVM mặc định | 86,17% | 86,12% | 670 |
+| Chính sách chọn cấu hình 4 tham số | **88,06%** | **88,05%** | **685** |
 
-Mức tăng chính **+5,65 điểm phần trăm Macro-F1**, khoảng bootstrap ghép cặp 95% **[+2,01; +9,76]** điểm phần trăm. Sửa 13 lỗi, phát sinh 2 lỗi mới. Khoảng này có điều kiện theo holdout hiện tại, không chứng minh khả năng tổng quát sang cây/phiên chụp mới.
+Tăng **1,89 điểm phần trăm Macro-F1**; sửa 34 lỗi, phát sinh 19 lỗi. Đây là điểm đánh giá chính sách tìm kiếm/refit ở các outer fold, không phải điểm test mới của một mô hình refit duy nhất. Biểu diễn đã được chọn trên development trong lịch sử; nhóm chỉ dựa trên ảnh trùng/gần trùng, chưa phải ID cây. Chưa có đánh giá ngoài miền tại Việt Nam.
 
-![Kết quả test](results/phase2/figures/before_after_test.png)
+![Nested OOF](results/phase3/figures/nested_comparison.png)
 
-**Vì sao giữ Random Search?** Quy tắc đã khóa trước test: chọn phương pháp bằng trung bình best-CV qua 5 seed, rồi chọn cấu hình best-CV của phương pháp đó. Random đạt 87,21% ± 0,76 điểm phần trăm; TPE 86,85% ± 2,03. TPE hơn một ảnh test không được dùng để chọn lại mô hình. Số ± là SD mẫu giữa seed, không phải khoảng tin cậy hay các bộ dữ liệu độc lập.
+| Search cùng 40 trial/seed | Mean nested OOF qua 5 seed | SD giữa seed |
+|---|---:|---:|
+| Random3 | 87,80% | 0,42 điểm % |
+| Random4 | 86,36% | 2,44 điểm % |
+| TPE4 | 87,29% | 0,83 điểm % |
 
-## Chạy trên Windows
+**Chưa chứng minh thêm tham số thứ tư làm chất lượng tốt hơn ổn định.** Chính sách selected4 chọn qua năm seed và hai phương pháp, nên có tổng ngân sách khác một seed ở bảng này. Cấu hình bàn giao chọn bằng inner CV toàn development: **TPE4, RBF, C=6.602593199343702, gamma=0.005818740333111208, class_weight=None**. None là kết quả tìm kiếm hợp lệ.
 
-Cài Python 3.12, mở PowerShell tại thư mục README. Không cần GPU.
+Test lịch sử 194 ảnh vẫn giữ nguyên: Macro-F1 baseline 83,06%, Random3 được chọn 88,71%, TPE3 đối chứng 89,19%. **Không chấm lại test đó cho v0.3.** Không so trực tiếp 88,71% test cũ với 88,06% nested OOF như một mức tăng/giảm. Xem [báo cáo toàn dự án](report/Bao_cao_toan_bo_du_an_thao_duoc_v0_3.pdf).
+
+## Chạy ngay trên Windows
+
+Cài Python 3.12 và mở PowerShell trong thư mục README:
 
 ```powershell
 py -3.12 -m venv .venv
-.\.venv\Scripts\python.exe -m pip install -r requirements.txt
-.\.venv\Scripts\python.exe -m src.predict "C:\duong_dan\anh_la.jpg" --compare
+.\.venv\Scripts\python.exe -m pip install -r requirements-api.txt
+.\.venv\Scripts\python.exe -m src.predict examples/centella_development.jpg --compare
 .\.venv\Scripts\python.exe -m unittest discover -s tests -v
+.\.venv\Scripts\python.exe -m uvicorn src.service:app --host 127.0.0.1 --port 8000
 ```
 
-Mô hình đã học nằm ở `models/baseline.joblib` và `models/optimized.joblib`; không cần tải dữ liệu để dự đoán ảnh của bạn. Chỉ nạp joblib từ nguồn tin cậy. Đầu ra là nhãn trong sáu lớp, không có xác suất hiệu chỉnh hay cơ chế phát hiện loài lạ.
+Mở `http://127.0.0.1:8000/docs` để thử API: GET `/health`, POST `/predict`, chọn file ảnh lá. Không cần tải dataset để chạy CLI/API. Ảnh ví dụ thuộc development, chỉ dùng smoke test, có ghi công tại `examples/ATTRIBUTION.json`.
 
-Linux/macOS: tạo môi trường bằng `python3 -m venv .venv`; dùng `.venv/bin/python` thay đường dẫn Python Windows.
+Linux/macOS: tạo venv bằng `python3 -m venv .venv`; dùng `.venv/bin/python` thay đường dẫn Windows. Nếu chỉ cần CLI/huấn luyện, cài `requirements.txt`; API dùng `requirements-api.txt`. `requirements-artifacts.txt` dành cho tạo báo cáo/notebook.
 
-## Tái lập
+API nhận JPEG/PNG/WEBP, tối đa 10 MB và 20 triệu pixel. `organ=leaf` là loại đầu vào duy nhất được hỗ trợ; hệ thống chưa tự phát hiện cơ quan. API trả nhãn và decision score, **không phải xác suất đúng**; chưa phát hiện loài ngoài sáu lớp. Không dùng kết quả để quyết định sử dụng cây làm thuốc. Chỉ nạp joblib từ nguồn tin cậy.
 
-Với môi trường đã cài requirements, chạy từ thư mục gốc:
+## Thí nghiệm và tái lập
 
-```bash
-python -m src.reproduce --out results/reproduction_01
+Giao thức: [PHASE3_PROTOCOL.md](docs/PHASE3_PROTOCOL.md). Năm outer fold, ba inner fold theo nhóm; 40 trial x 5 seed {11,29,47,71,101} cho mỗi Random3/Random4/TPE4. Tổng **3.600 trial / 10.800 inner CV fit**, thêm baseline và refit được ghi riêng. TPE khởi động 10 trial, không pruning, n_jobs=1 và một luồng BLAS/OMP.
+
+Để tái lập trong workspace riêng, giữ mô hình bàn giao:
+
+```powershell
+$env:OPENBLAS_NUM_THREADS="1"
+$env:OMP_NUM_THREADS="1"
+.\.venv\Scripts\python.exe -m src.reproduce_v03 --out results/reproduction_v03_01
 ```
 
-Lệnh tải archive khoảng 60 MB và kiểm tra SHA-256, dùng manifest cố định, chạy 5 thử nghiệm đặc trưng, 400 trial HPO, lưu mô hình và chấm test một đợt trong thư mục mới. Không ghi đè kết quả gốc. Không dùng nhiều lần tái lập để chọn test thuận lợi nhất. Thời gian phụ thuộc CPU; trích đặc trưng tốn phần lớn thời gian.
+Lệnh tải archive đã xác minh SHA-256 nếu chưa có, chỉ dùng development, chạy toàn bộ tìm kiếm và lưu trọng số mới dưới thư mục tái lập. Không chấm lại test lịch sử. Dùng đường dẫn mới cho mỗi run. Cài đúng phiên bản để giảm sai khác; thời gian phụ thuộc CPU. `src.phase3` là runner nội bộ, mặc định chỉ dùng cho lần chạy release mới.
 
-Nếu tải tự động thất bại, lấy **Non Augmented Images-.zip** tại [nguồn chính thức](https://data.mendeley.com/datasets/t9rns2gmr3/1), đặt vào `data/source/originals.zip`, chạy lại. Kiểm tra riêng bước kiểm toán:
+Tái lập giai đoạn 2 lịch sử trong clone riêng: `python -m src.reproduce --out results/reproduction_phase2_01`. Không dùng việc chạy lại để chọn một kết quả test thuận lợi.
 
-```bash
-python -m src.download
-python -m src.audit --images data/raw --out data/audit_recheck
+## Mở rộng cây dược liệu Việt Nam
+
+[Hồ sơ nghiên cứu](research/vietnam/Nghien_cuu_chon_du_lieu_thao_duoc_VN.md) có 20 ứng viên, ưu tiên rau má, diếp cá, tía tô, húng chanh, lá lốt, trầu không, lô hội, thuốc bỏng, cỏ nhọ nồi, xuyên tâm liên, ích mẫu và râu mèo. Đây là phạm vi thu thập, **chưa phải 12 lớp đã huấn luyện**.
+
+Metadata TDTU cho 69 ứng viên theo tên; sàng lọc 18 ảnh có chủ đích phát hiện 8 ảnh nghi nhãn không phù hợp và một cặp trùng byte mang hai nhãn. Mẫu này không đại diện để ước lượng lỗi toàn dataset. Các ảnh hiện chưa hoàn tất định danh/quyền sử dụng.
+
+Bộ kiểm tra mới chặn nhãn chưa xác minh, thiếu giấy phép, ghép ảnh khác cây, rò rỉ theo cây/quan sát và hash ảnh thay đổi:
+
+```powershell
+.\.venv\Scripts\python.exe -m src.curation validate --input research/vietnam/annotation_records_v0_1.json --multi-organ --out results/vietnam_readiness_recheck.json
 ```
 
-SHA-256 manifest: `5a352a09cef2b6a84855fa1a23b64f5032f6c4c3e47e154600eec4e06f3b33ff`.
-Notebook `notebooks/So_sanh_truoc_sau_toi_uu.ipynb` đọc kết quả đã lưu; Run All không huấn luyện hoặc mở lại test.
+Kết quả hiện tại là cấu trúc hợp lệ nhưng **ready_for_training=false**, 0 train_keep. Mã thoát 2 báo chưa sẵn sàng, không phải lỗi cần bỏ qua. Muốn kiểm tra file ảnh thật, bổ sung `image_path`, hash và `--images-root`. Thu nhiều bộ phận phải cùng cá thể/khóm; tuổi để null khi không có nhật ký gieo/trồng. Mục tiêu thu thập 30–50 nhóm độc lập/loài là đề xuất, không phải lượng ảnh hiện có.
 
-## Dữ liệu và chống rò rỉ
-
-- BDMediLeaves 6 loài, DOI **10.17632/t9rns2gmr3.1**, CC BY 4.0; khác bản 10 loài.
-- 1.217 ảnh đọc được; bỏ 245 bản trùng điểm ảnh → 972 ảnh. 31/121 ảnh test gốc trùng train gốc nên không dùng cách chia nguồn.
-- pHash dưới phép quay/lật tìm một cặp gần trùng, giữ cùng nhóm; tổng 971 nhóm.
-- 778 ảnh development; 194 ảnh test / 193 nhóm. Ba fold nhóm cố định trên development; StandardScaler fit trong mỗi fold.
-- Không có ID cây/lá/phiên chụp; nhóm chỉ là heuristic. Có tên tệp chứa `augmented` trong archive Non Augmented, nên không khẳng định ảnh camera chưa xử lý.
-
-## Bài toán tối ưu
-
-Biến x=(kernel,C,gamma): kernel ∈ {linear,rbf}; C log[10⁻³,10³]; gamma log[10⁻⁵,10⁻¹] khi RBF. Mục tiêu tối thiểu hóa f(x)=1−mean CV Macro-F1 trên 3 fold.
-
-Mỗi phương pháp **40 trial × 5 seed** {11,29,47,71,101}: tổng 400 trial / 1.200 CV fit, không tính ablation, baseline và refit. TPE khởi động ngẫu nhiên 10 trial; không pruning; n_jobs=1; BLAS/OMP=1. Đây là tối ưu siêu tham số bên ngoài; bộ giải SVM học trọng số/support vector trong từng lần fit.
-
-| Phương pháp | Mean best-CV | SD giữa seed | Giây / 40 trial |
-|---|---:|---:|---:|
-| Random Search | 87,21% | 0,76 điểm % | 3,18 |
-| TPE | 86,85% | 2,03 điểm % | 3,19 |
-
-Thời gian đo trên CPU với đặc trưng đã cache, không gồm tải/trích ảnh; không cam kết tốc độ trên máy khác. Cấu hình chọn: **RBF, C=13.28777377006487, gamma=0.006029953818540779**, seed 101, trial 24. Hai mô hình bàn giao chỉ học 778 ảnh development.
-
-![Hội tụ](results/phase2/figures/convergence.png)
-
-## Hướng phát triển đã kiểm tra
-
-Năm bộ mô tả, cùng SVM mặc định và fold: v1 HOG+HSV+LBP (958 chiều, CV 75,21%); bỏ màu (910, 71,50%); texture128 (126, **85,63%**); thêm HOG 128 px (1.890, 78,04%); crop giữa 80% rồi thêm HOG (1.890, 78,50%). Chọn texture128 bằng development.
-
-Test của v1 mặc định là 82,96% Macro-F1, gần baseline texture128 83,06%. Mức tăng khoảng 10 điểm CV khi đổi đặc trưng **không tương đương tăng 10 điểm test**. So sánh HPO chính giữ cùng 126 đặc trưng.
-
-## Tệp cần đọc
+## Tệp chính
 
 | Tệp | Nội dung |
 |---|---|
-| `report/Bao_cao_SVM_thao_duoc.docx` và `.pdf` | Báo cáo cuối |
-| `report/Tom_tat_bao_ve_SVM.docx` và `.pdf` | Tóm tắt bảo vệ một trang |
-| `docs/PHASE2_PROTOCOL.md` | Quy tắc ghi trước thí nghiệm |
-| `data/audit/manifest.csv` | Hash, nhóm, tập và fold |
-| `results/phase2/hpo/trials.csv` và `.jsonl` | Toàn bộ 400 trial |
-| `results/phase2/final/frozen_selection.json` | Lựa chọn đóng băng trước test |
-| `results/phase2/evaluation/` | Dự đoán 194 ảnh, metrics, bootstrap |
-| `results/phase2/figures/` | Ablation, hội tụ, biến thiên, confusion matrix, lỗi |
-| `models/metadata.json` | Hash hai mô hình bàn giao |
-| `docs/MODEL_CARD.md` | Phạm vi và hướng học sâu |
-| `docs/DEVELOPMENT_HISTORY.md` | Tiến độ thực tế, không lùi ngày commit |
+| `models/phase3_optimized.joblib`, `phase3_metadata.json` | Trọng số v0.3, tham số và hash |
+| `models/baseline.joblib`, `optimized.joblib` | Mốc giai đoạn 2 |
+| `results/phase3/protocol.json` | Ngân sách và hash trước trial đầu |
+| `results/phase3/trials.jsonl` | 3.600 trial gốc |
+| `results/phase3/nested_predictions.csv` | 778 dự đoán outer OOF và đối chứng |
+| `results/phase3/nested_evaluation.json` | Chỉ số, per-class, confusion và bootstrap chẩn đoán |
+| `notebooks/Ket_qua_du_an_v0_3.ipynb` | Notebook kết quả, Run All không huấn luyện |
+| `report/Bao_cao_toan_bo_du_an_thao_duoc_v0_3.*` | Báo cáo toàn dự án Word/PDF/Markdown |
+| `report/Tom_tat_bao_ve_v0_3.*` | Tóm tắt bảo vệ một trang |
+| `docs/GITHUB_UPLOAD.md` | Tự push repo, bảo toàn lịch sử bằng bundle |
+| `research/vietnam/` | Loài, schema nhãn, quyết định ảnh và kiểm tra nhập liệu |
 
-Kiểm tra tự động: không trùng pixel/nhóm giữa tập; cache chỉ development; hash mã/manifest; ngân sách trial; tính lại metrics; bảo vệ không chấm lại test; nhất quán mô hình bàn giao. Bản clone không có cache/trọng số pilot sẽ bỏ qua kiểm tra phụ thuộc các tệp đó. Log trong `results/phase2/`.
-
-JSONL từng thiếu 6 dòng khi khôi phục phiên; CSV còn đủ 400. Đã đối chiếu 394 dòng, tính lại 18 fold của 6 trial thiếu (sai số ≤10⁻¹²), rồi phục hồi JSONL. Không thêm trial hoặc đổi lựa chọn. Bằng chứng: `results/phase2/hpo/log_integrity_recovery.json`.
-
-## Giới hạn và hướng tiếp theo
-
-Train Macro-F1 sau tối ưu 100%, test 88,71%: vẫn có khoảng cách tổng quát hóa. Dữ liệu nhỏ, nền/màu ảnh tham gia đặc trưng; chưa kiểm thử độc lập trên ảnh Việt Nam hoặc loài lạ. Không dùng dự đoán để quyết định sử dụng cây làm thuốc.
-
-Tiếp theo: thu ảnh theo cây/phiên chụp, kiểm định nhãn, giữ test ngoài miền; so sánh segmentation trên development mới. Có thể dùng đặc trưng CNN tiền huấn luyện + SVM rồi fine-tune MobileNet/EfficientNet. **Chưa huấn luyện học sâu trong dự án này.** Test hiện tại đã mở, không còn là tập kín cho thiết kế mới.
-
-Có hỗ trợ AI trong nghiên cứu, viết mã và kiểm tra. Sinh viên cần tự chạy, hiểu thuật toán và xác minh trước khi nộp. Checkpoint git thực hiện trong hai ngày **không thay thế lịch sử 5 tuần**. Báo cáo giai đoạn 1 là tài liệu lịch sử.
+Kiểm tra cục bộ gồm 25 test, 21 đạt và 4 bỏ qua có lý do vì cache/trọng số lịch sử không đóng gói. CI GitHub đã cấu hình, cần xem run thật sau khi push. Xem [model card](docs/MODEL_CARD.md) và [release notes](docs/RELEASE_NOTES_v0_3.md).
 
 ## Nguồn và giấy phép
 
-Islam, Saiful và cộng sự (2023), **BDMediLeaves**, Mendeley Data V1, [DOI 10.17632/t9rns2gmr3.1](https://doi.org/10.17632/t9rns2gmr3.1), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Thay đổi: lọc trùng, gán nhóm, chia lại tập, resize, trích đặc trưng; không hàm ý tác giả nguồn bảo chứng kết quả.
+Mã dự án MIT. BDMediLeaves: Islam, Saiful và cộng sự (2023), [DOI 10.17632/t9rns2gmr3.1](https://doi.org/10.17632/t9rns2gmr3.1), CC BY 4.0; đổi tên ví dụ, lọc trùng, gán nhóm, chia lại tập và trích đặc trưng không hàm ý tác giả nguồn bảo chứng kết quả. Các dữ liệu nghiên cứu Việt Nam giữ giấy phép riêng, xem [SOURCES.md](research/vietnam/SOURCES.md).
 
-Mã dự án: [MIT](LICENSE). Ảnh minh họa vẫn theo CC BY 4.0. [Tài liệu tham khảo](docs/REFERENCES.md).
+Có hỗ trợ AI trong nghiên cứu, viết mã và kiểm tra. Sinh viên cần tự chạy và hiểu thuật toán. Lịch sử commit giữ đúng ngày thực tế, không thay thế yêu cầu thực hiện trong năm tuần. Bản này chuẩn bị để người dùng tự đưa lên GitHub; chưa publish repo hoặc website công cộng.

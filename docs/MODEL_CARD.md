@@ -1,15 +1,29 @@
-# Model card
+# Model card v0.3
 
-Phân loại có giám sát ảnh lá vào sáu nhãn nguyên văn BDMediLeaves: Centella Asiatica, Justicia Adhatoda, Kalanchoe Pinnata, Mikania Micrantha, Phyllanthus Emblica, Terminalia Arjuna. Không dùng học sâu. Tên loài không tự suy ra công dụng/độ an toàn của cây.
+## Mục đích
 
-Ảnh chuyển RGB, resize 128 × 128. HSV 48 chiều + LBP đa tỉ lệ 54 chiều + GLCM 24 chiều → StandardScaler → SVC. Toàn bộ ảnh gồm nền tham gia đặc trưng. Đầu ra là nhãn; chưa có phân đoạn, xác suất hiệu chỉnh hoặc unknown.
+Mô hình nghiên cứu phân loại ảnh lá trong sáu lớp BDMediLeaves. Không dùng để chứng nhận cây dùng làm thuốc. Chưa đánh giá ngoài miền hoặc phát hiện loài lạ; chưa nhận diện nhiều bộ phận hoặc 12 loài Việt Nam.
 
-Huấn luyện 778 ảnh development, ba fold cố định. HPO 40 trial × 5 seed/phương pháp. Random được chọn trước test bằng trung bình best-CV qua seed. Seed 101 trial 24, RBF C=13.28777377006487, gamma=0.006029953818540779. Hai tệp models chỉ fit development; hash đi kèm.
+## Kiến trúc và trọng số
 
-Test 194 ảnh / 193 nhóm heuristic, chấm một đợt sau khi khóa mô hình. Macro-F1 0.830562 → 0.887053; accuracy 0.829897 → 0.886598. Khoảng bootstrap ghép cặp 95% cho delta F1 [0.020076, 0.097568], 2.000 lần phân tầng lớp/lấy mẫu nhóm. TPE test 0.891891 không được dùng để chọn lại. Xem predictions.csv để tính lại.
+texture128: HSV 48 + LBP 54 + GLCM 24 chiều; StandardScaler và SVC. Mô hình `models/phase3_optimized.joblib` được fit trên 778 ảnh development, có hash và phiên bản trong `phase3_metadata.json`. Bộ giải SVM học support vectors trong mỗi fit; Random/TPE tìm siêu tham số bên ngoài.
 
-Dữ liệu nhỏ, không có ID cây/lá/phiên chụp; pHash không loại hết tương quan. Nhãn do nguồn cung cấp, chưa có kiểm định chuyên gia độc lập trong dự án. Chưa kiểm thử ngoài miền hoặc ngoài sáu lớp. Train F1=1 nhưng test F1≈0.887. Ảnh lạ/hỏng/nhiều lá có thể nhận nhãn sai mà không cảnh báo.
+Miền bốn biến gồm kernel, C, gamma có điều kiện và class_weight. Cấu hình chọn TPE4: RBF, C=6.602593199343702, gamma=0.005818740333111208, class_weight=None. Đây là kết quả tìm kiếm thật; không tuyên bố balanced tốt hơn.
 
-Hướng tiếp theo: thu dữ liệu theo cây/phiên chụp có nhãn kiểm định; giữ test ngoài miền trước điều chỉnh. So sánh CNN tiền huấn luyện + SVM, rồi fine-tune khi đủ dữ liệu/ngân sách. Không dùng holdout đã mở như đánh giá độc lập cho thiết kế mới.
+## Đánh giá
 
-Phục vụ học thuật, không dùng để quyết định cây ăn được hoặc điều trị. Chỉ nạp joblib từ nguồn tin cậy vì định dạng này có thể thực thi mã khi tải.
+Nested grouped CV năm outer/ba inner trên development cũ. Chính sách chọn cấu hình bốn biến có OOF Macro-F1 88.0614%, accuracy 88.0463%; baseline tương ứng 86.1689% và 86.1183%. Có 685/778 ảnh đúng so 670/778. Cấu hình refit cuối chưa được chấm trên tập test mới.
+
+Random3/Random4/TPE4 mean OOF theo seed là 87.7965%/86.3596%/87.2947%. Chính sách chọn bốn biến có tổng ngân sách khác từng seed; không suy thêm biến thứ tư vượt ba biến ở cùng tổng ngân sách. Chưa chứng minh lợi ích ổn định của tham số bổ sung.
+
+texture128 đã được chọn trên development trong lịch sử, nên nested CV không loại bỏ sai lệch chọn biểu diễn trước đây. Các nhóm chỉ là heuristic trùng/gần trùng, không phải định danh cây/phiên thật. Bootstrap được ghi là chẩn đoán có điều kiện vì các outer train chồng lấn.
+
+Test lịch sử 194 ảnh đã mở ở giai đoạn 2. Điểm 88.71% Macro-F1 của Random3 lịch sử được giữ riêng, không chấm lại hoặc chọn v0.3 theo test đó.
+
+## Đầu vào và đầu ra
+
+Ảnh lá RGB qua resize 128 x 128. API nhận JPEG/PNG/WEBP dưới 10 MB và 20 triệu pixel; chỉ hỗ trợ khai báo organ=leaf. Đầu ra nhãn và uncalibrated decision scores, không phải xác suất. Không có cơ chế từ chối loài ngoài danh sách. Việc API chặn organ không đồng nghĩa có bộ nhận dạng cơ quan tự động.
+
+## Hướng mở rộng
+
+Cần dữ liệu Việt Nam có định danh loài, mã cây/khóm, quan sát ghép thật, giấy phép và tập kiểm tra độc lập. Các bản ghi chưa xác minh không được đưa vào train. Sau đó so sánh CNN tiền huấn luyện + SVM và kết hợp nhiều bộ phận với đối chứng cùng số ảnh. Chưa huấn luyện học sâu trong bản này.
