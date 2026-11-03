@@ -1,0 +1,49 @@
+{
+  "frozen_utc": "2026-11-03T03:40:22.265003+00:00",
+  "params": {
+    "kernel": "rbf",
+    "C": 6.602593199343702,
+    "gamma": 0.005818740333111208,
+    "class_weight": null
+  },
+  "selection": {
+    "scope": "full_development",
+    "search": "tpe4",
+    "seed": 11,
+    "params": {
+      "kernel": "rbf",
+      "C": 6.602593199343702,
+      "gamma": 0.005818740333111208,
+      "class_weight": null
+    },
+    "best_trial": 14,
+    "best_inner_macro_f1": 0.8847836619914777,
+    "inner_fold_scores": [
+      0.8620970833570135,
+      0.9148298860406433,
+      0.8774240165767765
+    ],
+    "search_seconds": 3.399011522999899,
+    "method_mean_best_inner": {
+      "baseline": 0.8562956194314433,
+      "random4": 0.8659742885679161,
+      "tpe4": 0.8817776091713408
+    }
+  },
+  "training_images": 778,
+  "feature_id": "texture128",
+  "n_features": 126,
+  "protocol_sha256": "0e2ff320b5a74540d893be2c96444c7735fef61b0501ab7d1a8fe94917dd3b88",
+  "manifest_sha256": "5a352a09cef2b6a84855fa1a23b64f5032f6c4c3e47e154600eec4e06f3b33ff",
+  "feature_code_sha256": {
+    "features.py": "46b573d26063ea22bce496687a44172dfd8db3f7258430161c367b25c4f84aa7",
+    "features_v2.py": "041640c173bb268d57639bc96b89ccd3f575d160ce36d81695ad1e2fdefca1f0"
+  },
+  "test_used_for_selection": false,
+  "external_validation_completed": false,
+  "baseline_full_fold_scores": [
+    0.8398869341324584,
+    0.8757671725765883,
+    0.8532327515852831
+  ]
+}

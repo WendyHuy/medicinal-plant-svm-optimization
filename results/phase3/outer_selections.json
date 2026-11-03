@@ -1,0 +1,172 @@
+[
+  {
+    "outer_fold": 0,
+    "train_n": 622,
+    "validation_n": 156,
+    "baseline_inner_scores": [
+      0.836134783615957,
+      0.8157382922088804,
+      0.7790136275146008
+    ],
+    "choice": {
+      "scope": "outer_0",
+      "search": "tpe4",
+      "seed": 29,
+      "params": {
+        "kernel": "rbf",
+        "C": 23.219120520549353,
+        "gamma": 0.006632786955975289,
+        "class_weight": null
+      },
+      "best_trial": 35,
+      "best_inner_macro_f1": 0.8478085756686075,
+      "inner_fold_scores": [
+        0.8660086485382599,
+        0.8511550045998547,
+        0.8262620738677077
+      ],
+      "search_seconds": 2.3750100529999827,
+      "method_mean_best_inner": {
+        "baseline": 0.8102955677798126,
+        "random4": 0.8401224398571916,
+        "tpe4": 0.8438141938703907
+      }
+    }
+  },
+  {
+    "outer_fold": 1,
+    "train_n": 622,
+    "validation_n": 156,
+    "baseline_inner_scores": [
+      0.8095729028784561,
+      0.8352415636196905,
+      0.8475934008542704
+    ],
+    "choice": {
+      "scope": "outer_1",
+      "search": "tpe4",
+      "seed": 11,
+      "params": {
+        "kernel": "rbf",
+        "C": 6.602593199343702,
+        "gamma": 0.005818740333111208,
+        "class_weight": null
+      },
+      "best_trial": 14,
+      "best_inner_macro_f1": 0.8666960362863132,
+      "inner_fold_scores": [
+        0.876286404972948,
+        0.8338483805585174,
+        0.8899533233274742
+      ],
+      "search_seconds": 2.3338907080000126,
+      "method_mean_best_inner": {
+        "baseline": 0.8308026224508057,
+        "random4": 0.8494140432849935,
+        "tpe4": 0.8641435595873114
+      }
+    }
+  },
+  {
+    "outer_fold": 2,
+    "train_n": 622,
+    "validation_n": 156,
+    "baseline_inner_scores": [
+      0.8841599579877591,
+      0.8152454243813628,
+      0.8021663905155823
+    ],
+    "choice": {
+      "scope": "outer_2",
+      "search": "tpe4",
+      "seed": 11,
+      "params": {
+        "kernel": "rbf",
+        "C": 2.2420335390895554,
+        "gamma": 0.006968337905130999,
+        "class_weight": null
+      },
+      "best_trial": 20,
+      "best_inner_macro_f1": 0.8638248640817547,
+      "inner_fold_scores": [
+        0.9036947107238279,
+        0.8453688558356078,
+        0.8424110256858283
+      ],
+      "search_seconds": 2.194455170999845,
+      "method_mean_best_inner": {
+        "baseline": 0.8338572576282347,
+        "random4": 0.8474246523738987,
+        "tpe4": 0.8552317307632284
+      }
+    }
+  },
+  {
+    "outer_fold": 3,
+    "train_n": 623,
+    "validation_n": 155,
+    "baseline_inner_scores": [
+      0.7837249114872606,
+      0.838006515794467,
+      0.8354305482927405
+    ],
+    "choice": {
+      "scope": "outer_3",
+      "search": "tpe4",
+      "seed": 29,
+      "params": {
+        "kernel": "rbf",
+        "C": 77.04416943041332,
+        "gamma": 0.009177810397995112,
+        "class_weight": null
+      },
+      "best_trial": 36,
+      "best_inner_macro_f1": 0.8444465809186585,
+      "inner_fold_scores": [
+        0.8370883523407034,
+        0.8323852617970265,
+        0.8638661286182455
+      ],
+      "search_seconds": 2.206886944999951,
+      "method_mean_best_inner": {
+        "baseline": 0.8190539918581562,
+        "random4": 0.8285321702361058,
+        "tpe4": 0.8366432522529298
+      }
+    }
+  },
+  {
+    "outer_fold": 4,
+    "train_n": 623,
+    "validation_n": 155,
+    "baseline_inner_scores": [
+      0.8313987511046558,
+      0.8463685632500665,
+      0.86468776778701
+    ],
+    "choice": {
+      "scope": "outer_4",
+      "search": "tpe4",
+      "seed": 47,
+      "params": {
+        "kernel": "rbf",
+        "C": 6.122827669133979,
+        "gamma": 0.005764491091084428,
+        "class_weight": null
+      },
+      "best_trial": 29,
+      "best_inner_macro_f1": 0.8746052654120366,
+      "inner_fold_scores": [
+        0.8747005114790632,
+        0.8456552934545893,
+        0.9034599913024571
+      ],
+      "search_seconds": 2.245125544000075,
+      "method_mean_best_inner": {
+        "baseline": 0.8474850273805773,
+        "random4": 0.8592310947621564,
+        "tpe4": 0.8688028381407185
+      }
+    }
+  }
+]

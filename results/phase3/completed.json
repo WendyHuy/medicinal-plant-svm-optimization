@@ -1,0 +1,13 @@
+{
+  "completed_utc": "2026-11-03T03:40:22.386895+00:00",
+  "trial_count": 3600,
+  "hpo_cv_fit_count": 10800,
+  "baseline_cv_fit_count": 18,
+  "outer_refit_count": 85,
+  "final_refit_count": 1,
+  "feature_seconds": 18.735849398000028,
+  "search_and_evaluation_seconds": 201.04009171200005,
+  "new_holdout_evaluation": false,
+  "model_sha256": "86df7ff9aa043b2ee001b8d2f84154bf3613ffccf67b8e0f045eeca93cf2be08",
+  "runner_sha256": "a183a65003d4ae231319f9b3694820bbb0c94067213f534f8d61608e4f83b3a2"
+}

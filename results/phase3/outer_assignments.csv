@@ -1,0 +1,779 @@
+path,label,group,outer_fold
+Non Augmented/Centella Asiatica/Test/augmented_0_0.jpg,Centella Asiatica,g00000,4
+Non Augmented/Centella Asiatica/Test/augmented_10_0.jpg,Centella Asiatica,g00001,1
+Non Augmented/Centella Asiatica/Test/augmented_11_0.jpg,Centella Asiatica,g00002,0
+Non Augmented/Centella Asiatica/Test/augmented_12_0.jpg,Centella Asiatica,g00003,4
+Non Augmented/Centella Asiatica/Test/augmented_13_0.jpg,Centella Asiatica,g00004,4
+Non Augmented/Centella Asiatica/Test/augmented_14_0.jpg,Centella Asiatica,g00005,0
+Non Augmented/Centella Asiatica/Test/augmented_15_0.jpg,Centella Asiatica,g00006,0
+Non Augmented/Centella Asiatica/Test/augmented_16_0.jpg,Centella Asiatica,g00007,1
+Non Augmented/Centella Asiatica/Test/augmented_18_0.jpg,Centella Asiatica,g00009,3
+Non Augmented/Centella Asiatica/Test/augmented_19_0.jpg,Centella Asiatica,g00010,4
+Non Augmented/Centella Asiatica/Test/augmented_1_0.jpg,Centella Asiatica,g00011,2
+Non Augmented/Centella Asiatica/Test/augmented_2_0.jpg,Centella Asiatica,g00012,3
+Non Augmented/Centella Asiatica/Test/augmented_3_0.jpg,Centella Asiatica,g00013,4
+Non Augmented/Centella Asiatica/Test/augmented_4_0.jpg,Centella Asiatica,g00014,1
+Non Augmented/Centella Asiatica/Test/augmented_5_0.jpg,Centella Asiatica,g00015,2
+Non Augmented/Centella Asiatica/Test/augmented_8_0.jpg,Centella Asiatica,g00018,1
+Non Augmented/Centella Asiatica/Train/augmented_100_0.jpg,Centella Asiatica,g00020,2
+Non Augmented/Centella Asiatica/Train/augmented_101_0.jpg,Centella Asiatica,g00021,4
+Non Augmented/Centella Asiatica/Train/augmented_102_0.jpg,Centella Asiatica,g00022,2
+Non Augmented/Centella Asiatica/Train/augmented_104_0.jpg,Centella Asiatica,g00024,2
+Non Augmented/Centella Asiatica/Train/augmented_105_0.jpg,Centella Asiatica,g00025,2
+Non Augmented/Centella Asiatica/Train/augmented_106_0.jpg,Centella Asiatica,g00026,4
+Non Augmented/Centella Asiatica/Train/augmented_107_0.jpg,Centella Asiatica,g00027,0
+Non Augmented/Centella Asiatica/Train/augmented_108_0.jpg,Centella Asiatica,g00028,3
+Non Augmented/Centella Asiatica/Train/augmented_109_0.jpg,Centella Asiatica,g00029,2
+Non Augmented/Centella Asiatica/Train/augmented_110_0.jpg,Centella Asiatica,g00030,0
+Non Augmented/Centella Asiatica/Train/augmented_111_0.jpg,Centella Asiatica,g00031,3
+Non Augmented/Centella Asiatica/Train/augmented_112_0.jpg,Centella Asiatica,g00032,3
+Non Augmented/Centella Asiatica/Train/augmented_113_0.jpg,Centella Asiatica,g00033,3
+Non Augmented/Centella Asiatica/Train/augmented_115_0.jpg,Centella Asiatica,g00035,4
+Non Augmented/Centella Asiatica/Train/augmented_116_0.jpg,Centella Asiatica,g00036,1
+Non Augmented/Centella Asiatica/Train/augmented_117_0.jpg,Centella Asiatica,g00037,3
+Non Augmented/Centella Asiatica/Train/augmented_119_0.jpg,Centella Asiatica,g00039,3
+Non Augmented/Centella Asiatica/Train/augmented_121_0.jpg,Centella Asiatica,g00041,0
+Non Augmented/Centella Asiatica/Train/augmented_122_0.jpg,Centella Asiatica,g00042,2
+Non Augmented/Centella Asiatica/Train/augmented_125_0.jpg,Centella Asiatica,g00045,2
+Non Augmented/Centella Asiatica/Train/augmented_127_0.jpg,Centella Asiatica,g00047,3
+Non Augmented/Centella Asiatica/Train/augmented_128_0.jpg,Centella Asiatica,g00048,0
+Non Augmented/Centella Asiatica/Train/augmented_129_0.jpg,Centella Asiatica,g00049,4
+Non Augmented/Centella Asiatica/Train/augmented_130_0.jpg,Centella Asiatica,g00050,2
+Non Augmented/Centella Asiatica/Train/augmented_131_0.jpg,Centella Asiatica,g00051,4
+Non Augmented/Centella Asiatica/Train/augmented_133_0.jpg,Centella Asiatica,g00053,3
+Non Augmented/Centella Asiatica/Train/augmented_134_0.jpg,Centella Asiatica,g00054,3
+Non Augmented/Centella Asiatica/Train/augmented_136_0.jpg,Centella Asiatica,g00056,0
+Non Augmented/Centella Asiatica/Train/augmented_137_0.jpg,Centella Asiatica,g00057,1
+Non Augmented/Centella Asiatica/Train/augmented_138_0.jpg,Centella Asiatica,g00058,2
+Non Augmented/Centella Asiatica/Train/augmented_139_0.jpg,Centella Asiatica,g00059,3
+Non Augmented/Centella Asiatica/Train/augmented_140_0.jpg,Centella Asiatica,g00060,0
+Non Augmented/Centella Asiatica/Train/augmented_141_0.jpg,Centella Asiatica,g00061,4
+Non Augmented/Centella Asiatica/Train/augmented_142_0.jpg,Centella Asiatica,g00062,1
+Non Augmented/Centella Asiatica/Train/augmented_143_0.jpg,Centella Asiatica,g00063,1
+Non Augmented/Centella Asiatica/Train/augmented_145_0.jpg,Centella Asiatica,g00065,0
+Non Augmented/Centella Asiatica/Train/augmented_146_0.jpg,Centella Asiatica,g00066,0
+Non Augmented/Centella Asiatica/Train/augmented_148_0.jpg,Centella Asiatica,g00068,2
+Non Augmented/Centella Asiatica/Train/augmented_149_0.jpg,Centella Asiatica,g00069,3
+Non Augmented/Centella Asiatica/Train/augmented_150_0.jpg,Centella Asiatica,g00070,4
+Non Augmented/Centella Asiatica/Train/augmented_151_0.jpg,Centella Asiatica,g00071,3
+Non Augmented/Centella Asiatica/Train/augmented_152_0.jpg,Centella Asiatica,g00072,0
+Non Augmented/Centella Asiatica/Train/augmented_153_0.jpg,Centella Asiatica,g00073,0
+Non Augmented/Centella Asiatica/Train/augmented_154_0.jpg,Centella Asiatica,g00074,1
+Non Augmented/Centella Asiatica/Train/augmented_155_0.jpg,Centella Asiatica,g00075,2
+Non Augmented/Centella Asiatica/Train/augmented_156_0.jpg,Centella Asiatica,g00076,1
+Non Augmented/Centella Asiatica/Train/augmented_157_0.jpg,Centella Asiatica,g00077,1
+Non Augmented/Centella Asiatica/Train/augmented_158_0.jpg,Centella Asiatica,g00078,4
+Non Augmented/Centella Asiatica/Train/augmented_160_0.jpg,Centella Asiatica,g00080,2
+Non Augmented/Centella Asiatica/Train/augmented_161_0.jpg,Centella Asiatica,g00081,2
+Non Augmented/Centella Asiatica/Train/augmented_162_0.jpg,Centella Asiatica,g00082,4
+Non Augmented/Centella Asiatica/Train/augmented_163_0.jpg,Centella Asiatica,g00083,3
+Non Augmented/Centella Asiatica/Train/augmented_168_0.jpg,Centella Asiatica,g00085,2
+Non Augmented/Centella Asiatica/Train/augmented_170_0.jpg,Centella Asiatica,g00086,2
+Non Augmented/Centella Asiatica/Train/augmented_172_0.jpg,Centella Asiatica,g00087,2
+Non Augmented/Centella Asiatica/Train/augmented_179_0.jpg,Centella Asiatica,g00088,1
+Non Augmented/Centella Asiatica/Train/augmented_180_0.jpg,Centella Asiatica,g00089,3
+Non Augmented/Centella Asiatica/Train/augmented_183_0.jpg,Centella Asiatica,g00091,4
+Non Augmented/Centella Asiatica/Train/augmented_187_0.jpg,Centella Asiatica,g00093,0
+Non Augmented/Centella Asiatica/Train/augmented_188_0.jpg,Centella Asiatica,g00094,3
+Non Augmented/Centella Asiatica/Train/augmented_189_0.jpg,Centella Asiatica,g00095,4
+Non Augmented/Centella Asiatica/Train/augmented_196_0.jpg,Centella Asiatica,g00098,1
+Non Augmented/Centella Asiatica/Train/augmented_199_0.jpg,Centella Asiatica,g00099,4
+Non Augmented/Centella Asiatica/Train/augmented_201_0.jpg,Centella Asiatica,g00100,1
+Non Augmented/Centella Asiatica/Train/augmented_203_0.jpg,Centella Asiatica,g00101,1
+Non Augmented/Centella Asiatica/Train/augmented_40_0.jpg,Centella Asiatica,g00102,1
+Non Augmented/Centella Asiatica/Train/augmented_42_0.jpg,Centella Asiatica,g00104,1
+Non Augmented/Centella Asiatica/Train/augmented_43_0.jpg,Centella Asiatica,g00105,1
+Non Augmented/Centella Asiatica/Train/augmented_44_0.jpg,Centella Asiatica,g00106,2
+Non Augmented/Centella Asiatica/Train/augmented_46_0.jpg,Centella Asiatica,g00108,3
+Non Augmented/Centella Asiatica/Train/augmented_48_0.jpg,Centella Asiatica,g00109,0
+Non Augmented/Centella Asiatica/Train/augmented_49_0.jpg,Centella Asiatica,g00110,0
+Non Augmented/Centella Asiatica/Train/augmented_50_0.jpg,Centella Asiatica,g00111,1
+Non Augmented/Centella Asiatica/Train/augmented_51_0.jpg,Centella Asiatica,g00112,4
+Non Augmented/Centella Asiatica/Train/augmented_52_0.jpg,Centella Asiatica,g00113,0
+Non Augmented/Centella Asiatica/Train/augmented_55_0.jpg,Centella Asiatica,g00115,2
+Non Augmented/Centella Asiatica/Train/augmented_56_0.jpg,Centella Asiatica,g00116,2
+Non Augmented/Centella Asiatica/Train/augmented_57_0.jpg,Centella Asiatica,g00117,4
+Non Augmented/Centella Asiatica/Train/augmented_58_0.jpg,Centella Asiatica,g00118,1
+Non Augmented/Centella Asiatica/Train/augmented_59_0.jpg,Centella Asiatica,g00119,4
+Non Augmented/Centella Asiatica/Train/augmented_61_0.jpg,Centella Asiatica,g00121,4
+Non Augmented/Centella Asiatica/Train/augmented_64_0.jpg,Centella Asiatica,g00123,4
+Non Augmented/Centella Asiatica/Train/augmented_65_0.jpg,Centella Asiatica,g00124,4
+Non Augmented/Centella Asiatica/Train/augmented_66_0.jpg,Centella Asiatica,g00125,2
+Non Augmented/Centella Asiatica/Train/augmented_67_0.jpg,Centella Asiatica,g00126,0
+Non Augmented/Centella Asiatica/Train/augmented_71_0.jpg,Centella Asiatica,g00128,4
+Non Augmented/Centella Asiatica/Train/augmented_72_0.jpg,Centella Asiatica,g00129,1
+Non Augmented/Centella Asiatica/Train/augmented_74_0.jpg,Centella Asiatica,g00131,3
+Non Augmented/Centella Asiatica/Train/augmented_75_0.jpg,Centella Asiatica,g00132,3
+Non Augmented/Centella Asiatica/Train/augmented_76_0.jpg,Centella Asiatica,g00133,0
+Non Augmented/Centella Asiatica/Train/augmented_77_0.jpg,Centella Asiatica,g00134,1
+Non Augmented/Centella Asiatica/Train/augmented_80_0.jpg,Centella Asiatica,g00135,4
+Non Augmented/Centella Asiatica/Train/augmented_84_0.jpg,Centella Asiatica,g00137,3
+Non Augmented/Centella Asiatica/Train/augmented_85_0.jpg,Centella Asiatica,g00138,1
+Non Augmented/Centella Asiatica/Train/augmented_86_0.jpg,Centella Asiatica,g00139,1
+Non Augmented/Centella Asiatica/Train/augmented_87_0.jpg,Centella Asiatica,g00140,3
+Non Augmented/Centella Asiatica/Train/augmented_91_0.jpg,Centella Asiatica,g00142,1
+Non Augmented/Centella Asiatica/Train/augmented_92_0.jpg,Centella Asiatica,g00143,0
+Non Augmented/Centella Asiatica/Train/augmented_93_0.jpg,Centella Asiatica,g00144,3
+Non Augmented/Centella Asiatica/Train/augmented_96_0.jpg,Centella Asiatica,g00145,0
+Non Augmented/Centella Asiatica/Train/augmented_97_0.jpg,Centella Asiatica,g00146,0
+Non Augmented/Centella Asiatica/Train/augmented_98_0.jpg,Centella Asiatica,g00147,3
+Non Augmented/Centella Asiatica/Train/augmented_99_0.jpg,Centella Asiatica,g00148,1
+Non Augmented/Centella Asiatica/Validation/augmented_20_0.jpg,Centella Asiatica,g00149,2
+Non Augmented/Centella Asiatica/Validation/augmented_23_0.jpg,Centella Asiatica,g00151,0
+Non Augmented/Centella Asiatica/Validation/augmented_25_0.jpg,Centella Asiatica,g00152,0
+Non Augmented/Centella Asiatica/Validation/augmented_28_0.jpg,Centella Asiatica,g00153,2
+Non Augmented/Centella Asiatica/Validation/augmented_30_0.jpg,Centella Asiatica,g00155,2
+Non Augmented/Centella Asiatica/Validation/augmented_31_0.jpg,Centella Asiatica,g00156,0
+Non Augmented/Centella Asiatica/Validation/augmented_32_0.jpg,Centella Asiatica,g00157,3
+Non Augmented/Centella Asiatica/Validation/augmented_33_0.jpg,Centella Asiatica,g00158,3
+Non Augmented/Centella Asiatica/Validation/augmented_34_0.jpg,Centella Asiatica,g00159,0
+Non Augmented/Centella Asiatica/Validation/augmented_35_0.jpg,Centella Asiatica,g00160,0
+Non Augmented/Centella Asiatica/Validation/augmented_37_0.jpg,Centella Asiatica,g00161,2
+Non Augmented/Centella Asiatica/Validation/augmented_38_0.jpg,Centella Asiatica,g00162,3
+Non Augmented/Centella Asiatica/Validation/augmented_39_0.jpg,Centella Asiatica,g00163,4
+Non Augmented/Justicia Adhatoda/Test/augmented_144_0.jpg,Justicia Adhatoda,g00164,4
+Non Augmented/Justicia Adhatoda/Test/augmented_145_0.jpg,Justicia Adhatoda,g00165,3
+Non Augmented/Justicia Adhatoda/Test/augmented_146_0.jpg,Justicia Adhatoda,g00166,1
+Non Augmented/Justicia Adhatoda/Test/augmented_147_0.jpg,Justicia Adhatoda,g00167,2
+Non Augmented/Justicia Adhatoda/Test/augmented_148_0.jpg,Justicia Adhatoda,g00168,2
+Non Augmented/Justicia Adhatoda/Test/augmented_149_0.jpg,Justicia Adhatoda,g00169,4
+Non Augmented/Justicia Adhatoda/Test/augmented_150_0.jpg,Justicia Adhatoda,g00170,1
+Non Augmented/Justicia Adhatoda/Test/augmented_151_0.jpg,Justicia Adhatoda,g00171,1
+Non Augmented/Justicia Adhatoda/Test/augmented_152_0.jpg,Justicia Adhatoda,g00172,0
+Non Augmented/Justicia Adhatoda/Test/augmented_153_0.jpg,Justicia Adhatoda,g00173,2
+Non Augmented/Justicia Adhatoda/Test/augmented_154_0.jpg,Justicia Adhatoda,g00174,3
+Non Augmented/Justicia Adhatoda/Test/augmented_155_0.jpg,Justicia Adhatoda,g00175,2
+Non Augmented/Justicia Adhatoda/Test/augmented_156_0.jpg,Justicia Adhatoda,g00176,2
+Non Augmented/Justicia Adhatoda/Test/augmented_157_0.jpg,Justicia Adhatoda,g00177,3
+Non Augmented/Justicia Adhatoda/Test/augmented_159_0.jpg,Justicia Adhatoda,g00179,3
+Non Augmented/Justicia Adhatoda/Test/augmented_160_0.jpg,Justicia Adhatoda,g00180,1
+Non Augmented/Justicia Adhatoda/Train/augmented_0_0.jpg,Justicia Adhatoda,g00183,4
+Non Augmented/Justicia Adhatoda/Train/augmented_100_0.jpg,Justicia Adhatoda,g00184,2
+Non Augmented/Justicia Adhatoda/Train/augmented_101_0.jpg,Justicia Adhatoda,g00185,4
+Non Augmented/Justicia Adhatoda/Train/augmented_102_0.jpg,Justicia Adhatoda,g00186,1
+Non Augmented/Justicia Adhatoda/Train/augmented_103_0.jpg,Justicia Adhatoda,g00187,4
+Non Augmented/Justicia Adhatoda/Train/augmented_104_0.jpg,Justicia Adhatoda,g00188,3
+Non Augmented/Justicia Adhatoda/Train/augmented_105_0.jpg,Justicia Adhatoda,g00189,0
+Non Augmented/Justicia Adhatoda/Train/augmented_106_0.jpg,Justicia Adhatoda,g00190,0
+Non Augmented/Justicia Adhatoda/Train/augmented_108_0.jpg,Justicia Adhatoda,g00192,4
+Non Augmented/Justicia Adhatoda/Train/augmented_109_0.jpg,Justicia Adhatoda,g00193,2
+Non Augmented/Justicia Adhatoda/Train/augmented_10_0.jpg,Justicia Adhatoda,g00194,0
+Non Augmented/Justicia Adhatoda/Train/augmented_110_0.jpg,Justicia Adhatoda,g00195,2
+Non Augmented/Justicia Adhatoda/Train/augmented_111_0.jpg,Justicia Adhatoda,g00196,4
+Non Augmented/Justicia Adhatoda/Train/augmented_112_0.jpg,Justicia Adhatoda,g00197,0
+Non Augmented/Justicia Adhatoda/Train/augmented_113_0.jpg,Justicia Adhatoda,g00198,2
+Non Augmented/Justicia Adhatoda/Train/augmented_115_0.jpg,Justicia Adhatoda,g00200,2
+Non Augmented/Justicia Adhatoda/Train/augmented_116_0.jpg,Justicia Adhatoda,g00201,1
+Non Augmented/Justicia Adhatoda/Train/augmented_117_0.jpg,Justicia Adhatoda,g00202,4
+Non Augmented/Justicia Adhatoda/Train/augmented_119_0.jpg,Justicia Adhatoda,g00204,4
+Non Augmented/Justicia Adhatoda/Train/augmented_121_0.jpg,Justicia Adhatoda,g00207,3
+Non Augmented/Justicia Adhatoda/Train/augmented_122_0.jpg,Justicia Adhatoda,g00208,2
+Non Augmented/Justicia Adhatoda/Train/augmented_123_0.jpg,Justicia Adhatoda,g00209,4
+Non Augmented/Justicia Adhatoda/Train/augmented_124_0.jpg,Justicia Adhatoda,g00210,4
+Non Augmented/Justicia Adhatoda/Train/augmented_125_0.jpg,Justicia Adhatoda,g00211,3
+Non Augmented/Justicia Adhatoda/Train/augmented_127_0.jpg,Justicia Adhatoda,g00213,1
+Non Augmented/Justicia Adhatoda/Train/augmented_128_0.jpg,Justicia Adhatoda,g00214,2
+Non Augmented/Justicia Adhatoda/Train/augmented_129_0.jpg,Justicia Adhatoda,g00215,0
+Non Augmented/Justicia Adhatoda/Train/augmented_12_0.jpg,Justicia Adhatoda,g00216,3
+Non Augmented/Justicia Adhatoda/Train/augmented_130_0.jpg,Justicia Adhatoda,g00217,0
+Non Augmented/Justicia Adhatoda/Train/augmented_131_0.jpg,Justicia Adhatoda,g00218,0
+Non Augmented/Justicia Adhatoda/Train/augmented_132_0.jpg,Justicia Adhatoda,g00219,1
+Non Augmented/Justicia Adhatoda/Train/augmented_133_0.jpg,Justicia Adhatoda,g00220,2
+Non Augmented/Justicia Adhatoda/Train/augmented_134_0.jpg,Justicia Adhatoda,g00221,3
+Non Augmented/Justicia Adhatoda/Train/augmented_135_0.jpg,Justicia Adhatoda,g00222,2
+Non Augmented/Justicia Adhatoda/Train/augmented_136_0.jpg,Justicia Adhatoda,g00223,2
+Non Augmented/Justicia Adhatoda/Train/augmented_137_0.jpg,Justicia Adhatoda,g00224,0
+Non Augmented/Justicia Adhatoda/Train/augmented_13_0.jpg,Justicia Adhatoda,g00227,0
+Non Augmented/Justicia Adhatoda/Train/augmented_140_0.jpg,Justicia Adhatoda,g00228,4
+Non Augmented/Justicia Adhatoda/Train/augmented_141_0.jpg,Justicia Adhatoda,g00229,0
+Non Augmented/Justicia Adhatoda/Train/augmented_142_0.jpg,Justicia Adhatoda,g00230,1
+Non Augmented/Justicia Adhatoda/Train/augmented_14_0.jpg,Justicia Adhatoda,g00232,3
+Non Augmented/Justicia Adhatoda/Train/augmented_15_0.jpg,Justicia Adhatoda,g00233,4
+Non Augmented/Justicia Adhatoda/Train/augmented_16_0.jpg,Justicia Adhatoda,g00234,1
+Non Augmented/Justicia Adhatoda/Train/augmented_17_0.jpg,Justicia Adhatoda,g00235,0
+Non Augmented/Justicia Adhatoda/Train/augmented_185_0.jpg,Justicia Adhatoda,g00236,3
+Non Augmented/Justicia Adhatoda/Train/augmented_186_0.jpg,Justicia Adhatoda,g00237,0
+Non Augmented/Justicia Adhatoda/Train/augmented_190_0.jpg,Justicia Adhatoda,g00241,1
+Non Augmented/Justicia Adhatoda/Train/augmented_194_0.jpg,Justicia Adhatoda,g00243,4
+Non Augmented/Justicia Adhatoda/Train/augmented_195_0.jpg,Justicia Adhatoda,g00244,3
+Non Augmented/Justicia Adhatoda/Train/augmented_198_0.jpg,Justicia Adhatoda,g00245,1
+Non Augmented/Justicia Adhatoda/Train/augmented_199_0.jpg,Justicia Adhatoda,g00246,4
+Non Augmented/Justicia Adhatoda/Train/augmented_19_0.jpg,Justicia Adhatoda,g00247,3
+Non Augmented/Justicia Adhatoda/Train/augmented_1_0.jpg,Justicia Adhatoda,g00248,1
+Non Augmented/Justicia Adhatoda/Train/augmented_200_0.jpg,Justicia Adhatoda,g00249,3
+Non Augmented/Justicia Adhatoda/Train/augmented_20_0.jpg,Justicia Adhatoda,g00250,2
+Non Augmented/Justicia Adhatoda/Train/augmented_22_0.jpg,Justicia Adhatoda,g00252,2
+Non Augmented/Justicia Adhatoda/Train/augmented_23_0.jpg,Justicia Adhatoda,g00253,2
+Non Augmented/Justicia Adhatoda/Train/augmented_24_0.jpg,Justicia Adhatoda,g00254,3
+Non Augmented/Justicia Adhatoda/Train/augmented_25_0.jpg,Justicia Adhatoda,g00255,0
+Non Augmented/Justicia Adhatoda/Train/augmented_26_0.jpg,Justicia Adhatoda,g00256,1
+Non Augmented/Justicia Adhatoda/Train/augmented_27_0.jpg,Justicia Adhatoda,g00257,1
+Non Augmented/Justicia Adhatoda/Train/augmented_28_0.jpg,Justicia Adhatoda,g00258,0
+Non Augmented/Justicia Adhatoda/Train/augmented_2_0.jpg,Justicia Adhatoda,g00260,3
+Non Augmented/Justicia Adhatoda/Train/augmented_30_0.jpg,Justicia Adhatoda,g00261,3
+Non Augmented/Justicia Adhatoda/Train/augmented_31_0.jpg,Justicia Adhatoda,g00262,2
+Non Augmented/Justicia Adhatoda/Train/augmented_32_0.jpg,Justicia Adhatoda,g00263,3
+Non Augmented/Justicia Adhatoda/Train/augmented_33_0.jpg,Justicia Adhatoda,g00264,0
+Non Augmented/Justicia Adhatoda/Train/augmented_34_0.jpg,Justicia Adhatoda,g00265,1
+Non Augmented/Justicia Adhatoda/Train/augmented_36_0.jpg,Justicia Adhatoda,g00266,1
+Non Augmented/Justicia Adhatoda/Train/augmented_37_0.jpg,Justicia Adhatoda,g00267,2
+Non Augmented/Justicia Adhatoda/Train/augmented_3_0.jpg,Justicia Adhatoda,g00270,2
+Non Augmented/Justicia Adhatoda/Train/augmented_41_0.jpg,Justicia Adhatoda,g00272,0
+Non Augmented/Justicia Adhatoda/Train/augmented_42_0.jpg,Justicia Adhatoda,g00273,0
+Non Augmented/Justicia Adhatoda/Train/augmented_43_0.jpg,Justicia Adhatoda,g00274,4
+Non Augmented/Justicia Adhatoda/Train/augmented_45_0.jpg,Justicia Adhatoda,g00276,0
+Non Augmented/Justicia Adhatoda/Train/augmented_46_0.jpg,Justicia Adhatoda,g00277,1
+Non Augmented/Justicia Adhatoda/Train/augmented_47_0.jpg,Justicia Adhatoda,g00278,1
+Non Augmented/Justicia Adhatoda/Train/augmented_48_0.jpg,Justicia Adhatoda,g00279,0
+Non Augmented/Justicia Adhatoda/Train/augmented_49_0.jpg,Justicia Adhatoda,g00280,3
+Non Augmented/Justicia Adhatoda/Train/augmented_4_0.jpg,Justicia Adhatoda,g00281,2
+Non Augmented/Justicia Adhatoda/Train/augmented_50_0.jpg,Justicia Adhatoda,g00282,3
+Non Augmented/Justicia Adhatoda/Train/augmented_51_0.jpg,Justicia Adhatoda,g00283,0
+Non Augmented/Justicia Adhatoda/Train/augmented_52_0.jpg,Justicia Adhatoda,g00284,3
+Non Augmented/Justicia Adhatoda/Train/augmented_53_0.jpg,Justicia Adhatoda,g00285,1
+Non Augmented/Justicia Adhatoda/Train/augmented_54_0.jpg,Justicia Adhatoda,g00286,4
+Non Augmented/Justicia Adhatoda/Train/augmented_55_0.jpg,Justicia Adhatoda,g00287,4
+Non Augmented/Justicia Adhatoda/Train/augmented_56_0.jpg,Justicia Adhatoda,g00288,1
+Non Augmented/Justicia Adhatoda/Train/augmented_57_0.jpg,Justicia Adhatoda,g00289,3
+Non Augmented/Justicia Adhatoda/Train/augmented_5_0.jpg,Justicia Adhatoda,g00291,4
+Non Augmented/Justicia Adhatoda/Train/augmented_61_0.jpg,Justicia Adhatoda,g00292,4
+Non Augmented/Justicia Adhatoda/Train/augmented_62_0.jpg,Justicia Adhatoda,g00293,2
+Non Augmented/Justicia Adhatoda/Train/augmented_63_0.jpg,Justicia Adhatoda,g00294,4
+Non Augmented/Justicia Adhatoda/Train/augmented_64_0.jpg,Justicia Adhatoda,g00295,3
+Non Augmented/Justicia Adhatoda/Train/augmented_67_0.jpg,Justicia Adhatoda,g00297,1
+Non Augmented/Justicia Adhatoda/Train/augmented_69_0.jpg,Justicia Adhatoda,g00298,2
+Non Augmented/Justicia Adhatoda/Train/augmented_6_0.jpg,Justicia Adhatoda,g00299,1
+Non Augmented/Justicia Adhatoda/Train/augmented_71_0.jpg,Justicia Adhatoda,g00301,4
+Non Augmented/Justicia Adhatoda/Train/augmented_75_0.jpg,Justicia Adhatoda,g00303,3
+Non Augmented/Justicia Adhatoda/Train/augmented_76_0.jpg,Justicia Adhatoda,g00304,1
+Non Augmented/Justicia Adhatoda/Train/augmented_79_0.jpg,Justicia Adhatoda,g00306,2
+Non Augmented/Justicia Adhatoda/Train/augmented_7_0.jpg,Justicia Adhatoda,g00307,0
+Non Augmented/Justicia Adhatoda/Train/augmented_80_0.jpg,Justicia Adhatoda,g00308,0
+Non Augmented/Justicia Adhatoda/Train/augmented_81_0.jpg,Justicia Adhatoda,g00309,4
+Non Augmented/Justicia Adhatoda/Train/augmented_83_0.jpg,Justicia Adhatoda,g00311,0
+Non Augmented/Justicia Adhatoda/Train/augmented_85_0.jpg,Justicia Adhatoda,g00313,3
+Non Augmented/Justicia Adhatoda/Train/augmented_86_0.jpg,Justicia Adhatoda,g00314,2
+Non Augmented/Justicia Adhatoda/Train/augmented_87_0.jpg,Justicia Adhatoda,g00315,4
+Non Augmented/Justicia Adhatoda/Train/augmented_89_0.jpg,Justicia Adhatoda,g00317,3
+Non Augmented/Justicia Adhatoda/Train/augmented_92_0.jpg,Justicia Adhatoda,g00319,0
+Non Augmented/Justicia Adhatoda/Train/augmented_94_0.jpg,Justicia Adhatoda,g00321,1
+Non Augmented/Justicia Adhatoda/Train/augmented_97_0.jpg,Justicia Adhatoda,g00322,4
+Non Augmented/Justicia Adhatoda/Train/augmented_98_0.jpg,Justicia Adhatoda,g00323,0
+Non Augmented/Justicia Adhatoda/Train/augmented_99_0.jpg,Justicia Adhatoda,g00324,1
+Non Augmented/Justicia Adhatoda/Train/augmented_9_0.jpg,Justicia Adhatoda,g00325,4
+Non Augmented/Kalanchoe Pinnata/Test/augmented_11_0.jpg,Kalanchoe Pinnata,g00327,1
+Non Augmented/Kalanchoe Pinnata/Test/augmented_14_0.jpg,Kalanchoe Pinnata,g00330,4
+Non Augmented/Kalanchoe Pinnata/Test/augmented_15_0.jpg,Kalanchoe Pinnata,g00331,2
+Non Augmented/Kalanchoe Pinnata/Test/augmented_16_0.jpg,Kalanchoe Pinnata,g00332,2
+Non Augmented/Kalanchoe Pinnata/Test/augmented_17_0.jpg,Kalanchoe Pinnata,g00333,4
+Non Augmented/Kalanchoe Pinnata/Test/augmented_18_0.jpg,Kalanchoe Pinnata,g00334,0
+Non Augmented/Kalanchoe Pinnata/Test/augmented_199_0.jpg,Kalanchoe Pinnata,g00337,1
+Non Augmented/Kalanchoe Pinnata/Test/augmented_19_0.jpg,Kalanchoe Pinnata,g00338,0
+Non Augmented/Kalanchoe Pinnata/Test/augmented_200_0.jpg,Kalanchoe Pinnata,g00339,1
+Non Augmented/Kalanchoe Pinnata/Test/augmented_201_0.jpg,Kalanchoe Pinnata,g00340,1
+Non Augmented/Kalanchoe Pinnata/Test/augmented_5_0.jpg,Kalanchoe Pinnata,g00341,3
+Non Augmented/Kalanchoe Pinnata/Test/augmented_7_0.jpg,Kalanchoe Pinnata,g00343,3
+Non Augmented/Kalanchoe Pinnata/Test/augmented_8_0.jpg,Kalanchoe Pinnata,g00344,4
+Non Augmented/Kalanchoe Pinnata/Test/augmented_9_0.jpg,Kalanchoe Pinnata,g00345,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_100_0.jpg,Kalanchoe Pinnata,g00346,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_102_0.jpg,Kalanchoe Pinnata,g00348,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_103_0.jpg,Kalanchoe Pinnata,g00349,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_104_0.jpg,Kalanchoe Pinnata,g00350,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_105_0.jpg,Kalanchoe Pinnata,g00351,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_106_0.jpg,Kalanchoe Pinnata,g00352,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_107_0.jpg,Kalanchoe Pinnata,g00353,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_108_0.jpg,Kalanchoe Pinnata,g00354,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_109_0.jpg,Kalanchoe Pinnata,g00355,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_111_0.jpg,Kalanchoe Pinnata,g00356,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_112_0.jpg,Kalanchoe Pinnata,g00357,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_114_0.jpg,Kalanchoe Pinnata,g00359,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_115_0.jpg,Kalanchoe Pinnata,g00360,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_117_0.jpg,Kalanchoe Pinnata,g00362,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_118_0.jpg,Kalanchoe Pinnata,g00363,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_119_0.jpg,Kalanchoe Pinnata,g00364,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_121_0.jpg,Kalanchoe Pinnata,g00366,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_124_0.jpg,Kalanchoe Pinnata,g00369,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_125_0.jpg,Kalanchoe Pinnata,g00370,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_127_0.jpg,Kalanchoe Pinnata,g00371,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_128_0.jpg,Kalanchoe Pinnata,g00372,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_129_0.jpg,Kalanchoe Pinnata,g00373,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_131_0.jpg,Kalanchoe Pinnata,g00374,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_132_0.jpg,Kalanchoe Pinnata,g00375,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_133_0.jpg,Kalanchoe Pinnata,g00376,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_135_0.jpg,Kalanchoe Pinnata,g00378,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_138_0.jpg,Kalanchoe Pinnata,g00381,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_140_0.jpg,Kalanchoe Pinnata,g00383,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_141_0.jpg,Kalanchoe Pinnata,g00384,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_142_0.jpg,Kalanchoe Pinnata,g00385,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_143_0.jpg,Kalanchoe Pinnata,g00386,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_144_0.jpg,Kalanchoe Pinnata,g00387,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_145_0.jpg,Kalanchoe Pinnata,g00388,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_146_0.jpg,Kalanchoe Pinnata,g00389,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_148_0.jpg,Kalanchoe Pinnata,g00391,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_149_0.jpg,Kalanchoe Pinnata,g00392,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_150_0.jpg,Kalanchoe Pinnata,g00393,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_152_0.jpg,Kalanchoe Pinnata,g00395,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_153_0.jpg,Kalanchoe Pinnata,g00396,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_155_0.jpg,Kalanchoe Pinnata,g00398,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_156_0.jpg,Kalanchoe Pinnata,g00399,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_157_0.jpg,Kalanchoe Pinnata,g00400,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_158_0.jpg,Kalanchoe Pinnata,g00401,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_159_0.jpg,Kalanchoe Pinnata,g00402,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_160_0.jpg,Kalanchoe Pinnata,g00403,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_163_0.jpg,Kalanchoe Pinnata,g00405,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_165_0.jpg,Kalanchoe Pinnata,g00406,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_166_0.jpg,Kalanchoe Pinnata,g00407,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_169_0.jpg,Kalanchoe Pinnata,g00409,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_170_0.jpg,Kalanchoe Pinnata,g00410,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_171_0.jpg,Kalanchoe Pinnata,g00411,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_172_0.jpg,Kalanchoe Pinnata,g00412,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_174_0.jpg,Kalanchoe Pinnata,g00413,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_179_0.jpg,Kalanchoe Pinnata,g00415,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_181_0.jpg,Kalanchoe Pinnata,g00416,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_183_0.jpg,Kalanchoe Pinnata,g00417,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_186_0.jpg,Kalanchoe Pinnata,g00418,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_187_0.jpg,Kalanchoe Pinnata,g00419,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_189_0.jpg,Kalanchoe Pinnata,g00420,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_190_0.jpg,Kalanchoe Pinnata,g00421,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_195_0.jpg,Kalanchoe Pinnata,g00423,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_35_0.jpg,Kalanchoe Pinnata,g00424,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_36_0.jpg,Kalanchoe Pinnata,g00425,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_37_0.jpg,Kalanchoe Pinnata,g00426,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_38_0.jpg,Kalanchoe Pinnata,g00427,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_42_0.jpg,Kalanchoe Pinnata,g00429,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_43_0.jpg,Kalanchoe Pinnata,g00430,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_45_0.jpg,Kalanchoe Pinnata,g00431,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_47_0.jpg,Kalanchoe Pinnata,g00433,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_49_0.jpg,Kalanchoe Pinnata,g00434,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_50_0.jpg,Kalanchoe Pinnata,g00435,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_52_0.jpg,Kalanchoe Pinnata,g00436,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_54_0.jpg,Kalanchoe Pinnata,g00437,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_57_0.jpg,Kalanchoe Pinnata,g00439,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_58_0.jpg,Kalanchoe Pinnata,g00440,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_59_0.jpg,Kalanchoe Pinnata,g00441,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_60_0.jpg,Kalanchoe Pinnata,g00442,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_61_0.jpg,Kalanchoe Pinnata,g00443,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_62_0.jpg,Kalanchoe Pinnata,g00444,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_63_0.jpg,Kalanchoe Pinnata,g00445,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_64_0.jpg,Kalanchoe Pinnata,g00446,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_65_0.jpg,Kalanchoe Pinnata,g00447,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_67_0.jpg,Kalanchoe Pinnata,g00448,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_69_0.jpg,Kalanchoe Pinnata,g00450,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_71_0.jpg,Kalanchoe Pinnata,g00452,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_72_0.jpg,Kalanchoe Pinnata,g00453,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_73_0.jpg,Kalanchoe Pinnata,g00454,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_75_0.jpg,Kalanchoe Pinnata,g00455,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_76_0.jpg,Kalanchoe Pinnata,g00456,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_77_0.jpg,Kalanchoe Pinnata,g00457,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_78_0.jpg,Kalanchoe Pinnata,g00458,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_79_0.jpg,Kalanchoe Pinnata,g00459,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_84_0.jpg,Kalanchoe Pinnata,g00461,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_85_0.jpg,Kalanchoe Pinnata,g00462,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_86_0.jpg,Kalanchoe Pinnata,g00463,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_90_0.jpg,Kalanchoe Pinnata,g00464,3
+Non Augmented/Kalanchoe Pinnata/Train/augmented_92_0.jpg,Kalanchoe Pinnata,g00466,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_93_0.jpg,Kalanchoe Pinnata,g00467,4
+Non Augmented/Kalanchoe Pinnata/Train/augmented_94_0.jpg,Kalanchoe Pinnata,g00468,0
+Non Augmented/Kalanchoe Pinnata/Train/augmented_97_0.jpg,Kalanchoe Pinnata,g00470,1
+Non Augmented/Kalanchoe Pinnata/Train/augmented_98_0.jpg,Kalanchoe Pinnata,g00471,2
+Non Augmented/Kalanchoe Pinnata/Train/augmented_99_0.jpg,Kalanchoe Pinnata,g00472,1
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_0_0.jpg,Kalanchoe Pinnata,g00473,0
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_1_0.jpg,Kalanchoe Pinnata,g00474,3
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_26_0.jpg,Kalanchoe Pinnata,g00477,1
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_27_0.jpg,Kalanchoe Pinnata,g00478,4
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_28_0.jpg,Kalanchoe Pinnata,g00479,0
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_29_0.jpg,Kalanchoe Pinnata,g00480,2
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_2_0.jpg,Kalanchoe Pinnata,g00481,0
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_30_0.jpg,Kalanchoe Pinnata,g00482,0
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_31_0.jpg,Kalanchoe Pinnata,g00483,3
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_32_0.jpg,Kalanchoe Pinnata,g00484,4
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_34_0.jpg,Kalanchoe Pinnata,g00485,0
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_3_0.jpg,Kalanchoe Pinnata,g00486,3
+Non Augmented/Kalanchoe Pinnata/Validation/augmented_4_0.jpg,Kalanchoe Pinnata,g00487,3
+Non Augmented/Mikania Micrantha/Test/augmented_47_0.jpg,Mikania Micrantha,g00488,3
+Non Augmented/Mikania Micrantha/Test/augmented_49_0.jpg,Mikania Micrantha,g00490,1
+Non Augmented/Mikania Micrantha/Test/augmented_50_0.jpg,Mikania Micrantha,g00491,1
+Non Augmented/Mikania Micrantha/Test/augmented_51_0.jpg,Mikania Micrantha,g00492,4
+Non Augmented/Mikania Micrantha/Test/augmented_52_0.jpg,Mikania Micrantha,g00493,0
+Non Augmented/Mikania Micrantha/Test/augmented_54_0.jpg,Mikania Micrantha,g00495,3
+Non Augmented/Mikania Micrantha/Test/augmented_56_0.jpg,Mikania Micrantha,g00497,4
+Non Augmented/Mikania Micrantha/Test/augmented_57_0.jpg,Mikania Micrantha,g00498,4
+Non Augmented/Mikania Micrantha/Test/augmented_58_0.jpg,Mikania Micrantha,g00499,0
+Non Augmented/Mikania Micrantha/Test/augmented_60_0.jpg,Mikania Micrantha,g00501,0
+Non Augmented/Mikania Micrantha/Test/augmented_61_0.jpg,Mikania Micrantha,g00502,1
+Non Augmented/Mikania Micrantha/Test/augmented_62_0.jpg,Mikania Micrantha,g00503,1
+Non Augmented/Mikania Micrantha/Test/augmented_63_0.jpg,Mikania Micrantha,g00504,2
+Non Augmented/Mikania Micrantha/Test/augmented_64_0.jpg,Mikania Micrantha,g00505,3
+Non Augmented/Mikania Micrantha/Test/augmented_65_0.jpg,Mikania Micrantha,g00506,1
+Non Augmented/Mikania Micrantha/Test/augmented_66_0.jpg,Mikania Micrantha,g00507,1
+Non Augmented/Mikania Micrantha/Train/augmented_0_0.jpg,Mikania Micrantha,g00508,2
+Non Augmented/Mikania Micrantha/Train/augmented_101_0.jpg,Mikania Micrantha,g00510,2
+Non Augmented/Mikania Micrantha/Train/augmented_103_0.jpg,Mikania Micrantha,g00512,3
+Non Augmented/Mikania Micrantha/Train/augmented_104_0.jpg,Mikania Micrantha,g00513,1
+Non Augmented/Mikania Micrantha/Train/augmented_105_0.jpg,Mikania Micrantha,g00514,4
+Non Augmented/Mikania Micrantha/Train/augmented_106_0.jpg,Mikania Micrantha,g00515,1
+Non Augmented/Mikania Micrantha/Train/augmented_107_0.jpg,Mikania Micrantha,g00516,0
+Non Augmented/Mikania Micrantha/Train/augmented_108_0.jpg,Mikania Micrantha,g00517,3
+Non Augmented/Mikania Micrantha/Train/augmented_109_0.jpg,Mikania Micrantha,g00518,3
+Non Augmented/Mikania Micrantha/Train/augmented_10_0.jpg,Mikania Micrantha,g00519,4
+Non Augmented/Mikania Micrantha/Train/augmented_110_0.jpg,Mikania Micrantha,g00520,4
+Non Augmented/Mikania Micrantha/Train/augmented_111_0.jpg,Mikania Micrantha,g00521,4
+Non Augmented/Mikania Micrantha/Train/augmented_112_0.jpg,Mikania Micrantha,g00522,2
+Non Augmented/Mikania Micrantha/Train/augmented_113_0.jpg,Mikania Micrantha,g00523,0
+Non Augmented/Mikania Micrantha/Train/augmented_114_0.jpg,Mikania Micrantha,g00524,4
+Non Augmented/Mikania Micrantha/Train/augmented_115_0.jpg,Mikania Micrantha,g00525,0
+Non Augmented/Mikania Micrantha/Train/augmented_116_0.jpg,Mikania Micrantha,g00526,2
+Non Augmented/Mikania Micrantha/Train/augmented_117_0.jpg,Mikania Micrantha,g00527,0
+Non Augmented/Mikania Micrantha/Train/augmented_118_0.jpg,Mikania Micrantha,g00528,0
+Non Augmented/Mikania Micrantha/Train/augmented_11_0.jpg,Mikania Micrantha,g00530,2
+Non Augmented/Mikania Micrantha/Train/augmented_120_0.jpg,Mikania Micrantha,g00531,0
+Non Augmented/Mikania Micrantha/Train/augmented_121_0.jpg,Mikania Micrantha,g00532,1
+Non Augmented/Mikania Micrantha/Train/augmented_123_0.jpg,Mikania Micrantha,g00534,3
+Non Augmented/Mikania Micrantha/Train/augmented_125_0.jpg,Mikania Micrantha,g00536,0
+Non Augmented/Mikania Micrantha/Train/augmented_127_0.jpg,Mikania Micrantha,g00538,1
+Non Augmented/Mikania Micrantha/Train/augmented_128_0.jpg,Mikania Micrantha,g00539,1
+Non Augmented/Mikania Micrantha/Train/augmented_129_0.jpg,Mikania Micrantha,g00540,2
+Non Augmented/Mikania Micrantha/Train/augmented_130_0.jpg,Mikania Micrantha,g00542,4
+Non Augmented/Mikania Micrantha/Train/augmented_131_0.jpg,Mikania Micrantha,g00543,3
+Non Augmented/Mikania Micrantha/Train/augmented_132_0.jpg,Mikania Micrantha,g00544,1
+Non Augmented/Mikania Micrantha/Train/augmented_133_0.jpg,Mikania Micrantha,g00545,2
+Non Augmented/Mikania Micrantha/Train/augmented_134_0.jpg,Mikania Micrantha,g00546,4
+Non Augmented/Mikania Micrantha/Train/augmented_135_0.jpg,Mikania Micrantha,g00547,4
+Non Augmented/Mikania Micrantha/Train/augmented_137_0.jpg,Mikania Micrantha,g00549,2
+Non Augmented/Mikania Micrantha/Train/augmented_138_0.jpg,Mikania Micrantha,g00550,1
+Non Augmented/Mikania Micrantha/Train/augmented_139_0.jpg,Mikania Micrantha,g00551,2
+Non Augmented/Mikania Micrantha/Train/augmented_13_0.jpg,Mikania Micrantha,g00552,2
+Non Augmented/Mikania Micrantha/Train/augmented_140_0.jpg,Mikania Micrantha,g00553,2
+Non Augmented/Mikania Micrantha/Train/augmented_142_0.jpg,Mikania Micrantha,g00555,1
+Non Augmented/Mikania Micrantha/Train/augmented_143_0.jpg,Mikania Micrantha,g00556,3
+Non Augmented/Mikania Micrantha/Train/augmented_144_0.jpg,Mikania Micrantha,g00557,0
+Non Augmented/Mikania Micrantha/Train/augmented_146_0.jpg,Mikania Micrantha,g00559,1
+Non Augmented/Mikania Micrantha/Train/augmented_148_0.jpg,Mikania Micrantha,g00561,3
+Non Augmented/Mikania Micrantha/Train/augmented_149_0.jpg,Mikania Micrantha,g00562,0
+Non Augmented/Mikania Micrantha/Train/augmented_150_0.jpg,Mikania Micrantha,g00564,4
+Non Augmented/Mikania Micrantha/Train/augmented_152_0.jpg,Mikania Micrantha,g00566,2
+Non Augmented/Mikania Micrantha/Train/augmented_153_0.jpg,Mikania Micrantha,g00567,2
+Non Augmented/Mikania Micrantha/Train/augmented_154_0.jpg,Mikania Micrantha,g00568,1
+Non Augmented/Mikania Micrantha/Train/augmented_155_0.jpg,Mikania Micrantha,g00569,0
+Non Augmented/Mikania Micrantha/Train/augmented_156_0.jpg,Mikania Micrantha,g00570,4
+Non Augmented/Mikania Micrantha/Train/augmented_157_0.jpg,Mikania Micrantha,g00571,1
+Non Augmented/Mikania Micrantha/Train/augmented_159_0.jpg,Mikania Micrantha,g00572,3
+Non Augmented/Mikania Micrantha/Train/augmented_15_0.jpg,Mikania Micrantha,g00573,3
+Non Augmented/Mikania Micrantha/Train/augmented_160_0.jpg,Mikania Micrantha,g00574,1
+Non Augmented/Mikania Micrantha/Train/augmented_164_0.jpg,Mikania Micrantha,g00575,0
+Non Augmented/Mikania Micrantha/Train/augmented_165_0.jpg,Mikania Micrantha,g00576,2
+Non Augmented/Mikania Micrantha/Train/augmented_166_0.jpg,Mikania Micrantha,g00577,3
+Non Augmented/Mikania Micrantha/Train/augmented_168_0.jpg,Mikania Micrantha,g00578,0
+Non Augmented/Mikania Micrantha/Train/augmented_169_0.jpg,Mikania Micrantha,g00579,2
+Non Augmented/Mikania Micrantha/Train/augmented_16_0.jpg,Mikania Micrantha,g00580,2
+Non Augmented/Mikania Micrantha/Train/augmented_170_0.jpg,Mikania Micrantha,g00581,3
+Non Augmented/Mikania Micrantha/Train/augmented_172_0.jpg,Mikania Micrantha,g00582,4
+Non Augmented/Mikania Micrantha/Train/augmented_173_0.jpg,Mikania Micrantha,g00583,2
+Non Augmented/Mikania Micrantha/Train/augmented_174_0.jpg,Mikania Micrantha,g00584,4
+Non Augmented/Mikania Micrantha/Train/augmented_176_0.jpg,Mikania Micrantha,g00585,2
+Non Augmented/Mikania Micrantha/Train/augmented_177_0.jpg,Mikania Micrantha,g00586,4
+Non Augmented/Mikania Micrantha/Train/augmented_17_0.jpg,Mikania Micrantha,g00587,0
+Non Augmented/Mikania Micrantha/Train/augmented_182_0.jpg,Mikania Micrantha,g00588,3
+Non Augmented/Mikania Micrantha/Train/augmented_183_0.jpg,Mikania Micrantha,g00589,2
+Non Augmented/Mikania Micrantha/Train/augmented_188_0.jpg,Mikania Micrantha,g00592,3
+Non Augmented/Mikania Micrantha/Train/augmented_193_0.jpg,Mikania Micrantha,g00594,4
+Non Augmented/Mikania Micrantha/Train/augmented_198_0.jpg,Mikania Micrantha,g00595,2
+Non Augmented/Mikania Micrantha/Train/augmented_200_0.jpg,Mikania Micrantha,g00596,1
+Non Augmented/Mikania Micrantha/Train/augmented_20_0.jpg,Mikania Micrantha,g00598,3
+Non Augmented/Mikania Micrantha/Train/augmented_21_0.jpg,Mikania Micrantha,g00599,3
+Non Augmented/Mikania Micrantha/Train/augmented_23_0.jpg,Mikania Micrantha,g00600,0
+Non Augmented/Mikania Micrantha/Train/augmented_24_0.jpg,Mikania Micrantha,g00601,1
+Non Augmented/Mikania Micrantha/Train/augmented_25_0.jpg,Mikania Micrantha,g00602,2
+Non Augmented/Mikania Micrantha/Train/augmented_26_0.jpg,Mikania Micrantha,g00603,4
+Non Augmented/Mikania Micrantha/Train/augmented_27_0.jpg,Mikania Micrantha,g00604,4
+Non Augmented/Mikania Micrantha/Train/augmented_2_0.jpg,Mikania Micrantha,g00606,2
+Non Augmented/Mikania Micrantha/Train/augmented_30_0.jpg,Mikania Micrantha,g00607,4
+Non Augmented/Mikania Micrantha/Train/augmented_32_0.jpg,Mikania Micrantha,g00608,4
+Non Augmented/Mikania Micrantha/Train/augmented_33_0.jpg,Mikania Micrantha,g00609,4
+Non Augmented/Mikania Micrantha/Train/augmented_34_0.jpg,Mikania Micrantha,g00610,4
+Non Augmented/Mikania Micrantha/Train/augmented_37_0.jpg,Mikania Micrantha,g00613,1
+Non Augmented/Mikania Micrantha/Train/augmented_38_0.jpg,Mikania Micrantha,g00614,0
+Non Augmented/Mikania Micrantha/Train/augmented_39_0.jpg,Mikania Micrantha,g00615,2
+Non Augmented/Mikania Micrantha/Train/augmented_42_0.jpg,Mikania Micrantha,g00616,3
+Non Augmented/Mikania Micrantha/Train/augmented_44_0.jpg,Mikania Micrantha,g00618,0
+Non Augmented/Mikania Micrantha/Train/augmented_45_0.jpg,Mikania Micrantha,g00619,0
+Non Augmented/Mikania Micrantha/Train/augmented_46_0.jpg,Mikania Micrantha,g00620,4
+Non Augmented/Mikania Micrantha/Train/augmented_4_0.jpg,Mikania Micrantha,g00621,1
+Non Augmented/Mikania Micrantha/Train/augmented_5_0.jpg,Mikania Micrantha,g00622,0
+Non Augmented/Mikania Micrantha/Train/augmented_6_0.jpg,Mikania Micrantha,g00623,3
+Non Augmented/Mikania Micrantha/Train/augmented_89_0.jpg,Mikania Micrantha,g00626,3
+Non Augmented/Mikania Micrantha/Train/augmented_92_0.jpg,Mikania Micrantha,g00628,3
+Non Augmented/Mikania Micrantha/Train/augmented_93_0.jpg,Mikania Micrantha,g00629,3
+Non Augmented/Mikania Micrantha/Train/augmented_94_0.jpg,Mikania Micrantha,g00630,1
+Non Augmented/Mikania Micrantha/Train/augmented_97_0.jpg,Mikania Micrantha,g00631,0
+Non Augmented/Mikania Micrantha/Train/augmented_99_0.jpg,Mikania Micrantha,g00632,0
+Non Augmented/Mikania Micrantha/Train/augmented_9_0.jpg,Mikania Micrantha,g00633,1
+Non Augmented/Mikania Micrantha/Validation/augmented_67_0.jpg,Mikania Micrantha,g00634,2
+Non Augmented/Mikania Micrantha/Validation/augmented_68_0.jpg,Mikania Micrantha,g00635,1
+Non Augmented/Mikania Micrantha/Validation/augmented_70_0.jpg,Mikania Micrantha,g00636,2
+Non Augmented/Mikania Micrantha/Validation/augmented_71_0.jpg,Mikania Micrantha,g00637,0
+Non Augmented/Mikania Micrantha/Validation/augmented_73_0.jpg,Mikania Micrantha,g00639,1
+Non Augmented/Mikania Micrantha/Validation/augmented_76_0.jpg,Mikania Micrantha,g00642,4
+Non Augmented/Mikania Micrantha/Validation/augmented_79_0.jpg,Mikania Micrantha,g00643,3
+Non Augmented/Mikania Micrantha/Validation/augmented_82_0.jpg,Mikania Micrantha,g00645,3
+Non Augmented/Mikania Micrantha/Validation/augmented_84_0.jpg,Mikania Micrantha,g00646,4
+Non Augmented/Mikania Micrantha/Validation/augmented_85_0.jpg,Mikania Micrantha,g00647,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_101_0.jpg,Phyllanthus Emblica,g00650,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_102_0.jpg,Phyllanthus Emblica,g00651,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_103_0.jpg,Phyllanthus Emblica,g00652,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_105_0.jpg,Phyllanthus Emblica,g00654,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_106_0.jpg,Phyllanthus Emblica,g00655,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_107_0.jpg,Phyllanthus Emblica,g00656,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_108_0.jpg,Phyllanthus Emblica,g00657,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_109_0.jpg,Phyllanthus Emblica,g00658,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_110_0.jpg,Phyllanthus Emblica,g00660,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_112_0.jpg,Phyllanthus Emblica,g00662,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_113_0.jpg,Phyllanthus Emblica,g00663,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_114_0.jpg,Phyllanthus Emblica,g00664,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_115_0.jpg,Phyllanthus Emblica,g00665,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_117_0.jpg,Phyllanthus Emblica,g00667,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_118_0.jpg,Phyllanthus Emblica,g00668,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_119_0.jpg,Phyllanthus Emblica,g00669,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_11_0.jpg,Phyllanthus Emblica,g00670,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_120_0.jpg,Phyllanthus Emblica,g00671,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_121_0.jpg,Phyllanthus Emblica,g00672,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_122_0.jpg,Phyllanthus Emblica,g00673,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_124_0.jpg,Phyllanthus Emblica,g00675,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_125_0.jpg,Phyllanthus Emblica,g00676,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_127_0.jpg,Phyllanthus Emblica,g00678,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_129_0.jpg,Phyllanthus Emblica,g00680,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_12_0.jpg,Phyllanthus Emblica,g00681,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_131_0.jpg,Phyllanthus Emblica,g00683,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_134_0.jpg,Phyllanthus Emblica,g00686,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_135_0.jpg,Phyllanthus Emblica,g00687,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_136_0.jpg,Phyllanthus Emblica,g00688,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_138_0.jpg,Phyllanthus Emblica,g00690,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_13_0.jpg,Phyllanthus Emblica,g00692,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_140_0.jpg,Phyllanthus Emblica,g00693,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_14_0.jpg,Phyllanthus Emblica,g00694,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_15_0.jpg,Phyllanthus Emblica,g00695,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_16_0.jpg,Phyllanthus Emblica,g00696,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_17_0.jpg,Phyllanthus Emblica,g00697,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_181_0.jpg,Phyllanthus Emblica,g00698,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_182_0.jpg,Phyllanthus Emblica,g00699,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_184_0.jpg,Phyllanthus Emblica,g00700,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_185_0.jpg,Phyllanthus Emblica,g00701,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_186_0.jpg,Phyllanthus Emblica,g00702,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_187_0.jpg,Phyllanthus Emblica,g00703,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_189_0.jpg,Phyllanthus Emblica,g00704,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_18_0.jpg,Phyllanthus Emblica,g00705,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_190_0.jpg,Phyllanthus Emblica,g00706,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_191_0.jpg,Phyllanthus Emblica,g00707,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_193_0.jpg,Phyllanthus Emblica,g00708,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_194_0.jpg,Phyllanthus Emblica,g00709,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_195_0.jpg,Phyllanthus Emblica,g00710,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_197_0.jpg,Phyllanthus Emblica,g00711,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_198_0.jpg,Phyllanthus Emblica,g00712,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_19_0.jpg,Phyllanthus Emblica,g00713,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_1_0.jpg,Phyllanthus Emblica,g00714,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_20_0.jpg,Phyllanthus Emblica,g00715,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_22_0.jpg,Phyllanthus Emblica,g00716,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_24_0.jpg,Phyllanthus Emblica,g00718,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_25_0.jpg,Phyllanthus Emblica,g00719,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_26_0.jpg,Phyllanthus Emblica,g00720,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_29_0.jpg,Phyllanthus Emblica,g00722,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_30_0.jpg,Phyllanthus Emblica,g00724,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_32_0.jpg,Phyllanthus Emblica,g00726,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_34_0.jpg,Phyllanthus Emblica,g00727,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_35_0.jpg,Phyllanthus Emblica,g00728,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_36_0.jpg,Phyllanthus Emblica,g00729,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_37_0.jpg,Phyllanthus Emblica,g00730,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_39_0.jpg,Phyllanthus Emblica,g00731,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_41_0.jpg,Phyllanthus Emblica,g00734,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_42_0.jpg,Phyllanthus Emblica,g00735,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_43_0.jpg,Phyllanthus Emblica,g00736,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_44_0.jpg,Phyllanthus Emblica,g00737,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_45_0.jpg,Phyllanthus Emblica,g00738,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_46_0.jpg,Phyllanthus Emblica,g00739,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_47_0.jpg,Phyllanthus Emblica,g00740,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_48_0.jpg,Phyllanthus Emblica,g00741,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_49_0.jpg,Phyllanthus Emblica,g00742,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_4_0.jpg,Phyllanthus Emblica,g00743,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_50_0.jpg,Phyllanthus Emblica,g00744,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_51_0.jpg,Phyllanthus Emblica,g00745,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_52_0.jpg,Phyllanthus Emblica,g00746,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_53_0.jpg,Phyllanthus Emblica,g00747,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_55_0.jpg,Phyllanthus Emblica,g00748,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_56_0.jpg,Phyllanthus Emblica,g00749,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_57_0.jpg,Phyllanthus Emblica,g00750,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_58_0.jpg,Phyllanthus Emblica,g00751,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_5_0.jpg,Phyllanthus Emblica,g00753,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_60_0.jpg,Phyllanthus Emblica,g00754,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_61_0.jpg,Phyllanthus Emblica,g00755,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_63_0.jpg,Phyllanthus Emblica,g00756,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_64_0.jpg,Phyllanthus Emblica,g00757,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_68_0.jpg,Phyllanthus Emblica,g00759,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_69_0.jpg,Phyllanthus Emblica,g00760,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_6_0.jpg,Phyllanthus Emblica,g00761,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_70_0.jpg,Phyllanthus Emblica,g00762,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_71_0.jpg,Phyllanthus Emblica,g00763,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_72_0.jpg,Phyllanthus Emblica,g00764,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_73_0.jpg,Phyllanthus Emblica,g00765,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_75_0.jpg,Phyllanthus Emblica,g00766,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_76_0.jpg,Phyllanthus Emblica,g00767,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_78_0.jpg,Phyllanthus Emblica,g00768,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_79_0.jpg,Phyllanthus Emblica,g00769,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_80_0.jpg,Phyllanthus Emblica,g00770,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_81_0.jpg,Phyllanthus Emblica,g00771,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_84_0.jpg,Phyllanthus Emblica,g00774,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_85_0.jpg,Phyllanthus Emblica,g00775,1
+Non Augmented/Phyllanthus Emblica/ Train/augmented_86_0.jpg,Phyllanthus Emblica,g00776,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_87_0.jpg,Phyllanthus Emblica,g00777,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_88_0.jpg,Phyllanthus Emblica,g00778,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_8_0.jpg,Phyllanthus Emblica,g00779,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_90_0.jpg,Phyllanthus Emblica,g00780,4
+Non Augmented/Phyllanthus Emblica/ Train/augmented_91_0.jpg,Phyllanthus Emblica,g00781,2
+Non Augmented/Phyllanthus Emblica/ Train/augmented_92_0.jpg,Phyllanthus Emblica,g00782,0
+Non Augmented/Phyllanthus Emblica/ Train/augmented_96_0.jpg,Phyllanthus Emblica,g00784,3
+Non Augmented/Phyllanthus Emblica/ Train/augmented_9_0.jpg,Phyllanthus Emblica,g00787,4
+Non Augmented/Phyllanthus Emblica/Test/augmented_142_0.jpg,Phyllanthus Emblica,g00788,0
+Non Augmented/Phyllanthus Emblica/Test/augmented_144_0.jpg,Phyllanthus Emblica,g00790,4
+Non Augmented/Phyllanthus Emblica/Test/augmented_146_0.jpg,Phyllanthus Emblica,g00792,3
+Non Augmented/Phyllanthus Emblica/Test/augmented_147_0.jpg,Phyllanthus Emblica,g00793,2
+Non Augmented/Phyllanthus Emblica/Test/augmented_148_0.jpg,Phyllanthus Emblica,g00794,0
+Non Augmented/Phyllanthus Emblica/Test/augmented_149_0.jpg,Phyllanthus Emblica,g00795,1
+Non Augmented/Phyllanthus Emblica/Test/augmented_153_0.jpg,Phyllanthus Emblica,g00798,2
+Non Augmented/Phyllanthus Emblica/Test/augmented_154_0.jpg,Phyllanthus Emblica,g00799,0
+Non Augmented/Phyllanthus Emblica/Test/augmented_155_0.jpg,Phyllanthus Emblica,g00800,3
+Non Augmented/Phyllanthus Emblica/Test/augmented_156_0.jpg,Phyllanthus Emblica,g00801,4
+Non Augmented/Phyllanthus Emblica/Test/augmented_157_0.jpg,Phyllanthus Emblica,g00802,4
+Non Augmented/Phyllanthus Emblica/Test/augmented_158_0.jpg,Phyllanthus Emblica,g00803,0
+Non Augmented/Terminalia Arjuna/Test/augmented_101_0.jpg,Terminalia Arjuna,g00806,1
+Non Augmented/Terminalia Arjuna/Test/augmented_103_0.jpg,Terminalia Arjuna,g00808,0
+Non Augmented/Terminalia Arjuna/Test/augmented_104_0.jpg,Terminalia Arjuna,g00809,1
+Non Augmented/Terminalia Arjuna/Test/augmented_106_0.jpg,Terminalia Arjuna,g00811,0
+Non Augmented/Terminalia Arjuna/Test/augmented_107_0.jpg,Terminalia Arjuna,g00812,2
+Non Augmented/Terminalia Arjuna/Test/augmented_108_0.jpg,Terminalia Arjuna,g00813,3
+Non Augmented/Terminalia Arjuna/Test/augmented_109_0.jpg,Terminalia Arjuna,g00814,1
+Non Augmented/Terminalia Arjuna/Test/augmented_111_0.jpg,Terminalia Arjuna,g00816,0
+Non Augmented/Terminalia Arjuna/Test/augmented_113_0.jpg,Terminalia Arjuna,g00818,3
+Non Augmented/Terminalia Arjuna/Test/augmented_94_0.jpg,Terminalia Arjuna,g00820,4
+Non Augmented/Terminalia Arjuna/Test/augmented_95_0.jpg,Terminalia Arjuna,g00821,2
+Non Augmented/Terminalia Arjuna/Test/augmented_97_0.jpg,Terminalia Arjuna,g00823,1
+Non Augmented/Terminalia Arjuna/Test/augmented_98_0.jpg,Terminalia Arjuna,g00824,2
+Non Augmented/Terminalia Arjuna/Test/augmented_99_0.jpg,Terminalia Arjuna,g00825,3
+Non Augmented/Terminalia Arjuna/Train/augmented_0_0.jpg,Terminalia Arjuna,g00826,0
+Non Augmented/Terminalia Arjuna/Train/augmented_10_0.jpg,Terminalia Arjuna,g00827,1
+Non Augmented/Terminalia Arjuna/Train/augmented_11_0.jpg,Terminalia Arjuna,g00828,2
+Non Augmented/Terminalia Arjuna/Train/augmented_12_0.jpg,Terminalia Arjuna,g00829,3
+Non Augmented/Terminalia Arjuna/Train/augmented_136_0.jpg,Terminalia Arjuna,g00830,1
+Non Augmented/Terminalia Arjuna/Train/augmented_137_0.jpg,Terminalia Arjuna,g00831,0
+Non Augmented/Terminalia Arjuna/Train/augmented_138_0.jpg,Terminalia Arjuna,g00832,0
+Non Augmented/Terminalia Arjuna/Train/augmented_139_0.jpg,Terminalia Arjuna,g00833,3
+Non Augmented/Terminalia Arjuna/Train/augmented_13_0.jpg,Terminalia Arjuna,g00834,4
+Non Augmented/Terminalia Arjuna/Train/augmented_140_0.jpg,Terminalia Arjuna,g00835,2
+Non Augmented/Terminalia Arjuna/Train/augmented_141_0.jpg,Terminalia Arjuna,g00836,1
+Non Augmented/Terminalia Arjuna/Train/augmented_142_0.jpg,Terminalia Arjuna,g00837,1
+Non Augmented/Terminalia Arjuna/Train/augmented_144_0.jpg,Terminalia Arjuna,g00839,3
+Non Augmented/Terminalia Arjuna/Train/augmented_145_0.jpg,Terminalia Arjuna,g00840,4
+Non Augmented/Terminalia Arjuna/Train/augmented_146_0.jpg,Terminalia Arjuna,g00841,2
+Non Augmented/Terminalia Arjuna/Train/augmented_149_0.jpg,Terminalia Arjuna,g00844,2
+Non Augmented/Terminalia Arjuna/Train/augmented_14_0.jpg,Terminalia Arjuna,g00845,0
+Non Augmented/Terminalia Arjuna/Train/augmented_150_0.jpg,Terminalia Arjuna,g00846,0
+Non Augmented/Terminalia Arjuna/Train/augmented_152_0.jpg,Terminalia Arjuna,g00848,2
+Non Augmented/Terminalia Arjuna/Train/augmented_153_0.jpg,Terminalia Arjuna,g00849,0
+Non Augmented/Terminalia Arjuna/Train/augmented_154_0.jpg,Terminalia Arjuna,g00850,2
+Non Augmented/Terminalia Arjuna/Train/augmented_155_0.jpg,Terminalia Arjuna,g00851,1
+Non Augmented/Terminalia Arjuna/Train/augmented_156_0.jpg,Terminalia Arjuna,g00852,1
+Non Augmented/Terminalia Arjuna/Train/augmented_157_0.jpg,Terminalia Arjuna,g00853,4
+Non Augmented/Terminalia Arjuna/Train/augmented_158_0.jpg,Terminalia Arjuna,g00854,0
+Non Augmented/Terminalia Arjuna/Train/augmented_159_0.jpg,Terminalia Arjuna,g00855,2
+Non Augmented/Terminalia Arjuna/Train/augmented_15_0.jpg,Terminalia Arjuna,g00856,4
+Non Augmented/Terminalia Arjuna/Train/augmented_160_0.jpg,Terminalia Arjuna,g00857,2
+Non Augmented/Terminalia Arjuna/Train/augmented_161_0.jpg,Terminalia Arjuna,g00858,2
+Non Augmented/Terminalia Arjuna/Train/augmented_162_0.jpg,Terminalia Arjuna,g00859,4
+Non Augmented/Terminalia Arjuna/Train/augmented_163_0.jpg,Terminalia Arjuna,g00860,2
+Non Augmented/Terminalia Arjuna/Train/augmented_165_0.jpg,Terminalia Arjuna,g00862,4
+Non Augmented/Terminalia Arjuna/Train/augmented_166_0.jpg,Terminalia Arjuna,g00863,1
+Non Augmented/Terminalia Arjuna/Train/augmented_167_0.jpg,Terminalia Arjuna,g00864,3
+Non Augmented/Terminalia Arjuna/Train/augmented_168_0.jpg,Terminalia Arjuna,g00865,0
+Non Augmented/Terminalia Arjuna/Train/augmented_16_0.jpg,Terminalia Arjuna,g00866,0
+Non Augmented/Terminalia Arjuna/Train/augmented_172_0.jpg,Terminalia Arjuna,g00869,1
+Non Augmented/Terminalia Arjuna/Train/augmented_17_0.jpg,Terminalia Arjuna,g00870,2
+Non Augmented/Terminalia Arjuna/Train/augmented_181_0.jpg,Terminalia Arjuna,g00871,3
+Non Augmented/Terminalia Arjuna/Train/augmented_182_0.jpg,Terminalia Arjuna,g00872,4
+Non Augmented/Terminalia Arjuna/Train/augmented_183_0.jpg,Terminalia Arjuna,g00873,0
+Non Augmented/Terminalia Arjuna/Train/augmented_184_0.jpg,Terminalia Arjuna,g00874,3
+Non Augmented/Terminalia Arjuna/Train/augmented_185_0.jpg,Terminalia Arjuna,g00875,1
+Non Augmented/Terminalia Arjuna/Train/augmented_186_0.jpg,Terminalia Arjuna,g00876,4
+Non Augmented/Terminalia Arjuna/Train/augmented_187_0.jpg,Terminalia Arjuna,g00877,1
+Non Augmented/Terminalia Arjuna/Train/augmented_188_0.jpg,Terminalia Arjuna,g00878,4
+Non Augmented/Terminalia Arjuna/Train/augmented_191_0.jpg,Terminalia Arjuna,g00880,4
+Non Augmented/Terminalia Arjuna/Train/augmented_192_0.jpg,Terminalia Arjuna,g00881,3
+Non Augmented/Terminalia Arjuna/Train/augmented_193_0.jpg,Terminalia Arjuna,g00882,1
+Non Augmented/Terminalia Arjuna/Train/augmented_194_0.jpg,Terminalia Arjuna,g00883,3
+Non Augmented/Terminalia Arjuna/Train/augmented_196_0.jpg,Terminalia Arjuna,g00885,0
+Non Augmented/Terminalia Arjuna/Train/augmented_199_0.jpg,Terminalia Arjuna,g00886,3
+Non Augmented/Terminalia Arjuna/Train/augmented_1_0.jpg,Terminalia Arjuna,g00888,2
+Non Augmented/Terminalia Arjuna/Train/augmented_200_0.jpg,Terminalia Arjuna,g00889,4
+Non Augmented/Terminalia Arjuna/Train/augmented_202_0.jpg,Terminalia Arjuna,g00891,3
+Non Augmented/Terminalia Arjuna/Train/augmented_206_0.jpg,Terminalia Arjuna,g00892,0
+Non Augmented/Terminalia Arjuna/Train/augmented_20_0.jpg,Terminalia Arjuna,g00893,0
+Non Augmented/Terminalia Arjuna/Train/augmented_21_0.jpg,Terminalia Arjuna,g00894,0
+Non Augmented/Terminalia Arjuna/Train/augmented_24_0.jpg,Terminalia Arjuna,g00895,3
+Non Augmented/Terminalia Arjuna/Train/augmented_25_0.jpg,Terminalia Arjuna,g00896,3
+Non Augmented/Terminalia Arjuna/Train/augmented_26_0.jpg,Terminalia Arjuna,g00897,2
+Non Augmented/Terminalia Arjuna/Train/augmented_29_0.jpg,Terminalia Arjuna,g00898,4
+Non Augmented/Terminalia Arjuna/Train/augmented_30_0.jpg,Terminalia Arjuna,g00899,2
+Non Augmented/Terminalia Arjuna/Train/augmented_31_0.jpg,Terminalia Arjuna,g00900,0
+Non Augmented/Terminalia Arjuna/Train/augmented_32_0.jpg,Terminalia Arjuna,g00901,4
+Non Augmented/Terminalia Arjuna/Train/augmented_34_0.jpg,Terminalia Arjuna,g00902,2
+Non Augmented/Terminalia Arjuna/Train/augmented_35_0.jpg,Terminalia Arjuna,g00903,4
+Non Augmented/Terminalia Arjuna/Train/augmented_37_0.jpg,Terminalia Arjuna,g00904,4
+Non Augmented/Terminalia Arjuna/Train/augmented_38_0.jpg,Terminalia Arjuna,g00905,1
+Non Augmented/Terminalia Arjuna/Train/augmented_3_0.jpg,Terminalia Arjuna,g00906,4
+Non Augmented/Terminalia Arjuna/Train/augmented_40_0.jpg,Terminalia Arjuna,g00907,1
+Non Augmented/Terminalia Arjuna/Train/augmented_43_0.jpg,Terminalia Arjuna,g00909,2
+Non Augmented/Terminalia Arjuna/Train/augmented_44_0.jpg,Terminalia Arjuna,g00910,1
+Non Augmented/Terminalia Arjuna/Train/augmented_45_0.jpg,Terminalia Arjuna,g00911,0
+Non Augmented/Terminalia Arjuna/Train/augmented_48_0.jpg,Terminalia Arjuna,g00914,1
+Non Augmented/Terminalia Arjuna/Train/augmented_49_0.jpg,Terminalia Arjuna,g00915,1
+Non Augmented/Terminalia Arjuna/Train/augmented_4_0.jpg,Terminalia Arjuna,g00916,3
+Non Augmented/Terminalia Arjuna/Train/augmented_50_0.jpg,Terminalia Arjuna,g00917,2
+Non Augmented/Terminalia Arjuna/Train/augmented_51_0.jpg,Terminalia Arjuna,g00918,1
+Non Augmented/Terminalia Arjuna/Train/augmented_53_0.jpg,Terminalia Arjuna,g00919,2
+Non Augmented/Terminalia Arjuna/Train/augmented_54_0.jpg,Terminalia Arjuna,g00920,1
+Non Augmented/Terminalia Arjuna/Train/augmented_56_0.jpg,Terminalia Arjuna,g00922,4
+Non Augmented/Terminalia Arjuna/Train/augmented_57_0.jpg,Terminalia Arjuna,g00923,3
+Non Augmented/Terminalia Arjuna/Train/augmented_59_0.jpg,Terminalia Arjuna,g00924,4
+Non Augmented/Terminalia Arjuna/Train/augmented_5_0.jpg,Terminalia Arjuna,g00925,1
+Non Augmented/Terminalia Arjuna/Train/augmented_60_0.jpg,Terminalia Arjuna,g00926,2
+Non Augmented/Terminalia Arjuna/Train/augmented_61_0.jpg,Terminalia Arjuna,g00927,0
+Non Augmented/Terminalia Arjuna/Train/augmented_62_0.jpg,Terminalia Arjuna,g00928,2
+Non Augmented/Terminalia Arjuna/Train/augmented_63_0.jpg,Terminalia Arjuna,g00929,2
+Non Augmented/Terminalia Arjuna/Train/augmented_64_0.jpg,Terminalia Arjuna,g00930,3
+Non Augmented/Terminalia Arjuna/Train/augmented_66_0.jpg,Terminalia Arjuna,g00932,3
+Non Augmented/Terminalia Arjuna/Train/augmented_67_0.jpg,Terminalia Arjuna,g00933,1
+Non Augmented/Terminalia Arjuna/Train/augmented_6_0.jpg,Terminalia Arjuna,g00936,4
+Non Augmented/Terminalia Arjuna/Train/augmented_71_0.jpg,Terminalia Arjuna,g00937,3
+Non Augmented/Terminalia Arjuna/Train/augmented_72_0.jpg,Terminalia Arjuna,g00938,1
+Non Augmented/Terminalia Arjuna/Train/augmented_73_0.jpg,Terminalia Arjuna,g00939,2
+Non Augmented/Terminalia Arjuna/Train/augmented_74_0.jpg,Terminalia Arjuna,g00940,3
+Non Augmented/Terminalia Arjuna/Train/augmented_75_0.jpg,Terminalia Arjuna,g00941,3
+Non Augmented/Terminalia Arjuna/Train/augmented_77_0.jpg,Terminalia Arjuna,g00943,3
+Non Augmented/Terminalia Arjuna/Train/augmented_78_0.jpg,Terminalia Arjuna,g00944,3
+Non Augmented/Terminalia Arjuna/Train/augmented_7_0.jpg,Terminalia Arjuna,g00945,1
+Non Augmented/Terminalia Arjuna/Train/augmented_80_0.jpg,Terminalia Arjuna,g00946,3
+Non Augmented/Terminalia Arjuna/Train/augmented_83_0.jpg,Terminalia Arjuna,g00947,0
+Non Augmented/Terminalia Arjuna/Train/augmented_86_0.jpg,Terminalia Arjuna,g00949,4
+Non Augmented/Terminalia Arjuna/Train/augmented_87_0.jpg,Terminalia Arjuna,g00950,4
+Non Augmented/Terminalia Arjuna/Train/augmented_89_0.jpg,Terminalia Arjuna,g00951,4
+Non Augmented/Terminalia Arjuna/Train/augmented_8_0.jpg,Terminalia Arjuna,g00952,2
+Non Augmented/Terminalia Arjuna/Train/augmented_90_0.jpg,Terminalia Arjuna,g00953,4
+Non Augmented/Terminalia Arjuna/Train/augmented_92_0.jpg,Terminalia Arjuna,g00954,0
+Non Augmented/Terminalia Arjuna/Train/augmented_93_0.jpg,Terminalia Arjuna,g00955,0
+Non Augmented/Terminalia Arjuna/Train/augmented_9_0.jpg,Terminalia Arjuna,g00956,4
+Non Augmented/Terminalia Arjuna/Validation/augmented_117_0.jpg,Terminalia Arjuna,g00958,1
+Non Augmented/Terminalia Arjuna/Validation/augmented_123_0.jpg,Terminalia Arjuna,g00963,3
+Non Augmented/Terminalia Arjuna/Validation/augmented_124_0.jpg,Terminalia Arjuna,g00964,0
+Non Augmented/Terminalia Arjuna/Validation/augmented_125_0.jpg,Terminalia Arjuna,g00965,0
+Non Augmented/Terminalia Arjuna/Validation/augmented_128_0.jpg,Terminalia Arjuna,g00967,0
+Non Augmented/Terminalia Arjuna/Validation/augmented_131_0.jpg,Terminalia Arjuna,g00968,4
+Non Augmented/Terminalia Arjuna/Validation/augmented_132_0.jpg,Terminalia Arjuna,g00969,4
+Non Augmented/Terminalia Arjuna/Validation/augmented_133_0.jpg,Terminalia Arjuna,g00970,2
+Non Augmented/Terminalia Arjuna/Validation/augmented_134_0.jpg,Terminalia Arjuna,g00971,0

@@ -1,0 +1,9 @@
+{
+  "health_status": 200,
+  "prediction_status": 200,
+  "example_label": "Centella Asiatica",
+  "score_is_probability": false,
+  "unsupported_organ_status": 422,
+  "model_sha256": "86df7ff9aa043b2ee001b8d2f84154bf3613ffccf67b8e0f045eeca93cf2be08",
+  "network": "127.0.0.1 only"
+}

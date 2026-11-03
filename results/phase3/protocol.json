@@ -1,0 +1,69 @@
+{
+  "created_utc": "2026-11-03T03:36:42.507342+00:00",
+  "feature_id": "texture128",
+  "scope": "development_only",
+  "test_used": false,
+  "historical_test_already_open": true,
+  "manifest_sha256": "5a352a09cef2b6a84855fa1a23b64f5032f6c4c3e47e154600eec4e06f3b33ff",
+  "feature_code_sha256": {
+    "features.py": "46b573d26063ea22bce496687a44172dfd8db3f7258430161c367b25c4f84aa7",
+    "features_v2.py": "041640c173bb268d57639bc96b89ccd3f575d160ce36d81695ad1e2fdefca1f0"
+  },
+  "runner_sha256": "a183a65003d4ae231319f9b3694820bbb0c94067213f534f8d61608e4f83b3a2",
+  "written_protocol_sha256": "3d4ea4f2d5120ee93d5ba06268f6a8732738eaaf978efdf4f669fb634a67a512",
+  "seeds": [
+    11,
+    29,
+    47,
+    71,
+    101
+  ],
+  "searches": [
+    "random3",
+    "random4",
+    "tpe4"
+  ],
+  "trials_per_search_seed_scope": 40,
+  "outer_folds": 5,
+  "outer_seed": 2031,
+  "inner_folds": 3,
+  "inner_seed_base": 2032,
+  "nested_trials": 3000,
+  "full_development_trials": 600,
+  "total_hpo_cv_fits": 10800,
+  "four_parameter_space": {
+    "kernel": [
+      "linear",
+      "rbf"
+    ],
+    "C_log": [
+      0.001,
+      1000.0
+    ],
+    "gamma_log_rbf_only": [
+      1e-05,
+      0.1
+    ],
+    "class_weight": [
+      null,
+      "balanced"
+    ]
+  },
+  "baseline": {
+    "kernel": "rbf",
+    "C": 1.0,
+    "gamma": "scale",
+    "class_weight": null
+  },
+  "tpe_startup_trials": 10,
+  "pruning": false,
+  "n_jobs": 1,
+  "selection": "baseline/random4/tpe4 by mean best-inner CV across seeds; configuration by inner CV only",
+  "limitation": "Fixed feature family previously selected on the same development data; groups are duplicate heuristics, not verified plant IDs. Not an external validation.",
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "sklearn": "1.8.0",
+    "optuna": "4.5.0"
+  }
+}
