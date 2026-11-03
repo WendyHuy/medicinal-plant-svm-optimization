@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Vietnam medicinal plant image annotation v0.1",
+  "description": "One image record. Species candidates remain unverified until reviewed; whole_plant is a view, rhizome is not root. Nullable fields must remain null when unknown.",
+  "type": "object",
+  "required": ["image_id", "source", "source_record_id", "source_url", "raw_species_label", "candidate_species_id", "verified_species_id", "species_review_status", "plant_id", "observation_id", "organs_visible", "view_type", "material_state", "phenophases", "age_days", "license", "rights_review_status", "quality_decision", "duplicate_group_id", "split"],
+  "properties": {
+    "image_id": {"type":"string"},
+    "source": {"type":"string"},
+    "source_record_id": {"type":["string","null"]},
+    "source_url": {"type":"string"},
+    "raw_species_label": {"type":"string"},
+    "candidate_species_id": {"type":["string","null"],"description":"Retrieval suggestion, never accepted as truth automatically."},
+    "verified_species_id": {"type":["string","null"]},
+    "taxon_reference": {"type":["string","null"]},
+    "taxon_reference_version": {"type":["string","null"]},
+    "species_review_status": {"enum":["pending","confirmed","rejected","ambiguous"]},
+    "reviewer": {"type":["string","null"]},
+    "review_evidence": {"type":["string","null"]},
+    "plant_id": {"type":["string","null"]},
+    "plant_id_basis": {"enum":["tagged_individual","source_individual_identifier","plot_or_clonal_patch","unknown"]},
+    "observation_id": {"type":["string","null"]},
+    "session_id": {"type":["string","null"]},
+    "capture_date": {"type":["string","null"]},
+    "capture_country": {"type":["string","null"]},
+    "species_present_in_vietnam_evidence": {"type":["string","null"]},
+    "organs_visible": {"type":"array","uniqueItems":true,"items":{"enum":["leaf","stem","bark","flower","fruit","seed","root","rhizome"]}},
+    "view_type": {"enum":["leaf_upper","leaf_lower","leaf_margin","leaf_base","stem_node","stem_bark","flower_closeup","fruit_closeup","root_closeup","rhizome_closeup","whole_plant","mixed","unknown"]},
+    "material_state": {"enum":["living_plant","fresh_detached","dried","processed","herbarium","illustration","unknown"]},
+    "phenophases": {"type":["array","null"],"uniqueItems":true,"items":{"enum":["bud","open_flower","unripe_fruit","ripe_fruit","senescent"]},"description":"Visible phenophases only; not exact chronological age."},
+    "vegetative_stage": {"enum":["seedling","vegetative","unknown"]},
+    "age_days": {"type":["number","null"],"minimum":0},
+    "age_evidence": {"type":["string","null"],"description":"Known sowing/planting record. Do not infer age from season or image."},
+    "morphology_observed": {
+      "type":"object",
+      "properties": {
+        "leaf_outline": {"enum":["ovate","elliptic","lanceolate","linear","orbicular","reniform","other","unknown"]},
+        "leaf_margin": {"enum":["entire","serrate","crenate","dentate","other","unknown"]},
+        "leaf_arrangement": {"enum":["alternate","opposite","whorled","basal_rosette","unknown"]},
+        "leaf_upper_color": {"type":["string","null"]},
+        "leaf_lower_color": {"type":["string","null"]},
+        "stem_color": {"type":["string","null"]},
+        "notes": {"type":["string","null"]}
+      },
+      "description":"Optional observed traits. Missing side of leaf = unknown. Scent, taste, chemistry and medicinal efficacy cannot be visually labelled. Species-typical descriptions are knowledge-base fields, not observation labels."
+    },
+    "license": {"type":["string","null"]},
+    "creator": {"type":["string","null"]},
+    "attribution": {"type":["string","null"]},
+    "rights_review_status": {"enum":["pending","research_only","research_and_web","rejected"]},
+    "quality_decision": {"enum":["pending","candidate_keep","train_keep","illustration_only","challenge_only","quarantine","reject"]},
+    "quality_reasons": {"type":"array","items":{"type":"string"}},
+    "duplicate_group_id": {"type":["string","null"]},
+    "split": {"enum":["unassigned","development","test","external_validation","excluded"]},
+    "sha256": {"type":["string","null"]}
+  },
+  "allOf": [
+    {"if":{"properties":{"quality_decision":{"const":"train_keep"}}},"then":{"properties":{"species_review_status":{"const":"confirmed"},"verified_species_id":{"type":"string"},"rights_review_status":{"enum":["research_only","research_and_web"]},"material_state":{"enum":["living_plant","fresh_detached"]}}}},
+    {"if":{"properties":{"age_days":{"type":"number"}}},"then":{"required":["age_evidence"],"properties":{"age_evidence":{"type":"string","minLength":1}}}}
+  ]
+}

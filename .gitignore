@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 data/raw/
 data/source/*.zip
+data/source/*.partial
 data/source/.*.zip.*
 results/*/*.npz
 results/*/*.joblib

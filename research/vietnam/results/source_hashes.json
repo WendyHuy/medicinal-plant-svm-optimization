@@ -1,0 +1,37 @@
+[
+  {
+    "file": "retrieval_log.json",
+    "bytes": 1707,
+    "sha256": "639485d1301a30c50a1ebf76e9178f7bb9bbf93a7b7b6b2f34282e2ae03ed364"
+  },
+  {
+    "file": "tdtu_README.md",
+    "bytes": 6089,
+    "sha256": "1dfed62e8b7c91e9a2764b4a6070a434de16cb16fb7ca7174f43115d5a216d2e"
+  },
+  {
+    "file": "tdtu_test.jsonl",
+    "bytes": 536606,
+    "sha256": "aa3fe0e30ed1cec6b9ec5262503b2669810c5201be535d9c8611223418eb72be"
+  },
+  {
+    "file": "tdtu_train.jsonl",
+    "bytes": 4256438,
+    "sha256": "70f29c04bf29d43c85659bded9a5b3fdaa8e7e9209567e3427cc5250a4780839"
+  },
+  {
+    "file": "tdtu_val.jsonl",
+    "bytes": 549793,
+    "sha256": "c2b95abec050093f558f1b3634dccfe641f6342f6137bad318db08ab8c3f9b4a"
+  },
+  {
+    "file": "vietmedi_image_statistics.json",
+    "bytes": 565,
+    "sha256": "8a33e504259716e84e50a611dffa1ce044790dfcf8d137b3078750672aae5387"
+  },
+  {
+    "file": "vietmedi_metadata.csv",
+    "bytes": 2519034,
+    "sha256": "4ab9d595389d491aeffcdf9e151597cecec207ab1d8b583c46c1840c9b51dc02"
+  }
+]

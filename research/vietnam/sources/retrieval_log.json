@@ -1,0 +1,44 @@
+[
+  {
+    "file": "vietmedi_metadata.csv",
+    "url": "https://raw.githubusercontent.com/trientran/VietMediSpecies/feature/update/merged_species_with_gbif_metadata.csv",
+    "bytes": 2519034,
+    "sha256": "4ab9d595389d491aeffcdf9e151597cecec207ab1d8b583c46c1840c9b51dc02",
+    "status": "downloaded"
+  },
+  {
+    "file": "vietmedi_image_statistics.json",
+    "url": "https://raw.githubusercontent.com/trientran/VietMediSpecies/feature/update/image_statistics.json",
+    "bytes": 565,
+    "sha256": "8a33e504259716e84e50a611dffa1ce044790dfcf8d137b3078750672aae5387",
+    "status": "downloaded"
+  },
+  {
+    "file": "tdtu_README.md",
+    "url": "https://huggingface.co/datasets/azan100an/tdtu_vqa_dataset_herb/raw/main/README.md",
+    "bytes": 6089,
+    "sha256": "1dfed62e8b7c91e9a2764b4a6070a434de16cb16fb7ca7174f43115d5a216d2e",
+    "status": "downloaded"
+  },
+  {
+    "file": "tdtu_train.jsonl",
+    "url": "https://huggingface.co/datasets/azan100an/tdtu_vqa_dataset_herb/resolve/main/train_metadata.jsonl",
+    "bytes": 4256438,
+    "sha256": "70f29c04bf29d43c85659bded9a5b3fdaa8e7e9209567e3427cc5250a4780839",
+    "status": "downloaded"
+  },
+  {
+    "file": "tdtu_val.jsonl",
+    "url": "https://huggingface.co/datasets/azan100an/tdtu_vqa_dataset_herb/resolve/main/val_metadata.jsonl",
+    "bytes": 549793,
+    "sha256": "c2b95abec050093f558f1b3634dccfe641f6342f6137bad318db08ab8c3f9b4a",
+    "status": "downloaded"
+  },
+  {
+    "file": "tdtu_test.jsonl",
+    "url": "https://huggingface.co/datasets/azan100an/tdtu_vqa_dataset_herb/resolve/main/test_metadata.jsonl",
+    "bytes": 536606,
+    "sha256": "aa3fe0e30ed1cec6b9ec5262503b2669810c5201be535d9c8611223418eb72be",
+    "status": "downloaded"
+  }
+]

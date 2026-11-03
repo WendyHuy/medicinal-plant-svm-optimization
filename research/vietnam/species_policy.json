@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "date": "2026-10-29",
+  "status": "research_candidates_not_training_release",
+  "taxonomy_policy": "Stable local species_id; retain original name and taxon source/version. Synonym mapping requires reference and human review; vernacular substring matching is prohibited.",
+  "species": [
+    {"species_id":"VN001","name_vi":"Rau má","scientific_name":"Centella asiatica","priority":1,"exact_vi_aliases":["rau má"],"scientific_aliases":[],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/rau-ma","extra_views":["leaf_lower","stem_node","whole_plant"]},
+    {"species_id":"VN002","name_vi":"Diếp cá","scientific_name":"Houttuynia cordata","priority":1,"exact_vi_aliases":["diếp cá","dấp cá"],"scientific_aliases":[],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/diep-ca","extra_views":["stem_node","flower","whole_plant"]},
+    {"species_id":"VN003","name_vi":"Tía tô","scientific_name":"Perilla frutescens","priority":1,"exact_vi_aliases":["tía tô"],"scientific_aliases":[],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/tia","extra_views":["leaf_lower","stem_node","flower"]},
+    {"species_id":"VN004","name_vi":"Húng chanh","scientific_name":"Coleus amboinicus","priority":1,"exact_vi_aliases":["húng chanh","tần dày lá","rau tần dày lá"],"scientific_aliases":["Plectranthus amboinicus"],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/hung-chanh","extra_views":["leaf_lower","stem_node","whole_plant"]},
+    {"species_id":"VN005","name_vi":"Lá lốt","scientific_name":"Piper sarmentosum","priority":1,"exact_vi_aliases":["lá lốt"],"scientific_aliases":["Piper lolot"],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/la-lot","extra_views":["stem_node","flower","whole_plant"],"review_note":"Vietnamese name differs in VietMedi metadata; never resolve from name alone."},
+    {"species_id":"VN006","name_vi":"Trầu không","scientific_name":"Piper betle","priority":1,"exact_vi_aliases":["trầu không"],"scientific_aliases":[],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/trau-khong","extra_views":["stem_node","whole_plant"]},
+    {"species_id":"VN007","name_vi":"Lô hội","scientific_name":"Aloe vera","priority":1,"exact_vi_aliases":["lô hội","nha đam"],"scientific_aliases":["Aloe barbadensis"],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/lo-hoi","extra_views":["leaf_margin","whole_plant","flower"]},
+    {"species_id":"VN008","name_vi":"Thuốc bỏng","scientific_name":"Kalanchoe pinnata","priority":1,"exact_vi_aliases":["thuốc bỏng","sống đời","trường sinh"],"scientific_aliases":["Bryophyllum pinnatum"],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/truong-sinh","extra_views":["leaf_margin","stem_node","flower"],"review_note":"Sống đời/Trường sinh are ambiguous horticultural names; exact text is retrieval only, not a botanical confirmation."},
+    {"species_id":"VN009","name_vi":"Cỏ nhọ nồi","scientific_name":"Eclipta prostrata","priority":1,"exact_vi_aliases":["cỏ nhọ nồi","nhọ nồi","cỏ mực"],"scientific_aliases":["Eclipta alba"],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/co-muc","extra_views":["stem_node","flower","fruit"]},
+    {"species_id":"VN010","name_vi":"Xuyên tâm liên","scientific_name":"Andrographis paniculata","priority":1,"exact_vi_aliases":["xuyên tâm liên"],"scientific_aliases":[],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/xuyen-tam-lien","extra_views":["stem_node","flower","fruit"]},
+    {"species_id":"VN011","name_vi":"Ích mẫu","scientific_name":"Leonurus japonicus","priority":1,"exact_vi_aliases":["ích mẫu"],"scientific_aliases":[],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/ich-mau","extra_views":["stem_node","flower","whole_plant"]},
+    {"species_id":"VN012","name_vi":"Râu mèo","scientific_name":"Orthosiphon aristatus","priority":1,"exact_vi_aliases":["râu mèo","râu mèo xoắn"],"scientific_aliases":[],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/rau-meo","extra_views":["stem_node","flower","whole_plant"],"review_note":"Keep source names Orthosiphon stamineus/spiralis for expert reconciliation; no automatic synonym merge in this release."},
+    {"species_id":"VN013","name_vi":"Gừng","scientific_name":"Zingiber officinale","priority":2,"exact_vi_aliases":["gừng"],"scientific_aliases":[],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/gung","extra_views":["whole_plant","rhizome","flower"]},
+    {"species_id":"VN014","name_vi":"Nghệ vàng","scientific_name":"Curcuma longa","priority":2,"exact_vi_aliases":["nghệ","nghệ vàng"],"scientific_aliases":[],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/nghe","extra_views":["whole_plant","rhizome","flower"]},
+    {"species_id":"VN015","name_vi":"Sả chanh","scientific_name":"Cymbopogon citratus","priority":2,"exact_vi_aliases":["sả chanh"],"scientific_aliases":[],"profile_url":"https://powo.science.kew.org/taxon/396896-1","extra_views":["leaf_base","whole_plant"],"review_note":"Sả alone is an ambiguous common name; distinguish other Cymbopogon species."},
+    {"species_id":"VN016","name_vi":"Ổi","scientific_name":"Psidium guajava","priority":2,"exact_vi_aliases":["ổi"],"scientific_aliases":[],"profile_url":"https://mplant.ump.edu.vn/index.php/oi-psidium-guajava-myrtaceae/","extra_views":["stem_bark","flower","fruit"]},
+    {"species_id":"VN017","name_vi":"Dâu tằm","scientific_name":"Morus alba","priority":2,"exact_vi_aliases":["dâu tằm"],"scientific_aliases":[],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/dau-tam","extra_views":["stem_node","fruit","whole_plant"]},
+    {"species_id":"VN018","name_vi":"Bụp giấm","scientific_name":"Hibiscus sabdariffa","priority":2,"exact_vi_aliases":["bụp giấm"],"scientific_aliases":[],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/bup-giam","extra_views":["stem_node","flower","fruit"]},
+    {"species_id":"VN019","name_vi":"Đậu biếc","scientific_name":"Clitoria ternatea","priority":2,"exact_vi_aliases":["đậu biếc"],"scientific_aliases":[],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/dau-biec","extra_views":["whole_plant","flower","fruit"]},
+    {"species_id":"VN020","name_vi":"Chùm ngây","scientific_name":"Moringa oleifera","priority":2,"exact_vi_aliases":["chùm ngây"],"scientific_aliases":[],"profile_url":"https://pharmacy.tdtu.edu.vn/duoc-lieu/chum-ngay","extra_views":["whole_plant","flower","fruit"]}
+  ],
+  "defer": [
+    {"name_vi":"Ngải cứu","reason":"Verify Artemisia vulgaris versus other Artemisia taxa per specimen; no merge with Artemisia indica."},
+    {"name_vi":"Bạc hà","reason":"Multiple Mentha species/hybrids may share vernacular name; require species-level determination."},
+    {"name_vi":"Diệp hạ châu","reason":"Distinguish Phyllanthus amarus, P. urinaria, P. niruri; never use one mixed common-name class."},
+    {"name_vi":"Mã đề","reason":"Keep Plantago major and P. asiatica as separate species when confirmed; defer ambiguous images."},
+    {"name_vi":"Cà gai leo","reason":"Require verified Solanum procumbens images and lookalike controls before admission."}
+  ]
+}

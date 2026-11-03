@@ -1,0 +1,16 @@
+{
+  "metadata_unique_candidates": 69,
+  "species_candidates": 20,
+  "visually_reviewed": 18,
+  "review_decisions": {
+    "candidate_keep": 7,
+    "quarantine": 9,
+    "illustration_only": 2
+  },
+  "training_eligible_images": 0,
+  "sample_hashes_verified": 18,
+  "conflicting_duplicate_group_verified": true,
+  "schema_check": "JSON parsed; jsonschema package unavailable",
+  "python_scripts_compile": "pass",
+  "date": "2026-10-29"
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "source_file": "data/P000000133.jpg",
+    "raw_label": "nghệ xanh",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000000134.jpg",
+    "raw_label": "nghệ xanh",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000000135.jpg",
+    "raw_label": "nghệ xanh",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000000389.jpg",
+    "raw_label": "gừng dại tía",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000000846.jpg",
+    "raw_label": "nần nghệ",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000000847.jpg",
+    "raw_label": "nần nghệ",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000000848.jpg",
+    "raw_label": "nần nghệ",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000000849.jpg",
+    "raw_label": "nần nghệ",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001051.jpg",
+    "raw_label": "trường sinh lá rách",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001052.jpg",
+    "raw_label": "trường sinh lá rách",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001053.jpg",
+    "raw_label": "trường sinh lá rách",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001556.jpg",
+    "raw_label": "rau má nước",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001557.jpg",
+    "raw_label": "rau má nước",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001564.jpg",
+    "raw_label": "rau má núi",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001565.jpg",
+    "raw_label": "rau má núi",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001566.jpg",
+    "raw_label": "rau má núi",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001570.jpg",
+    "raw_label": "rau má ngọ",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001571.jpg",
+    "raw_label": "rau má ngọ",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001572.jpg",
+    "raw_label": "rau má ngọ",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001573.jpg",
+    "raw_label": "rau má mỡ",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001574.jpg",
+    "raw_label": "rau má mỡ",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001575.jpg",
+    "raw_label": "rau má mỡ",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001576.jpg",
+    "raw_label": "rau má lông",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001577.jpg",
+    "raw_label": "rau má lông",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001578.jpg",
+    "raw_label": "rau má lông",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001579.jpg",
+    "raw_label": "rau má lá to",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001580.jpg",
+    "raw_label": "rau má lá to",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001581.jpg",
+    "raw_label": "rau má lá to",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001582.jpg",
+    "raw_label": "rau má lá rau muống",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001583.jpg",
+    "raw_label": "rau má lá rau muống",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001584.jpg",
+    "raw_label": "rau má lá rau muống",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001585.jpg",
+    "raw_label": "rau má lá rau muống",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001680.jpg",
+    "raw_label": "nghệ trắng",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001681.jpg",
+    "raw_label": "nghệ trắng",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001682.jpg",
+    "raw_label": "nghệ trắng",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001891.jpg",
+    "raw_label": "củ mài gừng",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001892.jpg",
+    "raw_label": "củ mài gừng",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000001893.jpg",
+    "raw_label": "củ mài gừng",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000002159.jpg",
+    "raw_label": "cỏ gừng",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000002160.jpg",
+    "raw_label": "cỏ gừng",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000002161.jpg",
+    "raw_label": "cỏ gừng",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000002776.jpg",
+    "raw_label": "gừng gió",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000002777.jpg",
+    "raw_label": "gừng gió",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000002778.jpg",
+    "raw_label": "gừng gió",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000002783.jpg",
+    "raw_label": "gừng dại",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000002784.jpg",
+    "raw_label": "gừng dại",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000002785.jpg",
+    "raw_label": "gừng dại",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000003026.jpg",
+    "raw_label": "đơn rau má",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000003027.jpg",
+    "raw_label": "đơn rau má",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000003028.jpg",
+    "raw_label": "đơn rau má",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000003029.jpg",
+    "raw_label": "đơn rau má",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000003030.jpg",
+    "raw_label": "đơn rau má",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000003143.jpg",
+    "raw_label": "bông ổi",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000003144.jpg",
+    "raw_label": "bông ổi",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000003145.jpg",
+    "raw_label": "bông ổi",
+    "reason": "substring_is_not_species_identity"
+  },
+  {
+    "source_file": "data/P000003813.jpg",
+    "raw_label": "tía tô dại",
+    "reason": "substring_is_not_species_identity"
+  }
+]

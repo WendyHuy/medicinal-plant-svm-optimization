@@ -1,0 +1,15 @@
+{
+  "valid": true,
+  "ready_for_training": false,
+  "n_records": 69,
+  "n_train_keep": 0,
+  "n_blocked": 69,
+  "verified_species_counts": {},
+  "multi_organ_observations": 0,
+  "errors": [],
+  "warnings": [
+    "No images have completed botanical and rights review",
+    "Image bytes not checked; pass --images-root before training release"
+  ],
+  "note": "Passing validation checks structure and recorded evidence, not botanical truth or sufficient statistical power."
+}

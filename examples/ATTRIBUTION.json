@@ -1,0 +1,13 @@
+{
+  "dataset": "BDMediLeaves",
+  "doi": "10.17632/t9rns2gmr3.1",
+  "source_url": "https://data.mendeley.com/datasets/t9rns2gmr3/1",
+  "license": "CC BY 4.0",
+  "attribution": "Islam, Saiful and coauthors (2023), BDMediLeaves, Mendeley Data V1",
+  "original_path": "Non Augmented/Centella Asiatica/Test/augmented_0_0.jpg",
+  "original_split_in_project": "development",
+  "label": "Centella Asiatica",
+  "modifications": "Renamed, original bytes unchanged",
+  "sha256": "78debf80a82b4db708326730988b837ba11d0d9c81d2f477bbb4ef6f5e8245c1",
+  "purpose": "Smoke test/demo only; not an independent evaluation image"
+}

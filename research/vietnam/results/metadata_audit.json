@@ -1,0 +1,681 @@
+{
+  "date": "2026-10-29",
+  "scope": "metadata audit; no model training or full-image audit",
+  "vietmedi": {
+    "metadata_rows": 4799,
+    "by_kingdom": {
+      "Plantae": 4667,
+      "Fungi": 120,
+      "Chromista": 9,
+      "Bacteria": 3
+    },
+    "taxonomic_status": {
+      "ACCEPTED": 4723,
+      "DOUBTFUL": 76
+    },
+    "unique_species_keys": 4799,
+    "author_repository_image_statistics": {
+      "total_images": 310647,
+      "total_species_with_images": 3570,
+      "avg_images_per_species": 87.01596638655462,
+      "total_size_gb": 1.1869378369301558,
+      "by_kingdom": {
+        "Plantae": {
+          "species": 3450,
+          "images": 297320
+        },
+        "Bacteria": {
+          "species": 3,
+          "images": 176
+        },
+        "Fungi": {
+          "species": 112,
+          "images": 12675
+        },
+        "Chromista": {
+          "species": 5,
+          "images": 476
+        }
+      },
+      "image_formats": {
+        "JPEG": 17103
+      },
+      "avg_width": 497,
+      "avg_height": 539,
+      "avg_megapixels": 0.2625785365725311
+    },
+    "caution": "Metadata rows are not verified image-bearing classes. The repository statistics and landing-page descriptions differ; verify archive before using either as a training count."
+  },
+  "tdtu": {
+    "qa_rows": 29151,
+    "unique_image_paths": 3790,
+    "split_counts": {
+      "train": {
+        "qa_rows": 23271,
+        "unique_image_paths": 3032
+      },
+      "val": {
+        "qa_rows": 2954,
+        "unique_image_paths": 379
+      },
+      "test": {
+        "qa_rows": 2926,
+        "unique_image_paths": 379
+      }
+    },
+    "filename_overlap": {
+      "train__val": 0,
+      "train__test": 0,
+      "val__test": 0
+    },
+    "identity_conflicts": [],
+    "exact_name_candidate_images": 69,
+    "species_with_exact_name_candidates": 19,
+    "ambiguous_substring_images_not_assigned": 56,
+    "note": "Counts are label-based retrieval candidates, not verified botanical identifications. Disjoint paths do not establish disjoint pixels, plants, or sessions."
+  },
+  "species": [
+    {
+      "species_id": "VN001",
+      "name_vi": "Rau má",
+      "scientific_name": "Centella asiatica",
+      "priority": 1,
+      "exact_vi_aliases": [
+        "rau má"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/rau-ma",
+      "extra_views": [
+        "leaf_lower",
+        "stem_node",
+        "whole_plant"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "3034128",
+          "canonicalName": "Centella asiatica",
+          "vietnameseName": "Rau má , Xà lách dây",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN002",
+      "name_vi": "Diếp cá",
+      "scientific_name": "Houttuynia cordata",
+      "priority": 1,
+      "exact_vi_aliases": [
+        "diếp cá",
+        "dấp cá"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/diep-ca",
+      "extra_views": [
+        "stem_node",
+        "flower",
+        "whole_plant"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "5384931",
+          "canonicalName": "Houttuynia cordata",
+          "vietnameseName": "Diếp cá, Lá giấp, Co vầy mèo (Thái), Ngư tinh thảo, Tập thái, Rau vẹn, Phiăc hoảy (Tày), Cù mua mín (Dao)",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN003",
+      "name_vi": "Tía tô",
+      "scientific_name": "Perilla frutescens",
+      "priority": 1,
+      "exact_vi_aliases": [
+        "tía tô"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/tia",
+      "extra_views": [
+        "leaf_lower",
+        "stem_node",
+        "flower"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "5341394",
+          "canonicalName": "Perilla frutescens",
+          "vietnameseName": "Tía tô nhọn",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN004",
+      "name_vi": "Húng chanh",
+      "scientific_name": "Coleus amboinicus",
+      "priority": 1,
+      "exact_vi_aliases": [
+        "húng chanh",
+        "tần dày lá",
+        "rau tần dày lá"
+      ],
+      "scientific_aliases": [
+        "Plectranthus amboinicus"
+      ],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/hung-chanh",
+      "extra_views": [
+        "leaf_lower",
+        "stem_node",
+        "whole_plant"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "5341313",
+          "canonicalName": "Coleus amboinicus",
+          "vietnameseName": "Húng chanh, Rau tần dày lá, Rau thơm lông, Dương tử tô",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN005",
+      "name_vi": "Lá lốt",
+      "scientific_name": "Piper sarmentosum",
+      "priority": 1,
+      "exact_vi_aliases": [
+        "lá lốt"
+      ],
+      "scientific_aliases": [
+        "Piper lolot"
+      ],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/la-lot",
+      "extra_views": [
+        "stem_node",
+        "flower",
+        "whole_plant"
+      ],
+      "review_note": "Vietnamese name differs in VietMedi metadata; never resolve from name alone.",
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "4191172",
+          "canonicalName": "Piper sarmentosum",
+          "vietnameseName": "Lốt rừng, Trầu giả",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN006",
+      "name_vi": "Trầu không",
+      "scientific_name": "Piper betle",
+      "priority": 1,
+      "exact_vi_aliases": [
+        "trầu không"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/trau-khong",
+      "extra_views": [
+        "stem_node",
+        "whole_plant"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "4187904",
+          "canonicalName": "Piper betle",
+          "vietnameseName": "Trầu không, Trầu lương, Trầu cay, Thổ lâu đằng, Phù lưu, Mjầu (Tày), Lau (Dao)",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN007",
+      "name_vi": "Lô hội",
+      "scientific_name": "Aloe vera",
+      "priority": 1,
+      "exact_vi_aliases": [
+        "lô hội",
+        "nha đam"
+      ],
+      "scientific_aliases": [
+        "Aloe barbadensis"
+      ],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/lo-hoi",
+      "extra_views": [
+        "leaf_margin",
+        "whole_plant",
+        "flower"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "2777724",
+          "canonicalName": "Aloe vera",
+          "vietnameseName": "Lô hội; nha đam; Nha đảm",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN008",
+      "name_vi": "Thuốc bỏng",
+      "scientific_name": "Kalanchoe pinnata",
+      "priority": 1,
+      "exact_vi_aliases": [
+        "thuốc bỏng",
+        "sống đời",
+        "trường sinh"
+      ],
+      "scientific_aliases": [
+        "Bryophyllum pinnatum"
+      ],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/truong-sinh",
+      "extra_views": [
+        "leaf_margin",
+        "stem_node",
+        "flower"
+      ],
+      "review_note": "Sống đời/Trường sinh are ambiguous horticultural names; exact text is retrieval only, not a botanical confirmation.",
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "2985930",
+          "canonicalName": "Kalanchoe pinnata",
+          "vietnameseName": "Thuốc bỏng, Sống đời, Trường sinh, Diệp sinh căn, Dã bất tử, Tầu púa sung (Dao)",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN009",
+      "name_vi": "Cỏ nhọ nồi",
+      "scientific_name": "Eclipta prostrata",
+      "priority": 1,
+      "exact_vi_aliases": [
+        "cỏ nhọ nồi",
+        "nhọ nồi",
+        "cỏ mực"
+      ],
+      "scientific_aliases": [
+        "Eclipta alba"
+      ],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/co-muc",
+      "extra_views": [
+        "stem_node",
+        "flower",
+        "fruit"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "5384950",
+          "canonicalName": "Eclipta prostrata",
+          "vietnameseName": "Cỏ nhọ nồi, Cỏ mực",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN010",
+      "name_vi": "Xuyên tâm liên",
+      "scientific_name": "Andrographis paniculata",
+      "priority": 1,
+      "exact_vi_aliases": [
+        "xuyên tâm liên"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/xuyen-tam-lien",
+      "extra_views": [
+        "stem_node",
+        "flower",
+        "fruit"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "3173178",
+          "canonicalName": "Andrographis paniculata",
+          "vietnameseName": "Xuyên tâm liên; Công cộng, Nguyễn cộng; Cây lá đắng, khổ đởm thảo",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN011",
+      "name_vi": "Ích mẫu",
+      "scientific_name": "Leonurus japonicus",
+      "priority": 1,
+      "exact_vi_aliases": [
+        "ích mẫu"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/ich-mau",
+      "extra_views": [
+        "stem_node",
+        "flower",
+        "whole_plant"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "6410563",
+          "canonicalName": "Leonurus japonicus",
+          "vietnameseName": "Ích mẫu",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN012",
+      "name_vi": "Râu mèo",
+      "scientific_name": "Orthosiphon aristatus",
+      "priority": 1,
+      "exact_vi_aliases": [
+        "râu mèo",
+        "râu mèo xoắn"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/rau-meo",
+      "extra_views": [
+        "stem_node",
+        "flower",
+        "whole_plant"
+      ],
+      "review_note": "Keep source names Orthosiphon stamineus/spiralis for expert reconciliation; no automatic synonym merge in this release.",
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "7308026",
+          "canonicalName": "Orthosiphon aristatus",
+          "vietnameseName": "Râu mèo xoắn",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 5,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN013",
+      "name_vi": "Gừng",
+      "scientific_name": "Zingiber officinale",
+      "priority": 2,
+      "exact_vi_aliases": [
+        "gừng"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/gung",
+      "extra_views": [
+        "whole_plant",
+        "rhizome",
+        "flower"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "2757280",
+          "canonicalName": "Zingiber officinale",
+          "vietnameseName": "Gừng, Khương, Co khinh (Thái), Sung (Dao)",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 5,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN014",
+      "name_vi": "Nghệ vàng",
+      "scientific_name": "Curcuma longa",
+      "priority": 2,
+      "exact_vi_aliases": [
+        "nghệ",
+        "nghệ vàng"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/nghe",
+      "extra_views": [
+        "whole_plant",
+        "rhizome",
+        "flower"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "2757624",
+          "canonicalName": "Curcuma longa",
+          "vietnameseName": "Nghệ, Nghệ nhà, Khương hoàng, Co khản mỉn, Co hem (Thái), Uất kim, Khinh lương (Tày)",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 6,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN015",
+      "name_vi": "Sả chanh",
+      "scientific_name": "Cymbopogon citratus",
+      "priority": 2,
+      "exact_vi_aliases": [
+        "sả chanh"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://powo.science.kew.org/taxon/396896-1",
+      "extra_views": [
+        "leaf_base",
+        "whole_plant"
+      ],
+      "review_note": "Sả alone is an ambiguous common name; distinguish other Cymbopogon species.",
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "2705275",
+          "canonicalName": "Cymbopogon citratus",
+          "vietnameseName": "Sả, Hương mao, Phiắc châu (Thái), Cà phéc (Tày), Sả chanh",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 5,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN016",
+      "name_vi": "Ổi",
+      "scientific_name": "Psidium guajava",
+      "priority": 2,
+      "exact_vi_aliases": [
+        "ổi"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://mplant.ump.edu.vn/index.php/oi-psidium-guajava-myrtaceae/",
+      "extra_views": [
+        "stem_bark",
+        "flower",
+        "fruit"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "5420380",
+          "canonicalName": "Psidium guajava",
+          "vietnameseName": "Ổi, Phan thạch lựu, Co ổi (Thái), Mác ổi (Tày), Mù úi piếu (Dao)",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 0,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN017",
+      "name_vi": "Dâu tằm",
+      "scientific_name": "Morus alba",
+      "priority": 2,
+      "exact_vi_aliases": [
+        "dâu tằm"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/dau-tam",
+      "extra_views": [
+        "stem_node",
+        "fruit",
+        "whole_plant"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "5361889",
+          "canonicalName": "Morus alba",
+          "vietnameseName": "Dâu tằm, Tang, Dâu tàu, Mạy mọn, Mạy bơ (Tày), Co mọn (Thái), Nằn phong (Dao)",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN018",
+      "name_vi": "Bụp giấm",
+      "scientific_name": "Hibiscus sabdariffa",
+      "priority": 2,
+      "exact_vi_aliases": [
+        "bụp giấm"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/bup-giam",
+      "extra_views": [
+        "stem_node",
+        "flower",
+        "fruit"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "3152582",
+          "canonicalName": "Hibiscus sabdariffa",
+          "vietnameseName": "Bụp giấm",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 6,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN019",
+      "name_vi": "Đậu biếc",
+      "scientific_name": "Clitoria ternatea",
+      "priority": 2,
+      "exact_vi_aliases": [
+        "đậu biếc"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/dau-biec",
+      "extra_views": [
+        "whole_plant",
+        "flower",
+        "fruit"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "2946519",
+          "canonicalName": "Clitoria ternatea",
+          "vietnameseName": "Đậu biếc, Dây bông biếc, Diệp dáo, Đậu điệp.",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    },
+    {
+      "species_id": "VN020",
+      "name_vi": "Chùm ngây",
+      "scientific_name": "Moringa oleifera",
+      "priority": 2,
+      "exact_vi_aliases": [
+        "chùm ngây"
+      ],
+      "scientific_aliases": [],
+      "profile_url": "https://pharmacy.tdtu.edu.vn/duoc-lieu/chum-ngay",
+      "extra_views": [
+        "whole_plant",
+        "flower",
+        "fruit"
+      ],
+      "vms_metadata_matches": [
+        {
+          "speciesKey": "3054181",
+          "canonicalName": "Moringa oleifera",
+          "vietnameseName": "chùm ngây, bổn bồn",
+          "taxonomicStatus": "ACCEPTED",
+          "kingdom": "Plantae"
+        }
+      ],
+      "vms_verified_image_count": null,
+      "tdtu_exact_name_candidate_images": 3,
+      "verified_training_images_this_audit": 0,
+      "status": "candidate_pending_image_inventory"
+    }
+  ]
+}
